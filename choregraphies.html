@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Catalogue des chorégraphies — 56 chansons d'ouverture de bal | Ouverture de Bal</title>
+  <meta name="description" content="56 chorégraphies pour votre ouverture de bal : valse, slow, rock, MIX. Sur les plus belles chansons de mariage. Filtres et tri par popularité. Dès 89€." />
+  <meta property="og:title" content="Catalogue des chorégraphies — Ouverture de Bal" />
+  <meta property="og:description" content="56 chorégraphies pour votre ouverture de bal. Filtres, tri, accès à vie." />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="fr_FR" />
+  <link rel="canonical" href="https://ouverturedebal-mariage.fr/choregraphies.html" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/main.css" />
+</head>
+<body>
+
+<header class="nav">
+  <div class="container nav__inner">
+    <a href="index.html" class="logo">Ouverture de Bal<span class="logo__dot">.</span></a>
+    <nav class="nav__menu" data-menu aria-label="Menu principal">
+      <a href="choregraphies.html" aria-current="page">Chorégraphies</a>
+      <a href="formules.html">Formules</a>
+      <a href="blog.html">Blog</a>
+      <a href="a-propos.html">À propos</a>
+    </nav>
+    <div class="nav__cta">
+      <a href="choregraphies.html" class="btn btn--dark btn--sm">Commencer <span class="arrow">→</span></a>
+      <button class="burger" data-burger aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+</header>
+
+<main>
+
+<section class="catalogue-page">
+  <div class="container">
+
+    <header class="catalogue-page-header">
+      <div class="eyebrow">— LE CATALOGUE</div>
+      <h1>Choisissez votre <em>chorégraphie</em>.</h1>
+      <p class="catalogue-page-intro">56 chorégraphies sur les plus belles chansons d'ouverture de bal. Trouvez la vôtre.</p>
+    </header>
+
+    <div class="catalogue-search">
+      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#8A7968" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <circle cx="11" cy="11" r="8"/>
+        <path d="m21 21-4.35-4.35"/>
+      </svg>
+      <input type="text" id="search-input" placeholder="Rechercher une chanson ou un artiste…" aria-label="Rechercher" autocomplete="off" />
+      <button class="search-clear" id="search-clear" hidden aria-label="Effacer la recherche">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#8A7968" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+          <line x1="18" y1="6" x2="6" y2="18"/>
+          <line x1="6" y1="6" x2="18" y2="18"/>
+        </svg>
+      </button>
+    </div>
+
+    <div class="catalogue-toolbar">
+      <div class="catalogue-filters" role="tablist" aria-label="Filtrer le catalogue">
+        <button class="filter-btn active" data-filter="all">Toutes (56)</button>
+        <button class="filter-btn" data-filter="new">Nouveautés</button>
+        <button class="filter-btn" data-filter="bestseller">Bestsellers</button>
+        <button class="filter-btn" data-filter="valse">Valse</button>
+        <button class="filter-btn" data-filter="slow">Slow</button>
+        <button class="filter-btn" data-filter="rock">Rock &amp; énergique</button>
+        <button class="filter-btn" data-filter="francais">Francophone</button>
+        <button class="filter-btn" data-filter="mix">MIX</button>
+      </div>
+
+      <div class="catalogue-sort">
+        <label for="sort-select">Trier par :</label>
+        <select id="sort-select">
+          <option value="popular">Plus populaires</option>
+          <option value="new">Nouveautés</option>
+          <option value="az">A → Z</option>
+          <option value="za">Z → A</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="catalogue-results-count" id="results-count" aria-live="polite"></div>
+
+    <div class="catalogue-grid" id="catalogue-grid"></div>
+
+    <div class="catalogue-empty" id="catalogue-empty" hidden>
+      <p>Aucune chorégraphie ne correspond à votre recherche.</p>
+      <button class="reset-btn" id="reset-btn">Réinitialiser les filtres</button>
+    </div>
+
+  </div>
+</section>
+
+</main>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer__top">
+      <div class="footer__brand">
+        <a href="index.html" class="logo">Ouverture de Bal<span class="logo__dot">.</span></a>
+        <p class="footer__tagline">Apprenez votre première danse, depuis chez vous.</p>
+      </div>
+      <div class="footer__col"><h4>Explorer</h4><ul><li><a href="choregraphies.html">Chorégraphies</a></li><li><a href="formules.html">Formules</a></li><li><a href="blog.html">Blog</a></li><li><a href="faq.html">FAQ</a></li></ul></div>
+      <div class="footer__col"><h4>À propos</h4><ul><li><a href="a-propos.html">Notre méthode</a></li><li><a href="contact.html">Contact</a></li><li><a href="legal/mentions-legales.html">Mentions légales</a></li><li><a href="legal/cgv.html">CGV</a></li></ul></div>
+      <div class="footer__col"><h4>Social</h4><ul><li><a href="https://instagram.com/" rel="noopener" target="_blank">Instagram</a></li><li><a href="https://youtube.com/" rel="noopener" target="_blank">YouTube</a></li><li><a href="https://tiktok.com/" rel="noopener" target="_blank">TikTok</a></li><li><a href="https://pinterest.com/" rel="noopener" target="_blank">Pinterest</a></li></ul></div>
+    </div>
+    <div class="footer__bottom">
+      <span>© 2026 Ouverture de Bal — Tous droits réservés.</span>
+      <div class="footer__bottom-links">
+        <a href="legal/mentions-legales.html">Mentions légales</a>
+        <a href="legal/cgv.html">CGV</a>
+        <a href="legal/politique-confidentialite.html">Confidentialité</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="assets/js/menu.js" defer></script>
+<script src="assets/js/catalogue.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+# Phase de développement - À modifier au lancement officiel
+Sitemap: https://ouverturedebal-mariage.fr/sitemap.xml
