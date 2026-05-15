@@ -1828,6 +1828,122 @@ body {
 }
 
 /* ============================================
+   LEGAL PAGES (mentions, CGV, confidentialité)
+============================================ */
+.legal-page {
+  background: #FBF8F3;
+  padding: 60px 48px 100px;
+  min-height: 100vh;
+}
+
+.legal-page .container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding-inline: 0;
+}
+
+.legal-header {
+  text-align: center;
+  margin-bottom: 56px;
+  padding-bottom: 32px;
+  border-bottom: 0.5px solid #E8DCD0;
+}
+
+.legal-header .eyebrow {
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  letter-spacing: 2.5px;
+  color: #A8364C;
+  font-weight: 500;
+  margin-bottom: 16px;
+}
+
+.legal-header h1 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: clamp(36px, 5vw, 52px);
+  color: #2B1F17;
+  font-weight: 400;
+  letter-spacing: -0.6px;
+  line-height: 1.1;
+  margin: 0 0 16px 0;
+}
+
+.legal-updated {
+  font-family: 'Inter', sans-serif;
+  font-size: 13px;
+  color: #8A7968;
+  font-style: italic;
+  margin: 0;
+}
+
+.legal-content {
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+  color: #2B1F17;
+  line-height: 1.7;
+}
+
+.legal-content section {
+  margin-bottom: 48px;
+}
+
+.legal-content h2 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 26px;
+  color: #2B1F17;
+  font-weight: 500;
+  margin: 0 0 16px 0;
+  letter-spacing: -0.3px;
+}
+
+.legal-content h3 {
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  color: #2B1F17;
+  font-weight: 600;
+  margin: 24px 0 12px 0;
+}
+
+.legal-content p {
+  margin: 0 0 16px 0;
+}
+
+.legal-content ul,
+.legal-content ol {
+  padding-left: 24px;
+  margin-bottom: 16px;
+}
+
+.legal-content li {
+  margin-bottom: 8px;
+}
+
+.legal-content a {
+  color: #A8364C;
+  text-decoration: underline;
+}
+
+.legal-content a:hover {
+  opacity: 0.8;
+}
+
+.legal-content strong {
+  font-weight: 500;
+  color: #2B1F17;
+}
+
+.legal-content em {
+  font-style: italic;
+  color: #6B5D52;
+}
+
+@media (max-width: 640px) {
+  .legal-page {
+    padding: 40px 20px 60px;
+  }
+}
+
+/* ============================================
    RESPONSIVE
 ============================================ */
 @media (max-width: 960px) {
