@@ -2,6 +2,31 @@
 @import url('variables.css?v=3');
 @import url('components.css?v=3');
 
+/* ========================================
+   OVERRIDE : + verts sur les bonus formules
+   (placé ici pour bypass cache de components.css)
+======================================== */
+body .formule__features li.formule__feature--bonus::before {
+  content: '+' !important;
+  display: inline-block !important;
+  width: auto !important;
+  min-width: 14px !important;
+  height: auto !important;
+  background: transparent !important;
+  color: #639922 !important;
+  font-weight: 600 !important;
+  font-size: 1.1em !important;
+  line-height: 1.4 !important;
+  margin-top: 0 !important;
+  opacity: 1 !important;
+  flex-shrink: 0 !important;
+  text-align: center !important;
+}
+
+body .formule--featured .formule__features li.formule__feature--bonus::before {
+  color: #97C459 !important;
+}
+
 /* ============================================
    BASE
 ============================================ */
