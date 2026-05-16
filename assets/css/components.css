@@ -436,13 +436,18 @@ a:hover .arrow,
 }
 
 .formule__features li.formule__feature--bonus::before {
-  content: '+';
-  display: inline-block;
+  content: '+' !important;
+  display: inline-block !important;
+  width: auto !important;
   min-width: 14px;
+  height: auto !important;
+  background: transparent !important;
   color: #639922;
   font-weight: 600;
   font-size: 1.1em;
   line-height: 1.4;
+  margin-top: 0 !important;
+  opacity: 1 !important;
   flex-shrink: 0;
   text-align: center;
 }
