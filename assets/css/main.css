@@ -2182,6 +2182,40 @@ body {
   font-style: italic;
 }
 
+.blog-post table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 28px 0;
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+}
+
+.blog-post table th,
+.blog-post table td {
+  text-align: left;
+  padding: 14px 16px;
+  border-bottom: 0.5px solid #E8DCD0;
+  vertical-align: top;
+}
+
+.blog-post table th {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 17px;
+  font-weight: 500;
+  color: #2B1F17;
+  background: #F5EDE3;
+  border-bottom: 1px solid #E8DCD0;
+}
+
+.blog-post table td {
+  color: #2B1F17;
+  line-height: 1.5;
+}
+
+.blog-post table td strong {
+  color: #A8364C;
+}
+
 @media (max-width: 640px) {
   .blog-post {
     padding: 40px 20px 60px;
