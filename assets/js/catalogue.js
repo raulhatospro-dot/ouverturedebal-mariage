@@ -3,13 +3,13 @@
     // TIER S — Bestsellers & New 2025
     { id: 1, title: "Ordinary", artist: "Alex Warren", style: "slow", tags: ["new"], rank: 1 },
     { id: 2, title: "Die With A Smile", artist: "Lady Gaga & Bruno Mars", style: "valse", tags: ["bestseller"], rank: 2 },
-    { id: 3, title: "Beautiful Things", artist: "Benson Boone", style: "slow", tags: ["bestseller"], rank: 3 },
+    { id: 3, title: "Beautiful Things", artist: "Benson Boone", style: "slow", tags: ["bestseller"], rank: 3, slug: "beautiful-things-benson-boone" },
     { id: 4, title: "Carry You Home", artist: "Alex Warren", style: "slow", tags: ["new"], rank: 4 },
     { id: 5, title: "Can't Help Falling In Love", artist: "Elvis Presley", style: "valse", tags: ["bestseller"], rank: 5 },
     { id: 6, title: "Hold My Hand", artist: "Lady Gaga (Top Gun)", style: "valse", tags: ["bestseller"], rank: 6 },
     { id: 7, title: "Young and Beautiful", artist: "Lana Del Rey", style: "slow", tags: ["bestseller"], rank: 7 },
-    { id: 8, title: "A Thousand Years", artist: "Christina Perri", style: "valse", tags: ["bestseller"], rank: 8 },
-    { id: 9, title: "Perfect", artist: "Ed Sheeran (version simple)", style: "valse", tags: ["bestseller"], rank: 9 },
+    { id: 8, title: "A Thousand Years", artist: "Christina Perri", style: "valse", tags: ["bestseller"], rank: 8, slug: "a-thousand-years-christina-perri" },
+    { id: 9, title: "Perfect", artist: "Ed Sheeran (version simple)", style: "valse", tags: ["bestseller"], rank: 9, slug: "perfect-ed-sheeran" },
     { id: 10, title: "You Are The Reason", artist: "Calum Scott", style: "slow", tags: ["bestseller"], rank: 10 },
     { id: 11, title: "Can I Have This Dance", artist: "High School Musical", style: "slow", tags: ["bestseller"], rank: 11 },
     { id: 12, title: "Rewrite The Stars", artist: "Anne-Marie & James Arthur", style: "slow", tags: ["bestseller"], rank: 12 },
@@ -25,14 +25,14 @@
     { id: 22, title: "I Don't Want to Miss a Thing", artist: "Aerosmith", style: "slow", tags: ["bestseller"], rank: 22 },
     { id: 23, title: "Can't Take My Eyes Off You", artist: "Frankie Valli", style: "rock", tags: ["bestseller"], rank: 23 },
     { id: 24, title: "The Time of My Life", artist: "Dirty Dancing", style: "rock", tags: ["new"], rank: 24 },
-    { id: 25, title: "Love Story", artist: "Indila", style: "slow", tags: ["bestseller", "francais"], rank: 25 },
-    { id: 26, title: "All of Me", artist: "John Legend (version simple)", style: "slow", tags: ["bestseller"], rank: 26 },
+    { id: 25, title: "Love Story", artist: "Indila", style: "slow", tags: ["bestseller", "francais"], rank: 25, slug: "love-story-indila" },
+    { id: 26, title: "All of Me", artist: "John Legend (version simple)", style: "slow", tags: ["bestseller"], rank: 26, slug: "all-of-me-john-legend" },
     { id: 27, title: "Ordinary (version mariage)", artist: "Alex Warren", style: "slow", tags: ["new"], rank: 27 },
     { id: 28, title: "You're Still The One", artist: "Teddy Swims", style: "slow", tags: ["new"], rank: 28 },
     { id: 29, title: "Thinking Out Loud", artist: "Ed Sheeran", style: "slow", tags: ["bestseller"], rank: 29 },
     { id: 30, title: "At Last", artist: "Etta James", style: "slow", tags: [], rank: 30 },
     { id: 31, title: "Perfect Duet", artist: "Ed Sheeran (version longue)", style: "valse", tags: [], rank: 31 },
-    { id: 32, title: "All of Me", artist: "John Legend (original)", style: "slow", tags: [], rank: 32 },
+    { id: 32, title: "All of Me", artist: "John Legend (original)", style: "slow", tags: [], rank: 32, slug: "all-of-me-john-legend" },
     { id: 33, title: "Lover", artist: "Taylor Swift", style: "slow", tags: [], rank: 33 },
     { id: 34, title: "Wildest Dreams (Bridgerton)", artist: "Duomo", style: "valse", tags: [], rank: 34 },
     { id: 35, title: "Lifetime", artist: "Justin Bieber", style: "slow", tags: [], rank: 35 },
@@ -45,7 +45,7 @@
     { id: 42, title: "Stumblin' In", artist: "Chris Norman & Suzi Quatro", style: "rock", tags: [], rank: 42 },
     { id: 43, title: "Stumblin' In", artist: "CYRIL (version moderne)", style: "rock", tags: [], rank: 43 },
     { id: 44, title: "Hallelujah", artist: "Alexandra Burke", style: "slow", tags: [], rank: 44 },
-    { id: 45, title: "Marry You", artist: "Bruno Mars", style: "rock", tags: [], rank: 45 },
+    { id: 45, title: "Marry You", artist: "Bruno Mars", style: "rock", tags: [], rank: 45, slug: "marry-you-bruno-mars" },
     { id: 46, title: "Photograph", artist: "Ed Sheeran", style: "slow", tags: [], rank: 46 },
     { id: 47, title: "Love Me Like You Do", artist: "Ellie Goulding", style: "slow", tags: [], rank: 47 },
     { id: 48, title: "Make You Feel My Love", artist: "Adele", style: "slow", tags: [], rank: 48 },
@@ -133,25 +133,33 @@
         ? '<span class="card-badge card-badge-best">Bestseller</span>'
         : "";
 
-    return `
-      <article class="choreo-card">
-        <div class="choreo-card-visual" style="background: ${color};">
-          <span class="choreo-style-badge">${styleLabel}</span>
-          ${flag}
-          <button class="choreo-play" aria-label="Voir un aperçu de ${escapeHtml(c.title)}">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="#FBF8F3" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
-          </button>
+    const hasPage = Boolean(c.slug);
+    const cta = hasPage
+      ? '<span class="choreo-modules">Découvrir →</span>'
+      : '<span class="choreo-modules choreo-modules--soon">Bientôt</span>';
+
+    const cardInner = `
+      <div class="choreo-card-visual" style="background: ${color};">
+        <span class="choreo-style-badge">${styleLabel}</span>
+        ${flag}
+        <button class="choreo-play" aria-label="Voir un aperçu de ${escapeHtml(c.title)}"${hasPage ? '' : ' disabled'}>
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="#FBF8F3" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
+        </button>
+      </div>
+      <div class="choreo-card-info">
+        <h3 class="choreo-title">${escapeHtml(c.title)}</h3>
+        <p class="choreo-artist">${escapeHtml(c.artist)}</p>
+        <div class="choreo-footer">
+          <span class="choreo-price">${price}€</span>
+          ${cta}
         </div>
-        <div class="choreo-card-info">
-          <h3 class="choreo-title">${escapeHtml(c.title)}</h3>
-          <p class="choreo-artist">${escapeHtml(c.artist)}</p>
-          <div class="choreo-footer">
-            <span class="choreo-price">${price}€</span>
-            <span class="choreo-modules">Voir →</span>
-          </div>
-        </div>
-      </article>
+      </div>
     `;
+
+    if (hasPage) {
+      return `<a class="choreo-card choreo-card--linked" href="choregraphies/${c.slug}.html" aria-label="Découvrir la chorégraphie ${escapeHtml(c.title)}">${cardInner}</a>`;
+    }
+    return `<article class="choreo-card choreo-card--soon" aria-label="${escapeHtml(c.title)}, fiche bientôt disponible">${cardInner}</article>`;
   }
 
   function render() {

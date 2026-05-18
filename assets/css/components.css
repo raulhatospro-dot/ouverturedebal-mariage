@@ -14,10 +14,7 @@
 }
 
 .label::before {
-  content: '';
-  width: 18px;
-  height: 1px;
-  background: var(--accent-bordeaux);
+  display: none;
 }
 
 .label--muted {

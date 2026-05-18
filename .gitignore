@@ -5,3 +5,6 @@ node_modules/
 .vscode/
 .idea/
 Thumbs.db
+
+# Notes internes (pas pour le site public)
+notes/

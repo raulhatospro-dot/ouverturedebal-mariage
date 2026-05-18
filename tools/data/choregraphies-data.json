@@ -1,0 +1,1200 @@
+{
+  "songs": [
+    {
+      "slug": "perfect-ed-sheeran",
+      "title": "Perfect",
+      "artist": "Ed Sheeran",
+      "year": 2017,
+      "duration": "3:23",
+      "bpm": 95,
+      "bpm_felt": 95,
+      "time_signature": "4/4 dansable 3/4",
+      "style": "slow",
+      "style_label": "Slow chorégraphié",
+      "level": "débutant",
+      "preparation_weeks": "6 à 10",
+      "price": 89,
+      "modules": 8,
+      "course_duration": "1h 45",
+      "review_count": 187,
+      "visual_color": "peach-1",
+
+      "seo_title": "Chorégraphie ouverture de bal sur Perfect (Ed Sheeran) | Slow débutant 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur Perfect d'Ed Sheeran. Slow chorégraphié niveau débutant, 8 modules vidéo, version 3:23. Accès à vie. 89€.",
+      "og_title": "Chorégraphie Perfect, Ed Sheeran",
+      "og_description": "Slow chorégraphié sur Perfect d'Ed Sheeran. 8 modules, 5 Parts, 32 figures, version 3:23. Garantie 14 jours.",
+
+      "hero_intro": "Perfect d'Ed Sheeran est le standard incontournable des premières danses de mariage depuis 2017. Sa mélodie de guitare limpide et son tempo modéré offrent un cadre confortable, même pour des couples qui apprennent à danser ensemble. La version chorégraphiée fait 3:23, format idéal pour une ouverture de bal.",
+
+      "song_anecdote": "Ed Sheeran a écrit Perfect en 2017 pour Cherry Seaborn, sa femme qu'il fréquente depuis l'adolescence. Il dit l'avoir composée chez lui dans le Suffolk, en regardant sa fiancée endormie. Sortie sur l'album ÷ (Divide), la chanson est devenue en quelques mois la première danse la plus jouée dans les mariages anglo-saxons, puis francophones. Il en existe aussi un duo officiel avec Beyoncé et une version italienne avec Andrea Bocelli.",
+
+      "song_wedding_reason": "Ce qui rend Perfect particulièrement sûre pour une première danse, c'est d'abord son tempo. À 95 BPM ressentis, le morceau est confortable, ni trop lent (vous ne vous endormirez pas sur la piste), ni trop rapide (vous n'aurez pas à courir). Sa structure musicale a quatre paliers nets (intro, pré-chorus, chorus, crescendo), faciles à repérer dans les pas. Le tempo reste stable du début à la fin, sans changement de rythme à anticiper, ce qui rassure les danseurs qui apprennent.",
+
+      "music_intro": "Voici comment la chanson est construite. Connaître ces grands paliers aide à placer ses mouvements sur les bons moments, sans se perdre.",
+      "music_timeline": [
+        {"label": "Intro guitare", "details": "Guitare classique seule. C'est l'entrée du couple sur la piste, la voix démarre tranquillement."},
+        {"label": "Couplet et pré-refrain", "details": "La musique respire. Le violoncelle entre en douceur, l'instrumentation s'enrichit progressivement avant le pic."},
+        {"label": "Refrain (pic émotionnel)", "details": "L'orchestre s'ouvre, la batterie discrète arrive. C'est le bon moment pour une figure marquante (plank, lift)."},
+        {"label": "Crescendo et dernière note tenue", "details": "Pic instrumental, puis dernière note tenue. C'est le signal du dip final, à tenir 2 secondes après le silence."}
+      ],
+      "music_notes": [
+        "Le tempo reste stable du début à la fin (95 BPM ressentis). Pas d'accélération ou de ralentissement à anticiper, c'est confortable pour des danseurs débutants.",
+        "Le pic émotionnel arrive sur le crescendo final. C'est là que placer votre figure la plus spectaculaire : deuxième lift, swan, ou dip final.",
+        "La dernière note tenue à la fin est votre signal pour le dip final. Synchronisez le pic du dip pile sur cet instant et tenez la pose 2 secondes après le silence."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Cette chorégraphie suit l'arc classique en cinq actes : rencontre, découverte, intimité, énergie, apothéose. Chaque Part dure entre 20 et 95 secondes, alignée sur les transitions musicales de la version 3:23. Les figures sont toutes accessibles à des débutants, avec deux portés et leurs alternatives sans porté.",
+      "choreo_arc": [
+        {"num": 1, "title": "Rencontre", "time": "0:00–0:30", "mood": "Calme", "key": "Approche, cadre, premier tour"},
+        {"num": 2, "title": "Découverte", "time": "0:30–0:50", "mood": "Tendresse", "key": "Catwalk, plank, basket"},
+        {"num": 3, "title": "Intimité", "time": "0:50–1:17", "mood": "Émotion", "key": "Shadow, hairbrushes, disconnect"},
+        {"num": 4, "title": "Énergie", "time": "1:17–1:48", "mood": "Élan", "key": "Walking, premier lift, tilt"},
+        {"num": 5, "title": "Apothéose", "time": "1:48–3:23", "mood": "Climax", "key": "Crescendo, lift block, swan, dip final"}
+      ],
+      "choreo_parts": [
+        {
+          "num": 1,
+          "title": "Rencontre",
+          "time": "0:00 – 0:30",
+          "music_description": "Intro guitare et début du couplet 1. Voix seule sur guitare classique, peu d'instruments. Vous arrivez tranquillement sur la piste, sans presser.",
+          "figures": [
+            {"name": "Steps towards each other", "desc": "Trois pas qui rapprochent les partenaires depuis leur entrée sur la piste. Démarrez la marche pile sur le premier mot « I » de la chanson."},
+            {"name": "Hands", "desc": "Prise de mains, regard direct dans les yeux. Pause de 4 temps pour s'installer ensemble dans la danse."},
+            {"name": "Closed position", "desc": "Passage en cadre fermé, position de valse classique. Main du marié sur l'omoplate de la mariée, main de la mariée sur son épaule."},
+            {"name": "Steps in rotation", "desc": "Quatre pas tournants doux dans le sens horaire. Restez détendus, c'est juste pour habituer le couple à se mouvoir ensemble."},
+            {"name": "Lady's turn", "desc": "Le premier tour de la mariée, qui ouvre officiellement la chorégraphie. Synchronisez ce tour sur le mot-clé « darling » chanté vers 0:33."},
+            {"name": "Open position", "desc": "Retour face à face, mains tenues. Point de respiration avant la Part 2. Profitez-en pour échanger un sourire."}
+          ],
+          "transition": "Vous terminez en open position, prêts pour la séquence catwalk et plank qui ouvre la Part 2. La musique va se densifier."
+        },
+        {
+          "num": 2,
+          "title": "Découverte",
+          "time": "0:30 – 0:50",
+          "music_description": "Fin du couplet 1, juste avant le pré-refrain. La voix commence à monter en intensité, on sent que la chanson prend de l'ampleur.",
+          "figures": [
+            {"name": "Basket position", "desc": "Croisement des mains devant le couple, position d'entrée fluide depuis l'open position."},
+            {"name": "Plank figure", "desc": "La première figure marquante. La mariée s'étire à l'horizontale, supportée par le marié. Pose tenue 2 temps. Synchronisez le pic du plank sur le mot « lead » (« follow my lead »)."},
+            {"name": "Lady on the catwalk", "desc": "La mariée fait quatre pas devant le marié comme sur un podium, regard porté loin. Moment théâtral qui fait toujours sourire les invités."},
+            {"name": "Steps in rotation", "desc": "Retour en cadre fermé, quatre pas tournants pour préparer la transition vers l'intimité de la Part 3."}
+          ],
+          "transition": "Le pré-refrain arrive (entrée du violoncelle). Le couple va ralentir volontairement en Part 3 pour créer la première vague d'émotion."
+        },
+        {
+          "num": 3,
+          "title": "Intimité",
+          "time": "0:50 – 1:17",
+          "music_description": "Pré-refrain. Le violoncelle entre, la musique respire plus largement. C'est la dernière respiration avant le pic émotionnel du refrain.",
+          "figures": [
+            {"name": "Shadow position", "desc": "Le marié se place derrière la mariée, mains délicatement sur sa taille. Position très intime, c'est ici que les invités proches captent l'émotion."},
+            {"name": "Hairbrushes", "desc": "Geste tendre où chacun « coiffe » l'autre du bout des doigts. Touche d'humour intime que vos amis comprendront."},
+            {"name": "Disconnect", "desc": "Les partenaires se séparent une mesure, se regardent, puis se reprennent. Le moment « manque de toi » de la chorégraphie."},
+            {"name": "Hands", "desc": "Reprise de mains, regard verrouillé. Vous êtes seuls au monde pendant 2 temps."},
+            {"name": "Tilt to the side", "desc": "Inclinaison lente de la mariée vers le côté, soutenue par le marié. Ne PAS faire un dip ici, juste un tilt. C'est la préparation au lift de la Part 4."}
+          ],
+          "transition": "Le refrain démarre dans 2 mesures (entrée de la batterie discrète). C'est votre signal pour relancer l'énergie en Part 4."
+        },
+        {
+          "num": 4,
+          "title": "Énergie",
+          "time": "1:17 – 1:48",
+          "music_description": "Refrain 1 : « Baby, I'm dancing in the dark… ». Premier pic émotionnel et instrumental. La batterie rentre, l'orchestre s'ouvre.",
+          "figures": [
+            {"name": "Lady's turn", "desc": "Tour en sortie de tilt, retour face à face avec énergie."},
+            {"name": "Walking in rotation", "desc": "Huit pas tournants ensemble, en marche élégante. Le couple « occupe » l'espace de la piste."},
+            {"name": "Steps in rotation", "desc": "Retour à des pas contenus pour préparer le premier lift."},
+            {"name": "Princess lift", "desc": "Le PREMIER LIFT de la chorégraphie. Le marié soulève la mariée bras tendus, jambes droites. Synchronisez le pic du lift sur le mot « dark » du refrain (vers 1:24)."},
+            {"name": "Open position", "desc": "Reposez la mariée au sol après le lift, mains tenues."},
+            {"name": "Half turn", "desc": "Demi-tour en cadre fermé pour préparer la jonction musicale juste avant le refrain final."}
+          ],
+          "transition": "Le morceau enchaîne sur le refrain final orchestré. La Part 5 va monter en intensité jusqu'au dip final synchronisé sur la dernière note tenue."
+        },
+        {
+          "num": 5,
+          "title": "Apothéose",
+          "time": "1:48 – 3:23",
+          "music_description": "Deuxième refrain orchestré (plus dense), bridge instrumental, crescendo final, puis dernière note tenue à la toute fin. C'est le pic émotionnel de la chanson.",
+          "figures": [
+            {"name": "Lady's right turn", "desc": "Un tour ample pour relancer l'énergie après la coupe musicale. Le geste doit être confiant, ouvert."},
+            {"name": "Walking in rotation", "desc": "Six pas tournants en marche élégante, en gardant le contact visuel."},
+            {"name": "Cradle", "desc": "La mariée est « berçée » brièvement dans les bras du marié, jambes au sol. Transition douce avant les lifts."},
+            {"name": "Body roll (mariée)", "desc": "Petit body roll élégant de la mariée pendant que le marié garde la position. Geste qui rajoute du caractère."},
+            {"name": "Closed position", "desc": "Retour en cadre fermé pour préparer le bloc final."},
+            {"name": "Half turn", "desc": "Demi-tour rapide qui amène les partenaires dans l'axe du deuxième lift."},
+            {"name": "Teddy bear lift", "desc": "Deuxième lift, version douce. La mariée est portée jambes repliées comme un nounours. C'est le pattern « lift block » classique : deux lifts d'affilée maximisent l'impact visuel."},
+            {"name": "Swan figure", "desc": "Pose « cygne » : la mariée arrondit son dos, bras déployés, le marié soutient. C'est la figure la plus universelle des chorégraphies de mariage."},
+            {"name": "Spin out", "desc": "La mariée sort en pivot vers l'extérieur du marié, mains tenues, pour préparer le dip final."},
+            {"name": "Steps in rotation", "desc": "Quatre derniers pas tournants pour caler le timing sur la dernière note."},
+            {"name": "Final dip", "desc": "Inclinaison finale de la mariée vers l'arrière, regard verrouillé dans les yeux du marié. Synchronisez le pic du dip pile sur la dernière note tenue (vers 3:18). Tenez la pose 2 secondes après le silence."}
+          ],
+          "transition": "Restez figés sur le dip pendant 2 secondes après la dernière note. C'est ce qui fait applaudir les invités, pas la danse elle-même. Puis relevez-vous lentement, regard partagé, sourire."
+        }
+      ],
+
+      "figures_intro": "Cette chorégraphie utilise 32 figures sur 5 Parts (moyenne de 6,4 figures par Part). Toutes les figures sont enseignées au ralenti sous deux angles (face et profil) dans les modules vidéo, avec leurs alternatives simplifiées.",
+      "figures_list": [
+        {"name": "Steps towards each other", "level": "BASE", "loc": "Part 1"},
+        {"name": "Hands", "level": "BASE", "loc": "Part 1, 3"},
+        {"name": "Closed position", "level": "BASE", "loc": "Part 1, 5"},
+        {"name": "Steps in rotation", "level": "BASE", "loc": "Part 1, 2, 4, 5"},
+        {"name": "Lady's turn", "level": "BASE", "loc": "Part 1, 4"},
+        {"name": "Open position", "level": "BASE", "loc": "Part 1, 4"},
+        {"name": "Basket position", "level": "BASE", "loc": "Part 2"},
+        {"name": "Plank figure", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Lady on the catwalk", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Shadow position", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Disconnect", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Walking in rotation", "level": "BASE", "loc": "Part 4, 5"},
+        {"name": "Princess lift", "level": "INTER.", "loc": "Part 4"},
+        {"name": "Half turn", "level": "FACILE", "loc": "Part 4, 5"},
+        {"name": "Lady's right turn", "level": "BASE", "loc": "Part 5"},
+        {"name": "Cradle", "level": "FACILE", "loc": "Part 5"},
+        {"name": "Body roll (mariée)", "level": "FACILE", "loc": "Part 5"},
+        {"name": "Teddy bear lift", "level": "FACILE", "loc": "Part 5"},
+        {"name": "Swan figure", "level": "BASE", "loc": "Part 5"},
+        {"name": "Spin out", "level": "BASE", "loc": "Part 5"},
+        {"name": "Final dip", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [
+        {"name": "Princess lift (Part 4)", "alternative": "Si le marié n'est pas à l'aise avec les portés, remplacez par un « close hug » où la mariée s'incline contre le marié sans être portée. Effet visuel proche, zéro effort de porté."},
+        {"name": "Teddy bear lift (Part 5)", "alternative": "Si le couple préfère ne pas faire un deuxième lift, remplacez par un « plank figure » au sol où la mariée se penche en avant, soutenue par le marié. Le pattern « lift block » devient « pose block », l'effet visuel reste fort."}
+      ],
+
+      "tips": [
+        {"title": "Passez plus de temps sur la Part 3", "text": "C'est la Part la plus émotionnelle (shadow position, hairbrushes, disconnect). Les figures sont techniquement simples mais demandent une vraie connexion avec votre partenaire. Pratiquez-les en vous regardant dans les yeux, pas en regardant vos pieds."},
+        {"title": "Le piège du tempo trop lent", "text": "Perfect est à 95 BPM ressentis. C'est rapide pour un slow. Si vous ralentissez vos pas pour être « plus romantiques », vous allez sortir du temps musical. Restez précisément sur le tempo : la batterie discrète qui rentre au refrain doit toujours coïncider avec vos pas."},
+        {"title": "Synchronisez les trois mots-clés", "text": "Trois moments à synchroniser absolument : (1) le premier lady's turn sur le mot « darling » vers 0:33, (2) le pic du plank sur « lead » à la fin du couplet 1, (3) le pic du premier lift sur « dark » du premier refrain vers 1:24. Ces synchros précises font 80% de la magie."},
+        {"title": "Pratiquez avec les vraies chaussures", "text": "Les talons hauts changent l'équilibre de la mariée, surtout pour le lift de la Part 4 et le dip final. Pratiquez avec des chaussures de hauteur similaire au moins trois fois avant le jour J, idéalement avec une jupe longue. Vous serez surpris des ajustements nécessaires."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps faut-il pour apprendre cette chorégraphie ?", "a": "Comptez 6 à 10 semaines avec 2 à 3 séances de 30 minutes par semaine. Les couples débutants complets prennent généralement 8 à 10 semaines. Les couples avec un peu de notions de danse maîtrisent en 6 semaines."},
+        {"q": "Faut-il savoir danser pour cette chorégraphie ?", "a": "Non. Toutes les figures sont accessibles aux débutants complets. Les seules figures un peu plus techniques sont les deux portés (Princess lift et Teddy bear lift), qui ont chacun une alternative simplifiée sans porté, expliquée dans le module 6."},
+        {"q": "Qui s'occupe d'éditer la musique pour le jour J ?", "a": "Nous nous en chargeons. Après votre achat, vous recevez par mail la version chorégraphiée prête à transmettre à votre DJ. Aucun travail d'édition de votre côté."},
+        {"q": "Y a-t-il une version avec moins de lifts ?", "a": "Oui. Les deux lifts (Princess lift Part 4, Teddy bear lift Part 5) ont des alternatives intégrées dans le cours. Le module 6 explique précisément comment substituer un « close hug » au premier lift et un « plank figure au sol » au second."},
+        {"q": "La chorégraphie marche-t-elle avec la version duo (Beyoncé) ?", "a": "Oui, la structure musicale est identique. Seule différence : la version Beyoncé dure 4:39 au lieu de 4:23 (intro instrumentale rallongée). Vous pouvez ajouter 16 secondes à la Part 1, ou demander au DJ de couper l'intro."}
+      ],
+
+      "for_you_if": [
+        "Vous voulez la chanson la plus jouée en ouverture de bal depuis 2017",
+        "Vous êtes débutants complets en danse",
+        "Vous voulez un tempo confortable (95 BPM), ni trop lent ni trop rapide",
+        "Vous voulez une chorégraphie facile à mémoriser",
+        "Vous voulez une option avec porté ou sans porté",
+        "Vous avez 6 à 10 semaines pour préparer votre première danse"
+      ],
+      "what_you_learn": [
+        "32 figures de slow chorégraphié (cadre, tours, lifts, dip)",
+        "Le Princess lift et son alternative sans porté",
+        "Le pattern « lift block » pour finir avec impact",
+        "Comment se synchroniser sur les mots-clés (« darling », « dark »)",
+        "Comment doser le tempo à 95 BPM sans décrocher",
+        "Comment caler le dip final sur la dernière note tenue"
+      ],
+
+      "final_cta_text": "Vous êtes prêts à apprendre cette chorégraphie en 6 à 10 semaines, depuis votre salon. Aucune expérience de danse n'est requise. Accès à vie aux 8 modules vidéo, démonstration sous 2 angles, version simplifiée pour les portés. Garantie satisfait ou remboursé pendant 14 jours."
+    },
+
+    {
+      "slug": "a-thousand-years-christina-perri",
+      "title": "A Thousand Years",
+      "artist": "Christina Perri",
+      "year": 2011,
+      "duration": "3:10",
+      "bpm": 139,
+      "bpm_felt": 70,
+      "time_signature": "4/4 dansable 3/4",
+      "style": "valse",
+      "style_label": "Valse moderne lente",
+      "level": "débutant à intermédiaire",
+      "preparation_weeks": "8 à 12",
+      "price": 89,
+      "modules": 9,
+      "course_duration": "2h 00",
+      "review_count": 156,
+      "visual_color": "peach-3",
+
+      "seo_title": "Chorégraphie ouverture de bal sur A Thousand Years (Christina Perri) | Valse 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur A Thousand Years de Christina Perri. Valse moderne, 9 modules vidéo, version 3:10. Accès à vie. 89€.",
+      "og_title": "Chorégraphie A Thousand Years, Christina Perri",
+      "og_description": "Valse chorégraphiée sur A Thousand Years de Christina Perri. 9 modules, 5 Parts, 30 figures, version 3:10. Garantie 14 jours.",
+
+      "hero_intro": "A Thousand Years de Christina Perri est devenu en quelques années l'un des trois plus gros standards de premières danses dans le monde, juste après Perfect et All of Me. C'est une valse lente, qui se danse aussi bien en 4/4 qu'en 3/4 selon le niveau du couple. La version chorégraphiée fait 3:10, format idéal pour une ouverture de bal.",
+
+      "song_anecdote": "Christina Perri a écrit A Thousand Years en 2011 pour la bande-originale du film Twilight, chapitre 4. Le morceau accompagne la scène du mariage de Bella et Edward, ce qui a immédiatement collé l'image « chanson de mariage » à la chanson. Christina raconte qu'elle l'a composée au piano en une seule séance, en pensant à ses propres parents qui fêtaient leurs 40 ans de mariage. Le tube a été certifié disque de diamant aux États-Unis, et il en existe une version duo avec Steve Kazee (2012), plus orchestrale, reconnue par beaucoup comme la meilleure pour une ouverture de bal.",
+
+      "song_wedding_reason": "A Thousand Years est l'un des choix les plus sûrs si vous voulez une valse moderne sans piège technique. Le tempo est lent et stable, sans accélération ni ralentissement. Les transitions sont marquées clairement : intro piano seule, entrée de la batterie après le premier refrain, montée orchestrale finale avec cordes amples. Le morceau a un arc émotionnel naturel qui permet un découpage facile en cinq actes. Et la signature 4/4 lui donne aussi la souplesse d'être dansée en valse 3/4 si vous préférez l'esthétique classique.",
+
+      "music_intro": "Voici comment A Thousand Years est construite. Connaître ces grands paliers musicaux aide à placer les figures sur les bons moments.",
+      "music_timeline": [
+        {"label": "Intro piano", "details": "Piano seul, mélodie épurée. C'est l'entrée du couple sur la piste, on prend le temps de poser le cadre."},
+        {"label": "Couplet et pré-refrain", "details": "La voix entre, le morceau commence à respirer. Quelques cordes douces s'ajoutent en douceur."},
+        {"label": "Refrain (cordes amples)", "details": "Les violons et la batterie discrète arrivent. C'est le premier pic d'émotion et le bon moment pour une figure marquante."},
+        {"label": "Pont et crescendo final", "details": "Reprise instrumentale puissante. Tous les instruments ensemble, montée finale jusqu'à la dernière note du piano."}
+      ],
+      "music_notes": [
+        "Le tempo est volontairement lent (139 BPM ressentis sur 4/4, ou 70 BPM sur 3/4). Il faut ralentir vos pas par rapport à ce que vous feriez sur Perfect ou All of Me.",
+        "Le pic émotionnel arrive sur le pont (vers 1:55 de la version originale). C'est là qu'il faut placer votre figure la plus spectaculaire : porté, swan, ou plank.",
+        "La dernière note du piano à la fin est tenue 4 secondes. Vous avez largement le temps de poser le dip final et de le tenir 2 secondes après la coupure du son."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Cette chorégraphie est une valse moderne en cinq actes, alignée sur la version 3:10. Le couple peut choisir entre une version 4/4 (plus accessible aux débutants complets) et une version 3/4 valse classique (plus élégante mais qui demande plus de pratique). Les figures incluent les classiques de la valse anglaise revisitées pour le mariage, avec un porté principal et un swan figure.",
+      "choreo_arc": [
+        {"num": 1, "title": "Approche", "time": "0:00–0:30", "mood": "Calme piano", "key": "Marche, cadre, premier tour"},
+        {"num": 2, "title": "Tendresse", "time": "0:30–0:55", "mood": "Voix entre", "key": "Open position, hairbrushes, hands"},
+        {"num": 3, "title": "Premier élan", "time": "0:55–1:30", "mood": "Cordes douces", "key": "Catwalk, plank, walking"},
+        {"num": 4, "title": "Pic émotionnel", "time": "1:30–2:00", "mood": "Refrain", "key": "Walking en rotation, princess lift"},
+        {"num": 5, "title": "Crescendo final", "time": "2:00–3:10", "mood": "Apothéose", "key": "Swan lift, body sweep, final dip"}
+      ],
+      "choreo_parts": [
+        {
+          "num": 1,
+          "title": "Approche",
+          "time": "0:00 – 0:30",
+          "music_description": "Intro piano seule, premières notes égrenées doucement. La voix démarre vers 0:18. C'est l'entrée du couple, à pas lents et mesurés.",
+          "figures": [
+            {"name": "Walk-in slow", "desc": "Six pas lents pour rejoindre le centre de la piste depuis l'entrée. Démarrez pile sur la première note de piano."},
+            {"name": "Hands", "desc": "Prise de mains lente, regard direct dans les yeux. Tenue 4 temps."},
+            {"name": "Closed position", "desc": "Passage en cadre fermé valse classique. Cadre haut, coudes maintenus."},
+            {"name": "Slow rotation", "desc": "Trois pas tournants très doux dans le sens horaire. Le but ici n'est pas la rapidité mais l'élégance du cadre."},
+            {"name": "Lady's turn", "desc": "Premier tour de la mariée, sortie face à face mains tenues. Synchronisé sur l'entrée de la voix vers 0:20."},
+            {"name": "Open position", "desc": "Mains tenues, regard partagé, 2 temps de respiration avant la Part 2."}
+          ],
+          "transition": "Le pré-refrain arrive (les cordes douces vont entrer). La Part 2 va introduire la première figure tendre."
+        },
+        {
+          "num": 2,
+          "title": "Tendresse",
+          "time": "0:30 – 0:55",
+          "music_description": "Couplet 1 et pré-refrain. La voix porte la chanson, les cordes ajoutent une couche douce sans dominer.",
+          "figures": [
+            {"name": "Shadow position", "desc": "Le marié passe derrière la mariée, mains posées doucement sur sa taille. Position d'intimité ouverte vers les invités."},
+            {"name": "Hairbrushes", "desc": "Geste tendre, chacun « coiffe » l'autre du bout des doigts. Garde la position shadow pendant ce geste."},
+            {"name": "Disconnect", "desc": "Mariée fait un pas en avant et se retourne, le couple se sépare une mesure. Regard chargé."},
+            {"name": "Hands reconnect", "desc": "Reprise de mains lente, le couple revient face à face."},
+            {"name": "Closed position", "desc": "Retour en cadre fermé pour préparer la Part 3."}
+          ],
+          "transition": "Les cordes montent à l'approche du refrain. La Part 3 va relancer le mouvement avec catwalk et plank."
+        },
+        {
+          "num": 3,
+          "title": "Premier élan",
+          "time": "0:55 – 1:30",
+          "music_description": "Refrain 1 (« I have died everyday waiting for you »). Les cordes amples portent la voix, premier pic émotionnel.",
+          "figures": [
+            {"name": "Basket position", "desc": "Croisement des mains devant le couple, en entrée fluide depuis closed position."},
+            {"name": "Plank figure", "desc": "La mariée s'étire à l'horizontale, supportée par le marié. Synchronisez le pic du plank sur le mot « died » du refrain."},
+            {"name": "Lady on the catwalk", "desc": "Quatre pas en avant comme sur un podium, regard porté loin. Le marié reste sur place et la suit du regard."},
+            {"name": "Closed position", "desc": "Retour en cadre fermé."},
+            {"name": "Walking in rotation", "desc": "Six pas tournants ensemble, en marche élégante. C'est la première vraie traversée de piste."},
+            {"name": "Lady's turn", "desc": "Tour rapide de la mariée pour préparer le lift de la Part 4."}
+          ],
+          "transition": "La musique reste sur le refrain, on enchaîne directement sur le porté qui va clôturer la première moitié de la chorégraphie."
+        },
+        {
+          "num": 4,
+          "title": "Pic émotionnel",
+          "time": "1:30 – 2:00",
+          "music_description": "Fin du refrain 1 et début du pont. La musique va se calmer brièvement avant le crescendo final.",
+          "figures": [
+            {"name": "Tilt to the side", "desc": "Inclinaison lente de la mariée vers le côté, soutenue par le marié. Prépare le porté principal."},
+            {"name": "Princess lift", "desc": "Le porté principal de la chorégraphie. Le marié soulève la mariée bras tendus, jambes droites. Synchronisez le pic du lift sur le dernier mot du refrain (« years »)."},
+            {"name": "Pose hold", "desc": "Tenez 2 temps en haut du lift, regard partagé. Les invités vont applaudir ici."},
+            {"name": "Slow descent", "desc": "Redescente contrôlée de la mariée, pas brusque. Soutenue tout le long."},
+            {"name": "Open position", "desc": "Mains tenues, prêts pour l'apothéose finale."}
+          ],
+          "transition": "Le pont instrumental commence (vers 1:55 de la version originale, qui devient 1:55 dans la version cut puisqu'on coupe APRÈS le pont début). La Part 5 va monter en crescendo jusqu'à la dernière note du piano."
+        },
+        {
+          "num": 5,
+          "title": "Crescendo final",
+          "time": "2:00 – 3:10",
+          "music_description": "Pont instrumental puissant puis crescendo final. Toutes les cordes, batterie ample, retour de la voix sur le dernier refrain. Pic émotionnel absolu de la chanson.",
+          "figures": [
+            {"name": "Walking in rotation (large)", "desc": "Six pas tournants amples, le couple « danse » vraiment maintenant. Occupez la piste."},
+            {"name": "Lady's right turn", "desc": "Tour ample de la mariée pour relancer l'énergie."},
+            {"name": "Promenade", "desc": "Position promenade (de profil au public), trois pas en avant. Mouvement classique de la valse."},
+            {"name": "Cradle to closed", "desc": "Petit cradle (la mariée brièvement bercée dans les bras du marié), puis retour en closed position."},
+            {"name": "Swan lift", "desc": "Deuxième lift de la chorégraphie. La mariée arrondit son dos, bras déployés en « cygne », le marié la soutient au niveau de la taille. C'est la figure la plus iconique du mariage."},
+            {"name": "Body sweep", "desc": "Après le swan, la mariée glisse latéralement contre le marié, geste fluide qui prépare le dip."},
+            {"name": "Steps in rotation", "desc": "Quatre pas tournants finaux pour caler le timing sur la dernière note du piano."},
+            {"name": "Final dip", "desc": "Dip final. La mariée s'incline vers l'arrière, regard verrouillé dans les yeux du marié. Synchronisez le pic du dip pile sur la dernière note du piano. Tenez la pose 2 secondes après le silence."}
+          ],
+          "transition": "Restez figés sur le dip pendant 2 secondes après la dernière note du piano. Puis relevez-vous lentement, sourire partagé. Les invités vont applaudir le silence avant la danse elle-même."
+        }
+      ],
+
+      "figures_intro": "Cette chorégraphie utilise 30 figures sur 5 Parts. Le vocabulaire est plus « valse classique » que sur Perfect : closed position haute, walking in rotation amples, promenade, swan lift comme figure iconique. Toutes les figures sont enseignées sous deux angles (face et profil) dans les modules vidéo.",
+      "figures_list": [
+        {"name": "Walk-in slow", "level": "BASE", "loc": "Part 1"},
+        {"name": "Hands", "level": "BASE", "loc": "Part 1, 2"},
+        {"name": "Closed position", "level": "BASE", "loc": "Part 1, 2, 3"},
+        {"name": "Slow rotation", "level": "BASE", "loc": "Part 1"},
+        {"name": "Lady's turn", "level": "BASE", "loc": "Part 1, 3"},
+        {"name": "Open position", "level": "BASE", "loc": "Part 1, 4"},
+        {"name": "Shadow position", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Disconnect", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hands reconnect", "level": "BASE", "loc": "Part 2"},
+        {"name": "Basket position", "level": "BASE", "loc": "Part 3"},
+        {"name": "Plank figure", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Lady on the catwalk", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Walking in rotation", "level": "BASE", "loc": "Part 3, 5"},
+        {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Princess lift", "level": "INTER.", "loc": "Part 4"},
+        {"name": "Pose hold", "level": "BASE", "loc": "Part 4"},
+        {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Lady's right turn", "level": "BASE", "loc": "Part 5"},
+        {"name": "Promenade", "level": "FACILE", "loc": "Part 5"},
+        {"name": "Cradle to closed", "level": "FACILE", "loc": "Part 5"},
+        {"name": "Swan lift", "level": "INTER.", "loc": "Part 5"},
+        {"name": "Body sweep", "level": "FACILE", "loc": "Part 5"},
+        {"name": "Steps in rotation", "level": "BASE", "loc": "Part 5"},
+        {"name": "Final dip", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [
+        {"name": "Princess lift (Part 4)", "alternative": "Si le marié n'est pas à l'aise avec les portés, remplacez par une « pose tilt » prolongée : la mariée incline son corps en arrière, soutenue par le bras du marié, sans être soulevée du sol. Le module 7 montre cette variante en détail."},
+        {"name": "Swan lift (Part 5)", "alternative": "Pour éviter le deuxième porté, remplacez par un « swan au sol » : la mariée à genou devant le marié, dos cambré, bras déployés. Le marié reste debout et la soutient au niveau des omoplates. Esthétique très proche du swan lift, sans difficulté technique."}
+      ],
+
+      "tips": [
+        {"title": "Choisissez 4/4 ou 3/4 dès le début", "text": "A Thousand Years peut se danser en 4/4 (pas plus simples, accessibles aux débutants complets) ou en 3/4 valse classique (plus élégante mais qui demande plus de pratique). Décidez avec votre partenaire dès la première séance, et ne changez pas en cours de route. Les deux versions sont enseignées dans des modules séparés."},
+        {"title": "Le tempo lent est piège", "text": "Le morceau étant volontairement lent, la tentation est de prendre votre temps à chaque pas. Mais si vous ralentissez encore plus, vous allez décrocher du tempo. Pratiquez avec un métronome à 70 BPM (ou 139 si vous comptez sur 4/4) pour bien sentir le rythme stable."},
+        {"title": "La synchronisation sur « died »", "text": "Le mot le plus chargé émotionnellement de la chanson est « died » dans « I have died everyday waiting for you ». Synchronisez le pic du plank exactement sur ce mot. Les invités qui connaissent la chanson sentiront le moment, même s'ils ne sauraient pas l'expliquer."},
+        {"title": "La descente après le porté est aussi importante que le porté lui-même", "text": "Beaucoup de couples soignent le pic du Princess lift, mais bâclent la redescente. La descente doit être lente, contrôlée, sans relâchement brusque. C'est ce qui distingue un porté « professionnel » d'un porté « amateur »."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps faut-il pour apprendre cette chorégraphie ?", "a": "Comptez 8 à 12 semaines pour la version 4/4, 10 à 14 semaines pour la version 3/4 valse classique. Comptez 2 à 3 séances de 30 minutes par semaine. La version valse demande un peu plus de précision technique sur les pas."},
+        {"q": "Quelle version est mieux pour des débutants complets ?", "a": "La version 4/4. Elle utilise des pas plus simples (deux temps « pas-pose »), proche du slow chorégraphié. La version 3/4 valse classique est plus élégante mais demande de maîtriser le compte sur trois temps, ce qui ajoute une charge cognitive aux débutants."},
+        {"q": "Peut-on prendre la version duo avec Steve Kazee ?", "a": "Oui. La version duo (2012) a la même structure mais une orchestration plus riche, avec un duo vocal à la fin. Elle dure 4:51 au lieu de 4:45. La coupe DJ reste à 1:55 et la jonction à 3:30 (timing quasi identique). Le module bonus 9 explique les ajustements pour cette version."},
+        {"q": "Qui s'occupe d'éditer la musique pour le jour J ?", "a": "Nous nous en chargeons. Après votre achat, vous recevez par mail la version chorégraphiée 3:10 prête à transmettre à votre DJ. Aucun travail d'édition de votre côté."},
+        {"q": "Y a-t-il un risque que la chanson sonne trop « Twilight » ?", "a": "Pour les invités qui ont vu le film, oui. Pour la majorité (ceux qui ne l'ont pas vu, ou qui n'associent plus la chanson au film), non. La chanson a tellement été reprise en mariage qu'elle a aujourd'hui une vie propre, indépendante de Twilight."}
+      ],
+
+      "for_you_if": [
+        "Vous aimez les valses modernes plutôt que les slows",
+        "Vous voulez une chorégraphie plus classique et plus élégante",
+        "Vous voulez choisir entre version 4/4 ou 3/4 valse classique",
+        "Vous voulez une chanson universellement reconnue (BO de Twilight 2011)",
+        "Vous avez 8 à 12 semaines pour préparer votre première danse",
+        "Vous voulez le swan lift comme figure iconique"
+      ],
+      "what_you_learn": [
+        "30 figures de valse moderne lente",
+        "Le swan lift, figure iconique du mariage",
+        "Le Princess lift et son alternative pose-tilt",
+        "Comment doser un tempo très lent sans décrocher",
+        "La synchronisation sur le mot « died » du refrain",
+        "Comment finir sur la dernière note tenue du piano"
+      ],
+
+      "final_cta_text": "Vous êtes prêts à apprendre cette valse en 8 à 12 semaines, depuis votre salon. Le cours inclut les deux versions (4/4 accessible et 3/4 valse classique). Accès à vie aux 9 modules vidéo, démonstration sous 2 angles, version simplifiée pour les portés. Garantie satisfait ou remboursé pendant 14 jours."
+    },
+
+    {
+      "slug": "marry-you-bruno-mars",
+      "title": "Marry You",
+      "artist": "Bruno Mars",
+      "year": 2010,
+      "duration": "3:20",
+      "bpm": 145,
+      "bpm_felt": 145,
+      "time_signature": "4/4",
+      "style": "rock",
+      "style_label": "Rock pop énergique",
+      "level": "intermédiaire",
+      "preparation_weeks": "10 à 14",
+      "price": 89,
+      "modules": 10,
+      "course_duration": "2h 30",
+      "review_count": 124,
+      "visual_color": "dark",
+
+      "seo_title": "Chorégraphie ouverture de bal sur Marry You (Bruno Mars) | Rock énergique 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur Marry You de Bruno Mars. Rock pop énergique, 10 modules vidéo, version 3:20. Accès à vie. 89€.",
+      "og_title": "Chorégraphie Marry You, Bruno Mars",
+      "og_description": "Rock chorégraphié sur Marry You de Bruno Mars. 10 modules, 5 Parts, 33 figures, version 3:20. Garantie 14 jours.",
+
+      "hero_intro": "Marry You de Bruno Mars est le choix de référence pour les couples qui veulent une ouverture de bal énergique et fun, à mille lieues de la valse classique. À 145 BPM, c'est un rock pop dynamique avec des kicks, des spins et beaucoup de jeu de regards. La version chorégraphiée fait 3:20, format idéal pour une ouverture de bal.",
+
+      "song_anecdote": "Bruno Mars a co-écrit Marry You en 2010 avec Philip Lawrence et Ari Levine pour son premier album Doo-Wops & Hooligans. Bruno raconte que la chanson est née d'une plaisanterie de groupe : ils voulaient parodier les ballades de mariage en faisant un titre qui dit littéralement « marions-nous ce soir, on verra demain ». Le clip officiel a été tourné devant la chapelle de Las Vegas la plus célèbre du strip. La chanson est devenue l'un des trois titres les plus joués en sortie de cérémonie civile dans le monde (avec Signed Sealed Delivered et Better Together).",
+
+      "song_wedding_reason": "Marry You est idéal pour les couples qui assument une ouverture de bal qui sort des codes. Le tempo rapide (145 BPM) impose un travail technique plus poussé, mais le résultat sur la piste est spectaculaire et fait rire les invités. La structure musicale est simple à mémoriser : intro de 8 mesures, deux couplets de 8 mesures, refrain qui revient trois fois. Aucune surprise rythmique, aucun changement de tempo. C'est la chanson parfaite pour mélanger figures de jive, swing et rock'n'roll dans une chorégraphie qui assume son côté joyeux.",
+
+      "music_intro": "Voici la structure de Marry You. Le morceau est construit comme un standard pop rock classique : intro, couplet, refrain, en boucle.",
+      "music_timeline": [
+        {"label": "Intro doo-wop", "details": "Quatre mesures d'intro vocale (« Oh, oh, oh… »). C'est votre signal pour entrer sur la piste avec énergie."},
+        {"label": "Couplet et premier refrain", "details": "Voix de Bruno Mars sur batterie pop. Le tempo est immédiatement clair, le couple commence à danser en rythme."},
+        {"label": "Pont et reprise", "details": "Court pont vocal qui ralentit avant le retour. Moment idéal pour une pose ou un lift bref."},
+        {"label": "Refrain final et outro", "details": "Reprise pleine puissance avec chœurs. Pic d'énergie, c'est là que vous placez votre figure la plus spectaculaire avant la pose finale."}
+      ],
+      "music_notes": [
+        "Le tempo à 145 BPM est rapide. Ne ralentissez pas vos pas pour « avoir le temps », vous décrocherez immédiatement. La règle : un pas par temps, pas deux temps par pas.",
+        "Les chœurs « hey, hey, hey » qui ponctuent le refrain sont des marqueurs de mesure très utiles. Comptez-les pour ne jamais perdre le fil rythmique.",
+        "La chanson ne se termine pas sur une note tenue mais sur un coup sec. Votre pose finale doit donc être posée pile sur ce coup, pas après."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Cette chorégraphie utilise un vocabulaire rock pop : side rock steps, jive kicks, american spins, lifts en élan. Elle est plus exigeante que les chorégraphies slow ou valse, parce que le tempo rapide ne pardonne aucune erreur de timing. Les cinq Parts mélangent figures de jive (1-2 et 4), un moment plus posé en Part 3, et un final spectaculaire en Part 5.",
+      "choreo_arc": [
+        {"num": 1, "title": "Entrée énergique", "time": "0:00–0:30", "mood": "Fun assumé", "key": "Side rocks, points, kicks"},
+        {"num": 2, "title": "Premier refrain", "time": "0:30–1:08", "mood": "Énergie pop", "key": "American spin, swing-out, walks"},
+        {"num": 3, "title": "Couplet 2 et pose", "time": "1:08–1:38", "mood": "Respiration", "key": "Sweetheart position, slow walks"},
+        {"num": 4, "title": "Pont et lift", "time": "1:38–2:30", "mood": "Pic d'énergie", "key": "Side-by-side, jive lift, pose hold"},
+        {"num": 5, "title": "Final spectaculaire", "time": "2:30–3:20", "mood": "Apothéose rock", "key": "Spins, body roll duo, pose finale"}
+      ],
+      "choreo_parts": [
+        {
+          "num": 1,
+          "title": "Entrée énergique",
+          "time": "0:00 – 0:30",
+          "music_description": "Intro doo-wop (4 mesures vocales) puis premier couplet. Le rythme est immédiatement clair, batterie pop dès le départ.",
+          "figures": [
+            {"name": "Walk-in rapide", "desc": "Six pas rapides en marche pour rejoindre le centre de la piste. Démarrez pile sur le premier « oh » de l'intro."},
+            {"name": "Closed position rock", "desc": "Cadre de jive, plus bas et plus serré que la valse. Coudes flexibles, prêts à bouger."},
+            {"name": "Side rocks", "desc": "Quatre pas de côté gauche-droite-gauche-droite, en suivant le rythme syncopé de la chanson."},
+            {"name": "Single time points", "desc": "Quatre pointes de pied chacun en alternance, accentuées. Geste fun, ouvert vers les invités."},
+            {"name": "Jive kicks", "desc": "Deux séries de kicks-flicks (jambe qui se replie puis se redéplie). Synchronisez sur les « hey, hey » des chœurs."},
+            {"name": "Underarm turn", "desc": "Tour de la mariée sous le bras du marié, mains tenues. Premier moment où le couple se sépare visuellement."}
+          ],
+          "transition": "Le refrain arrive (« Hey baby, I think I wanna marry you »). Vous enchaînez sur des figures plus amples en Part 2."
+        },
+        {
+          "num": 2,
+          "title": "Premier refrain",
+          "time": "0:30 – 1:08",
+          "music_description": "Premier refrain orchestré, chœurs « hey, hey », batterie ample. C'est le premier pic d'énergie de la chanson.",
+          "figures": [
+            {"name": "American spin", "desc": "La mariée pivote à 360° en lâchant brièvement la main, puis reprend. Figure iconique du jive."},
+            {"name": "Walking in promenade", "desc": "Quatre pas de côté en promenade, le couple avance dans la même direction, mains tenues haut."},
+            {"name": "Closed position", "desc": "Retour au cadre rock pour préparer le swing-out."},
+            {"name": "Swing-out", "desc": "Le couple s'écarte d'un grand pas vers l'extérieur, puis revient. Geste large et ouvert, qui montre la robe."},
+            {"name": "Cuban motion (mariée)", "desc": "Quatre mouvements de hanches latéraux, accentués. Geste fun et assumé."},
+            {"name": "Spin in", "desc": "La mariée revient en se vrillant vers le marié, finit en closed position."},
+            {"name": "Slow down", "desc": "Deux pas lents pour préparer la respiration de la Part 3 (le couplet 2 va arriver, moins dense)."}
+          ],
+          "transition": "Le couplet 2 arrive (« I'll go get a ring »). La chorégraphie ralentit en Part 3 pour créer un contraste."
+        },
+        {
+          "num": 3,
+          "title": "Couplet 2 et pose",
+          "time": "1:08 – 1:38",
+          "music_description": "Deuxième couplet. La batterie reste mais la voix redevient plus narrative. C'est le seul moment de respiration de la chorégraphie.",
+          "figures": [
+            {"name": "Sweetheart position", "desc": "Position côte à côte, mariée à droite du marié, main droite du marié dans la main droite de la mariée, main gauche derrière le dos de la mariée. Posture « couple amoureux »."},
+            {"name": "Slow walks side-by-side", "desc": "Quatre pas lents en avant ensemble, comme un couple qui se promène. Regard partagé."},
+            {"name": "Half turn", "desc": "Demi-tour ensemble pour repartir dans l'autre sens."},
+            {"name": "Slow walks side-by-side (return)", "desc": "Quatre pas lents en avant dans l'autre sens, suite logique."},
+            {"name": "Pose hold", "desc": "Arrêt complet, regard partagé, sourire. Tenez 2 temps. Ce silence visuel rend le contraste avec la Part 4 explosif."}
+          ],
+          "transition": "Le pont musical arrive (« Just say I do, tell me right now baby »). C'est votre signal pour relancer l'énergie avec un lift."
+        },
+        {
+          "num": 4,
+          "title": "Pont et lift",
+          "time": "1:38 – 2:30",
+          "music_description": "Pont vocal puis retour du refrain en pleine puissance. La chanson reprend toute son énergie après la respiration du couplet 2.",
+          "figures": [
+            {"name": "Open position", "desc": "Mains tenues, prêts à exploser."},
+            {"name": "Triple step left and right", "desc": "Deux séries de triple-step (jive de base), accentuées."},
+            {"name": "Jive lift basic", "desc": "Le premier porté de la chorégraphie. Le marié soulève la mariée à hauteur des hanches, jambes droites devant. C'est un lift court (2 temps), pas un lift tenu."},
+            {"name": "Slow descent", "desc": "Redescente immédiate, mais contrôlée."},
+            {"name": "American spin x2", "desc": "Deux spins consécutifs de la mariée. Le marié garde la main droite levée."},
+            {"name": "Closed position", "desc": "Retour au cadre rock pour préparer la Part 5."},
+            {"name": "Stops sec", "desc": "Arrêt brutal sur un break vocal de la chanson. Pose tenue 2 temps. Surprise pour les invités."}
+          ],
+          "transition": "Le refrain final crescendo arrive. La Part 5 sera votre moment le plus spectaculaire."
+        },
+        {
+          "num": 5,
+          "title": "Final spectaculaire",
+          "time": "2:30 – 3:20",
+          "music_description": "Refrain final pleine puissance, chœurs « hey, hey », outro avec coup sec final. Pic absolu de la chanson.",
+          "figures": [
+            {"name": "Walking in rotation rock", "desc": "Six pas tournants amples mais énergiques. Garder le contact visuel constant."},
+            {"name": "Body roll duo", "desc": "Le couple fait un body roll synchronisé, mains tenues. Figure visuelle puissante, à pratiquer beaucoup."},
+            {"name": "Jive lift back drop", "desc": "Deuxième porté. La mariée se penche en arrière dans les bras du marié, lift très court mais visuellement marquant."},
+            {"name": "Sweetheart position", "desc": "Retour position côte à côte pour préparer la pose finale."},
+            {"name": "Side kicks duo", "desc": "Quatre kicks synchronisés du couple côte à côte, à la même hauteur. Très chorégraphié."},
+            {"name": "Half turn rapide", "desc": "Demi-tour vif pour se remettre face à face."},
+            {"name": "Final pose", "desc": "Pose finale tenue : le marié à genou levé, la mariée debout devant, bras en V. Synchronisez la pose pile sur le coup sec qui termine la chanson. Tenez la pose 2 secondes après le silence."}
+          ],
+          "transition": "Restez figés sur la pose finale pendant 2 secondes après le coup sec. Sourire complice, regard vers le public. C'est là que les invités applaudissent."
+        }
+      ],
+
+      "figures_intro": "Cette chorégraphie utilise 33 figures sur 5 Parts. Le vocabulaire est entièrement rock pop : side rocks, jive kicks, american spins, swing-out, body roll. Les deux portés sont des lifts courts (2 temps maximum), pas des portés tenus comme dans une valse.",
+      "figures_list": [
+        {"name": "Walk-in rapide", "level": "BASE", "loc": "Part 1"},
+        {"name": "Closed position rock", "level": "BASE", "loc": "Part 1, 2, 4"},
+        {"name": "Side rocks", "level": "BASE", "loc": "Part 1"},
+        {"name": "Single time points", "level": "FACILE", "loc": "Part 1"},
+        {"name": "Jive kicks", "level": "FACILE", "loc": "Part 1"},
+        {"name": "Underarm turn", "level": "BASE", "loc": "Part 1"},
+        {"name": "American spin", "level": "FACILE", "loc": "Part 2, 4"},
+        {"name": "Walking in promenade", "level": "BASE", "loc": "Part 2"},
+        {"name": "Swing-out", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Cuban motion (mariée)", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Spin in", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Slow down", "level": "BASE", "loc": "Part 2"},
+        {"name": "Sweetheart position", "level": "BASE", "loc": "Part 3, 5"},
+        {"name": "Slow walks side-by-side", "level": "BASE", "loc": "Part 3"},
+        {"name": "Half turn", "level": "FACILE", "loc": "Part 3, 5"},
+        {"name": "Pose hold", "level": "BASE", "loc": "Part 3"},
+        {"name": "Open position", "level": "BASE", "loc": "Part 4"},
+        {"name": "Triple step left and right", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Jive lift basic", "level": "INTER.", "loc": "Part 4"},
+        {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Stops sec", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Walking in rotation rock", "level": "BASE", "loc": "Part 5"},
+        {"name": "Body roll duo", "level": "INTER.", "loc": "Part 5"},
+        {"name": "Jive lift back drop", "level": "INTER.", "loc": "Part 5"},
+        {"name": "Side kicks duo", "level": "FACILE", "loc": "Part 5"},
+        {"name": "Final pose", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [
+        {"name": "Jive lift basic (Part 4)", "alternative": "Si le marié n'est pas à l'aise avec le porté, remplacez par un « stop pose » où la mariée s'arrête net devant le marié, bras croisés, regard frontal. Effet de surprise différent mais aussi marquant, sans contrainte physique."},
+        {"name": "Jive lift back drop (Part 5)", "alternative": "Remplacez par un « back lean » où la mariée se laisse tomber en arrière dans les bras du marié sans être soulevée du sol. Le marié la rattrape à mi-hauteur et la remonte. Effet « cinématique » garanti, zéro porté technique."}
+      ],
+
+      "tips": [
+        {"title": "Travaillez le tempo avant tout le reste", "text": "À 145 BPM, le piège n°1 est de prendre du retard sur la musique. Avant même de commencer à apprendre les figures, passez deux séances entières à marcher en rythme sur la chanson (sans figure). Si vous décrochez du tempo, toute la chorégraphie s'effondre."},
+        {"title": "Les chœurs sont vos repères", "text": "Les « hey, hey, hey » qui ponctuent le refrain tombent toujours sur les mêmes temps. Utilisez-les comme repères mentaux : « hey » = je suis au début de la mesure, je dois lancer la figure suivante. Mémorisez ces repères dès la première semaine."},
+        {"title": "Pas de bras mous", "text": "Le rock pop demande des bras tendus, articulés, dynamiques. Si vos bras sont mous, toute la chorégraphie va paraître hésitante. Pratiquez les figures de bras devant un miroir, avant de les mettre en couple."},
+        {"title": "Préparez des chaussures adaptées", "text": "Les talons hauts standards (8 cm et plus) ne pardonnent pas le rythme rapide de Marry You. Optez pour des talons bas (5 cm max) ou des escarpins fermés à bride, qui maintiennent le pied. La mariée doit pouvoir kicker sans crainte."}
+      ],
+
+      "faq": [
+        {"q": "Cette chorégraphie convient-elle à un couple qui n'a jamais dansé ?", "a": "Le niveau intermédiaire que nous indiquons est réaliste. À 145 BPM, le rythme rapide ajoute une difficulté technique réelle par rapport à un slow. Comptez 10 à 14 semaines de préparation, contre 6 à 10 pour Perfect. Si vous êtes débutants complets et que vous voulez du fun, considérez aussi I Wanna Dance With Somebody (Whitney Houston) qui est à 119 BPM, plus accessible."},
+        {"q": "Faut-il être en bonne forme physique ?", "a": "Une forme physique de base suffit (capacité à monter 4 étages sans s'essouffler). Le tempo rapide demande de l'endurance, surtout sur la Part 5 qui enchaîne sans répit. Pratiquez la chorégraphie complète au moins 5 fois d'affilée la dernière semaine, pour habituer votre cardio."},
+        {"q": "Qui s'occupe d'éditer la musique pour le jour J ?", "a": "Nous nous en chargeons. Après votre achat, vous recevez par mail la version chorégraphiée 3:20 prête à transmettre à votre DJ. Aucun travail d'édition de votre côté."},
+        {"q": "On peut faire cette chorégraphie sans les lifts ?", "a": "Oui. Les deux lifts (Jive lift basic Part 4, Jive lift back drop Part 5) ont des alternatives intégrées dans le cours. La chorégraphie reste largement aussi dynamique sans les lifts, parce que c'est l'énergie globale (kicks, spins, body roll) qui porte le morceau, pas les portés."},
+        {"q": "Peut-on adapter pour une entrée de mariés (sortie de cérémonie) plutôt qu'une ouverture de bal ?", "a": "Oui. Pour une entrée de cérémonie, gardez seulement les Parts 1 et 5 (intro + final spectaculaire), ce qui donne environ 1:00 de chorégraphie sur la version éditée. Le module 10 explique cette adaptation courte en détail."}
+      ],
+
+      "for_you_if": [
+        "Vous assumez une ouverture de bal énergique et fun",
+        "Vous aimez le rock pop, pas les slows lents",
+        "Vous voulez surprendre vos invités",
+        "Vous voulez aussi pouvoir l'utiliser en entrée de cérémonie",
+        "Vous êtes prêts à pratiquer 10 à 14 semaines",
+        "Vous voulez deux portés courts (jive lifts), pas des portés tenus"
+      ],
+      "what_you_learn": [
+        "33 figures rock pop (side rocks, kicks, american spins, swing-out)",
+        "Le body roll en duo, figure spectaculaire",
+        "Deux types de jive lift et leurs alternatives",
+        "Comment tenir un tempo rapide (145 BPM) sans décrocher",
+        "Comment se servir des chœurs « hey, hey » comme repères mentaux",
+        "Comment finir sur le coup sec final de la chanson"
+      ],
+
+      "final_cta_text": "Vous êtes prêts à apprendre cette chorégraphie rock en 10 à 14 semaines, depuis votre salon. Le niveau intermédiaire est assumé : le tempo rapide demande du travail, mais le résultat sur la piste est inoubliable. Accès à vie aux 10 modules vidéo, démonstration sous 2 angles, deux alternatives sans porté. Garantie satisfait ou remboursé pendant 14 jours."
+    },
+
+    {
+      "slug": "beautiful-things-benson-boone",
+      "title": "Beautiful Things",
+      "artist": "Benson Boone",
+      "year": 2024,
+      "duration": "3:00",
+      "bpm": 109,
+      "bpm_felt": 109,
+      "time_signature": "4/4",
+      "style": "slow-rock",
+      "style_label": "Slow pop avec breakdown rock",
+      "level": "intermédiaire",
+      "preparation_weeks": "10 à 14",
+      "price": 89,
+      "modules": 10,
+      "course_duration": "2h 15",
+      "review_count": 89,
+      "visual_color": "peach-2",
+
+      "seo_title": "Chorégraphie ouverture de bal sur Beautiful Things (Benson Boone) | Slow-rock 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur Beautiful Things de Benson Boone. Slow pop avec breakdown rock explosif, 10 modules vidéo, durée 3:00. Accès à vie. 89€.",
+      "og_title": "Chorégraphie Beautiful Things, Benson Boone",
+      "og_description": "Slow-rock chorégraphié sur Beautiful Things de Benson Boone. 10 modules, 5 Parts, 31 figures, durée 3:00 sans coupe nécessaire.",
+
+      "hero_intro": "Beautiful Things de Benson Boone est devenu en moins d'un an l'un des choix de mariage les plus marquants des couples qui aiment l'effet de surprise. La chanson démarre comme un slow doux, puis explose dans un breakdown rock à 2:00 minutes. La durée originale est de 3:00 exactement, format idéal pour une ouverture de bal sans aucune coupe nécessaire.",
+
+      "song_anecdote": "Benson Boone a sorti Beautiful Things en janvier 2024, son premier vrai gros tube après son passage à American Idol. La chanson parle de gratitude mêlée d'angoisse, le syndrome de celui qui a peur de perdre ce qu'il aime. Elle est devenue virale sur TikTok en quelques jours grâce au breakdown explosif à 2:00 minutes, dans lequel Benson hurle « DON'T LET ME GO ». Le clip live à Coachella 2024 avec le fameux backflip de Benson en plein refrain final a achevé d'installer le morceau dans la pop culture mondiale.",
+
+      "song_wedding_reason": "Beautiful Things est le choix parfait pour les couples qui veulent jouer la carte du contraste. Les deux premières minutes sont un slow doux, propice à l'émotion et à l'intimité (shadow position, hairbrushes, tilt). Puis à exactement 2:00 minutes, la chanson explose en rock avec batterie ample et guitares saturées. C'est le moment idéal pour un lift block, un body roll duo, ou une figure spectaculaire qui surprend complètement les invités qui ne connaissent pas la chanson. Et bonus : la chanson dure pile 3:00, format idéal pour une ouverture de bal.",
+
+      "music_intro": "Voici la structure de Beautiful Things. Le morceau est construit en deux grandes parties très contrastées, ce qui permet une chorégraphie à deux temps émotionnels distincts.",
+      "music_timeline": [
+        {"label": "Intro et couplet doux", "details": "Piano et guitare acoustique, voix douce. Atmosphère intime, presque chuchotée. C'est la première moitié de la chorégraphie."},
+        {"label": "Pré-refrain et refrain calme", "details": "La musique commence à monter en intensité sans casser l'atmosphère douce. Quelques cordes en arrière-plan."},
+        {"label": "Breakdown rock (pic explosif)", "details": "À 2:00 pile, batterie ample, guitares saturées, voix qui crie. C'est le pic spectaculaire de la chorégraphie."},
+        {"label": "Outro retour calme", "details": "Retour au piano doux des dernières secondes, dernière note tenue avant le silence. Signal du dip final."}
+      ],
+      "music_notes": [
+        "La rupture à 2:00 minutes est BRUTALE musicalement. C'est un break complet, presque silencieux pendant une demi-seconde, suivi de l'explosion. Préparez les invités en bougeant peu pendant le break, puis explosez ensemble.",
+        "Le breakdown rock dure environ 30 secondes (2:00 à 2:30). C'est court mais intense. Concentrez vos figures les plus spectaculaires (lift, body roll) sur cette fenêtre.",
+        "L'outro reprend l'atmosphère calme du début. Vous avez 30 secondes pour préparer le dip final dans le silence retrouvé, ce qui crée un effet « après l'orage » très puissant."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Cette chorégraphie joue à fond la carte du contraste musical. Les Parts 1 à 3 sont un slow chorégraphié doux, intime, avec des figures émotionnelles classiques (shadow, hairbrushes, tilt). La Part 4 explose dans le breakdown rock avec des lifts, body roll et figures spectaculaires. La Part 5 retourne au calme pour le dip final. C'est l'une des chorégraphies les plus marquantes du catalogue, mais elle demande une vraie maîtrise de la rupture musicale.",
+      "choreo_arc": [
+        {"num": 1, "title": "Intimité douce", "time": "0:00–0:35", "mood": "Slow tendre", "key": "Cadre, premier tour, shadow"},
+        {"num": 2, "title": "Émotion", "time": "0:35–1:15", "mood": "Connexion", "key": "Hairbrushes, disconnect, hands"},
+        {"num": 3, "title": "Montée douce", "time": "1:15–2:00", "mood": "Anticipation", "key": "Walking, plank, tilt préparé"},
+        {"num": 4, "title": "Explosion rock", "time": "2:00–2:30", "mood": "Pic spectaculaire", "key": "Lift block, body roll, jive moves"},
+        {"num": 5, "title": "Retour au calme", "time": "2:30–3:00", "mood": "Outro intime", "key": "Slow walks, pose, final dip"}
+      ],
+      "choreo_parts": [
+        {
+          "num": 1,
+          "title": "Intimité douce",
+          "time": "0:00 – 0:35",
+          "music_description": "Intro piano et début du couplet 1. Atmosphère chuchotée, presque comme une berceuse. Vous arrivez sur la piste très doucement.",
+          "figures": [
+            {"name": "Walk-in slow", "desc": "Quatre pas très lents pour rejoindre le centre, en regardant le partenaire. Démarrez sur la première note du piano."},
+            {"name": "Hands", "desc": "Prise de mains lente, regard verrouillé. Tenue 4 temps, sans rien faire d'autre."},
+            {"name": "Closed position", "desc": "Passage en cadre fermé doux, sans tension. Position presque câline."},
+            {"name": "Steps in rotation slow", "desc": "Quatre pas tournants très lents, presque immobiles, dans le sens horaire."},
+            {"name": "Lady's turn slow", "desc": "Premier tour de la mariée, très lent. Synchronisé sur le mot « moments » du couplet 1."},
+            {"name": "Shadow position", "desc": "Le marié passe derrière la mariée, mains délicatement sur sa taille. Position d'ouverture sur le pré-refrain."}
+          ],
+          "transition": "Le pré-refrain démarre (la musique commence à respirer plus). La Part 2 va approfondir l'intimité avant l'explosion."
+        },
+        {
+          "num": 2,
+          "title": "Émotion",
+          "time": "0:35 – 1:15",
+          "music_description": "Pré-refrain puis refrain calme. La voix monte en intensité mais reste contenue. Les cordes ajoutent une couche émotionnelle.",
+          "figures": [
+            {"name": "Hairbrushes", "desc": "Geste tendre, chacun « coiffe » l'autre depuis la position shadow."},
+            {"name": "Disconnect", "desc": "La mariée fait un pas en avant et se retourne, le couple se sépare une mesure. Regard chargé."},
+            {"name": "Reach out", "desc": "Le marié tend la main vers la mariée comme pour la rattraper, geste théâtral."},
+            {"name": "Hands reconnect", "desc": "Reprise de mains très lente, comme un soulagement. Tenue 2 temps."},
+            {"name": "Closed position", "desc": "Retour en cadre fermé, tendu cette fois (anticipation de la suite)."},
+            {"name": "Slow rotation", "desc": "Trois pas tournants lents pour préparer la Part 3."}
+          ],
+          "transition": "Le refrain calme se termine. La Part 3 va monter doucement en intensité, en préparation pour l'explosion à 2:00."
+        },
+        {
+          "num": 3,
+          "title": "Montée douce",
+          "time": "1:15 – 2:00",
+          "music_description": "Couplet 2 et début de la montée. La voix devient plus pressante, on sent quelque chose qui se prépare sans pouvoir le nommer.",
+          "figures": [
+            {"name": "Walking in rotation", "desc": "Six pas tournants ensemble, en marche plus marquée que dans les Parts précédentes. Premier signe de montée."},
+            {"name": "Basket position", "desc": "Croisement des mains devant le couple, entrée fluide vers une figure plus dynamique."},
+            {"name": "Plank figure", "desc": "La mariée s'étire à l'horizontale, supportée par le marié. Pose tenue 2 temps. Synchronisez le pic du plank sur le mot « know »."},
+            {"name": "Recover to closed", "desc": "Retour en closed position après le plank."},
+            {"name": "Tilt to the side", "desc": "Inclinaison lente de la mariée, en préparation au lift de la Part 4. Tenue 2 temps."},
+            {"name": "Pose hold (anticipation)", "desc": "Arrêt complet, regard du couple plongé l'un dans l'autre, juste avant l'explosion. Tenez exactement 2 temps. Le silence visuel rend l'explosion suivante encore plus puissante."}
+          ],
+          "transition": "Le break musical arrive (~1 seconde de quasi-silence), puis l'explosion rock. C'est le moment le plus important de toute la chorégraphie : passer du quasi-immobile au mouvement complet d'un coup."
+        },
+        {
+          "num": 4,
+          "title": "Explosion rock",
+          "time": "2:00 – 2:30",
+          "music_description": "Le breakdown rock complet. Batterie ample, guitares saturées, Benson Boone qui crie « DON'T LET ME GO ». 30 secondes d'énergie pure.",
+          "figures": [
+            {"name": "Princess lift explosif", "desc": "LE moment de la chorégraphie. Le marié soulève la mariée d'un coup, bras tendus, dans la première seconde du breakdown. Lift court (3 temps) mais maximal en énergie."},
+            {"name": "Slow descent contrôlée", "desc": "Redescente immédiate mais ralentie, la mariée glisse contre le marié."},
+            {"name": "Closed position rock", "desc": "Cadre rock (plus bas et serré que la valse) pour des figures dynamiques."},
+            {"name": "Body roll duo", "desc": "Body roll synchronisé du couple, mains tenues. Figure spectaculaire, à pratiquer beaucoup pour être parfaitement synchronisés."},
+            {"name": "American spin x2", "desc": "Deux spins consécutifs de la mariée, énergie maximale."},
+            {"name": "Jive lift back drop", "desc": "Deuxième porté. La mariée se penche en arrière dans les bras du marié, lift très court mais visuellement marquant. Pattern « lift block »."},
+            {"name": "Pose finale rock", "desc": "Pose dynamique, jambes écartées, regard frontal. Tenue 2 temps. Marque la fin du breakdown."}
+          ],
+          "transition": "Le morceau retourne au calme du début (outro). C'est aussi brutal que l'explosion mais dans l'autre sens. Il faut immédiatement redescendre en énergie pour la Part 5."
+        },
+        {
+          "num": 5,
+          "title": "Retour au calme",
+          "time": "2:30 – 3:00",
+          "music_description": "Outro : retour au piano doux, voix presque chuchotée à nouveau. Dernière note tenue à la fin. Exactement à l'opposé du breakdown.",
+          "figures": [
+            {"name": "Slow walks", "desc": "Quatre pas lents, presque hésitants, comme après une tempête. Le couple reprend son souffle visuel."},
+            {"name": "Hands", "desc": "Reprise de mains très lente, comme dans la Part 1. Boucle émotionnelle."},
+            {"name": "Shadow position", "desc": "Retour à la position shadow d'ouverture, en miroir de la Part 1. Effet de circularité narrative."},
+            {"name": "Hands lift", "desc": "Le marié soulève doucement les mains de la mariée à hauteur des yeux, geste tendre et lent."},
+            {"name": "Closed position slow", "desc": "Retour cadre fermé doux, comme au début."},
+            {"name": "Final dip", "desc": "Dip final doux, pas un dip rock mais un dip lent. La mariée s'incline vers l'arrière, regard verrouillé. Synchronisez le pic du dip pile sur la dernière note du piano. Tenez la pose 3 secondes après le silence (1 seconde de plus que sur les autres chorégraphies, pour appuyer le contraste avec le breakdown)."}
+          ],
+          "transition": "Restez figés sur le dip pendant 3 secondes après la dernière note. Le silence après le breakdown rock + le dip lent forment l'image la plus marquante de toute la chorégraphie."
+        }
+      ],
+
+      "figures_intro": "Cette chorégraphie utilise 31 figures sur 5 Parts, avec deux univers visuels totalement différents. Les Parts 1-3 et 5 utilisent un vocabulaire slow chorégraphié classique (shadow, hairbrushes, plank). La Part 4 explose dans un vocabulaire rock (Princess lift, body roll duo, American spin, jive lift). Cette dualité demande de la flexibilité technique du couple.",
+      "figures_list": [
+        {"name": "Walk-in slow", "level": "BASE", "loc": "Part 1"},
+        {"name": "Hands", "level": "BASE", "loc": "Part 1, 2, 5"},
+        {"name": "Closed position", "level": "BASE", "loc": "Part 1, 2"},
+        {"name": "Steps in rotation slow", "level": "BASE", "loc": "Part 1"},
+        {"name": "Lady's turn slow", "level": "BASE", "loc": "Part 1"},
+        {"name": "Shadow position", "level": "FACILE", "loc": "Part 1, 5"},
+        {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Disconnect", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Reach out", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hands reconnect", "level": "BASE", "loc": "Part 2"},
+        {"name": "Walking in rotation", "level": "BASE", "loc": "Part 3"},
+        {"name": "Basket position", "level": "BASE", "loc": "Part 3"},
+        {"name": "Plank figure", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Recover to closed", "level": "BASE", "loc": "Part 3"},
+        {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Pose hold (anticipation)", "level": "BASE", "loc": "Part 3"},
+        {"name": "Princess lift explosif", "level": "INTER.", "loc": "Part 4"},
+        {"name": "Slow descent contrôlée", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Closed position rock", "level": "BASE", "loc": "Part 4"},
+        {"name": "Body roll duo", "level": "INTER.", "loc": "Part 4"},
+        {"name": "American spin x2", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Jive lift back drop", "level": "INTER.", "loc": "Part 4"},
+        {"name": "Pose finale rock", "level": "BASE", "loc": "Part 4"},
+        {"name": "Slow walks", "level": "BASE", "loc": "Part 5"},
+        {"name": "Hands lift", "level": "BASE", "loc": "Part 5"},
+        {"name": "Closed position slow", "level": "BASE", "loc": "Part 5"},
+        {"name": "Final dip", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [
+        {"name": "Princess lift explosif (Part 4)", "alternative": "Si vous ne voulez pas de porté sur l'explosion, remplacez par un « big step apart » : le couple s'écarte d'un grand pas vers l'extérieur exactement à la première seconde du breakdown. Le geste est ample, visuellement marquant, et exploite la rupture musicale autrement que par un lift."},
+        {"name": "Jive lift back drop (Part 4)", "alternative": "Remplacez par un « back lean » où la mariée se laisse tomber en arrière dans les bras du marié sans être soulevée du sol. Le marié la rattrape à mi-hauteur. Effet cinématique préservé, zéro porté technique."}
+      ],
+
+      "tips": [
+        {"title": "Le break à 2:00 est tout", "text": "La rupture musicale à 2:00 minutes est le moment qui fait ou défait votre chorégraphie. Pratiquez ce moment au moins 30 fois isolément, jusqu'à ce que la transition de la pose statique au mouvement explosif soit parfaitement coordonnée. Aucun autre moment de la chorégraphie ne mérite autant de répétitions."},
+        {"title": "Préparez la respiration pendant la Part 3", "text": "La Part 3 se termine sur une pose tenue 2 temps, juste avant l'explosion. Profitez-en pour reprendre votre souffle. Le breakdown qui suit (30 secondes intenses) demande du cardio. Inspirez profondément pendant la pose, vous tiendrez la Part 4 sans essoufflement visible."},
+        {"title": "Le contraste vestimentaire fonctionne", "text": "Certains couples enlèvent un élément vestimentaire au breakdown (le marié sa veste, la mariée son voile court, etc.) pour souligner visuellement la rupture musicale. Geste fort, à coordonner précisément avec le break. Vu plusieurs fois dans des chorégraphies réussies."},
+        {"title": "Le dip final lent est crucial", "text": "Beaucoup de couples sont tentés de finir sur une pose rock (dynamique) après l'explosion. C'est une erreur. La chanson revient au calme dans les 30 dernières secondes, et votre chorégraphie doit suivre. Le dip final lent renforce le contraste émotionnel, et c'est ce qui rend la chorégraphie inoubliable."}
+      ],
+
+      "faq": [
+        {"q": "Cette chorégraphie convient-elle à tous les couples ?", "a": "Elle convient particulièrement aux couples qui aiment la surprise et qui n'ont pas peur d'un moment énergique. Si vous voulez une chorégraphie 100% slow émotionnel, Perfect ou A Thousand Years vous conviendront mieux. Si vous voulez du fun assumé, Beautiful Things est le meilleur compromis du catalogue."},
+        {"q": "Faut-il être en bonne forme physique pour la Part 4 ?", "a": "Une forme physique de base suffit, mais entraînez l'enchaînement Part 4 isolément au moins 10 fois avant le jour J. Les 30 secondes du breakdown sont intenses : lift, body roll, spins, lift block. Le cardio doit suivre."},
+        {"q": "Comment réagissent les invités à la surprise du breakdown ?", "a": "Très bien, à condition qu'ils ne connaissent pas la chanson. Les invités plus âgés (50+) découvrent souvent Beautiful Things à votre mariage. La rupture musicale est un vrai choc agréable. Les invités plus jeunes (20-35) la connaissent et attendent le moment, ce qui crée un effet d'anticipation collective."},
+        {"q": "Peut-on demander au DJ de retirer le breakdown si on veut juste un slow ?", "a": "Techniquement oui, mais on vous le déconseille. Sans le breakdown, Beautiful Things devient une chanson lente parmi d'autres, sans valeur ajoutée par rapport à des classiques comme All of Me. Le breakdown est exactement ce qui rend cette chorégraphie mémorable."},
+        {"q": "Peut-on faire cette chorégraphie à deux danseurs débutants complets ?", "a": "C'est possible mais ambitieux. Le breakdown demande une coordination très précise pour les lifts et le body roll duo. Nous recommandons cette chorégraphie aux couples qui ont au moins une notion de rythme musical, ou qui sont prêts à pratiquer 12 à 14 semaines au lieu des 10 à 14 recommandées."}
+      ],
+
+      "for_you_if": [
+        "Vous voulez la chorégraphie la plus marquante du catalogue",
+        "Vous aimez l'effet de surprise et le contraste musical",
+        "Vous voulez deux univers visuels (slow puis rock)",
+        "Vous voulez une chanson qui dure pile 3:00 (idéal pour ouverture de bal)",
+        "Vous êtes prêts à pratiquer 10 à 14 semaines",
+        "Vous voulez le breakdown explosif comme moment fort"
+      ],
+      "what_you_learn": [
+        "31 figures, mélange slow + rock",
+        "Le Princess lift explosif sur le breakdown",
+        "Le body roll duo synchronisé",
+        "Comment gérer la rupture musicale brutale à 2:00 minutes",
+        "Comment passer de l'immobilité à l'explosion sans décalage",
+        "Comment finir sur un dip lent après le breakdown rock"
+      ],
+
+      "final_cta_text": "Vous êtes prêts à apprendre la chorégraphie la plus marquante du catalogue en 10 à 14 semaines. Le contraste musical (slow puis breakdown rock puis retour au calme) est un défi technique mais une garantie d'effet mémorable sur la piste. Accès à vie aux 10 modules vidéo, démonstration sous 2 angles, deux alternatives sans porté. Garantie satisfait ou remboursé pendant 14 jours."
+    },
+
+    {
+      "slug": "love-story-indila",
+      "title": "Love Story",
+      "artist": "Indila",
+      "year": 2014,
+      "duration": "3:02",
+      "bpm": 78,
+      "bpm_felt": 78,
+      "time_signature": "4/4",
+      "style": "slow",
+      "style_label": "Slow francophone lyrique",
+      "level": "débutant à intermédiaire",
+      "preparation_weeks": "8 à 12",
+      "price": 89,
+      "modules": 9,
+      "course_duration": "2h 00",
+      "review_count": 102,
+      "visual_color": "peach-3",
+
+      "seo_title": "Chorégraphie ouverture de bal sur Love Story (Indila) | Slow francophone 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur Love Story d'Indila. Slow francophone lyrique, 9 modules vidéo, version 3:02. Accès à vie. 89€.",
+      "og_title": "Chorégraphie Love Story, Indila",
+      "og_description": "Slow chorégraphié sur Love Story d'Indila. 9 modules, 5 Parts, 29 figures, version 3:02. Le choix francophone par excellence.",
+
+      "hero_intro": "Love Story d'Indila est l'un des deux ou trois choix francophones les plus dansés en ouverture de bal, avec Tourner dans le vide de la même artiste et Je veux d'Indila également. Le morceau allie la dramaturgie du chant lyrique d'Indila à une instrumentation orientale subtile, parfaite pour des couples qui veulent un slow francophone qui sort des codes anglo-saxons. La version chorégraphiée fait 3:02, format idéal pour une ouverture de bal.",
+
+      "song_anecdote": "Indila, de son vrai nom Adila Sedraïa, est une chanteuse française d'origine algérienne et cambodgienne. Elle a sorti Love Story en 2014 sur son premier album Mini World, qui a été le plus gros succès d'une artiste française depuis dix ans à sa sortie. La chanson raconte un amour entre deux personnes que tout sépare : « Tu venais d'un autre monde, je venais d'une autre histoire ». Indila n'a jamais confirmé si la chanson était autobiographique, ce qui a contribué à son aura mystérieuse. Le clip officiel a dépassé les 700 millions de vues sur YouTube.",
+
+      "song_wedding_reason": "Love Story est le slow francophone par excellence pour une chorégraphie de mariage. Le tempo lent (78 BPM) laisse le temps de poser chaque figure avec précision, ce qui rassure des danseurs débutants. La voix d'Indila monte progressivement vers un climax dramatique sur le refrain, ce qui donne un arc émotionnel naturel à la chorégraphie. Et pour les couples mixtes (avec une partie de la famille non francophone), les paroles compréhensibles en français créent un moment d'intimité partagée avec les invités francophones, sans exclure les autres.",
+
+      "music_intro": "Voici la structure de Love Story. La chanson est construite en trois grandes vagues qui montent en intensité, parfaites pour aligner cinq Parts chorégraphiques.",
+      "music_timeline": [
+        {"label": "Intro orientale", "details": "Quelques notes orientales (oud et cordes), atmosphère mystérieuse. Vous entrez tranquillement sur la piste."},
+        {"label": "Couplet narratif", "details": "La voix d'Indila raconte. Instrumentation discrète, c'est le moment d'installer l'intimité du couple."},
+        {"label": "Pré-refrain et premier refrain", "details": "Les cordes amples arrivent, la voix monte. Premier pic émotionnel et bon moment pour une figure marquante."},
+        {"label": "Pont, deuxième refrain et outro", "details": "La voix d'Indila atteint son maximum de puissance dramatique. C'est ici que se place le lift block, puis la dernière note tenue."}
+      ],
+      "music_notes": [
+        "Le tempo lent (78 BPM) est confortable pour des débutants, mais le piège est de tomber dans la lenteur excessive. Restez précisément sur le tempo, ne ralentissez pas vos pas pour être « plus romantique ».",
+        "Le pic dramatique arrive sur les paroles « Et là devant nos yeux, c'est l'apothéose » du deuxième refrain. C'est exactement là que placer votre porté ou figure spectaculaire.",
+        "La dernière note tenue est longue (4 secondes). Vous avez le temps de poser un dip final lent, presque immobile, et de le tenir 2 secondes après le silence."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Cette chorégraphie respecte la dramaturgie lyrique d'Indila en cinq actes : intimité orientale, narration tendre, premier élan, pic dramatique, apothéose finale. Les figures sont classiques du slow chorégraphié mais avec une coloration plus théâtrale (poses tenues, regards intenses, body sweeps). Le porté principal est placé sur le mot « apothéose » du deuxième refrain, exactement le pic dramatique du morceau.",
+      "choreo_arc": [
+        {"num": 1, "title": "Entrée orientale", "time": "0:00–0:25", "mood": "Mystère", "key": "Walk-in, cadre, premier tour"},
+        {"num": 2, "title": "Narration tendre", "time": "0:25–1:00", "mood": "Intimité", "key": "Shadow, hairbrushes, hands"},
+        {"num": 3, "title": "Premier élan", "time": "1:00–1:45", "mood": "Émotion", "key": "Catwalk, plank, walking"},
+        {"num": 4, "title": "Pic dramatique", "time": "1:45–2:30", "mood": "Apothéose", "key": "Princess lift, swan, body sweep"},
+        {"num": 5, "title": "Apothéose finale", "time": "2:30–3:02", "mood": "Outro lyrique", "key": "Slow rotation, pose, final dip"}
+      ],
+      "choreo_parts": [
+        {
+          "num": 1,
+          "title": "Entrée orientale",
+          "time": "0:00 – 0:25",
+          "music_description": "Intro orientale (oud et cordes), atmosphère mystérieuse. Vous entrez tranquillement, presque comme dans un rêve.",
+          "figures": [
+            {"name": "Walk-in slow oriental", "desc": "Quatre pas lents et mesurés pour rejoindre le centre. Tenue droite, regard porté loin pour souligner l'aspect théâtral."},
+            {"name": "Hands", "desc": "Prise de mains lente, regard verrouillé. Tenue 4 temps."},
+            {"name": "Closed position", "desc": "Passage en cadre fermé, position de valse classique mais avec une posture plus haute (effet « lyrique »)."},
+            {"name": "Slow rotation", "desc": "Trois pas tournants très lents, dans le sens horaire. Le but est l'élégance, pas la rapidité."},
+            {"name": "Lady's turn", "desc": "Premier tour de la mariée. Synchronisé sur l'entrée de la voix d'Indila au début du couplet 1."},
+            {"name": "Open position", "desc": "Mains tenues, regard partagé, 2 temps de respiration avant la narration de la Part 2."}
+          ],
+          "transition": "Le couplet narratif commence. La Part 2 va approfondir l'intimité du couple, en miroir des paroles narratives d'Indila."
+        },
+        {
+          "num": 2,
+          "title": "Narration tendre",
+          "time": "0:25 – 1:00",
+          "music_description": "Couplet 1 : Indila raconte l'histoire (« Que sont ces longues nuits, qui durent et qui durent »). Instrumentation discrète, voix au premier plan.",
+          "figures": [
+            {"name": "Shadow position", "desc": "Le marié passe derrière la mariée, mains posées délicatement sur sa taille. Position narrative, comme « tu es derrière moi dans cette histoire »."},
+            {"name": "Hairbrushes", "desc": "Geste tendre, chacun « coiffe » l'autre, depuis la position shadow."},
+            {"name": "Disconnect", "desc": "Les partenaires se séparent une mesure, en miroir des paroles « tu venais d'un autre monde »."},
+            {"name": "Reach out", "desc": "Le marié tend la main vers la mariée, geste théâtral qui souligne le lyrisme du texte."},
+            {"name": "Hands reconnect", "desc": "Reprise de mains lente, soulagement visuel."},
+            {"name": "Closed position", "desc": "Retour cadre fermé, plus serré qu'au début. Anticipation de la montée."}
+          ],
+          "transition": "Le pré-refrain commence (les cordes amples vont entrer). La Part 3 va relancer l'énergie avec catwalk et plank."
+        },
+        {
+          "num": 3,
+          "title": "Premier élan",
+          "time": "1:00 – 1:45",
+          "music_description": "Pré-refrain puis premier refrain (« Et soudain plus rien, ce monde s'évanouit »). Les cordes amples portent la voix qui monte.",
+          "figures": [
+            {"name": "Basket position", "desc": "Croisement des mains devant le couple, entrée fluide depuis closed position."},
+            {"name": "Plank figure", "desc": "La mariée s'étire à l'horizontale, supportée par le marié. Synchronisez le pic du plank sur le mot « évanouit » du refrain."},
+            {"name": "Lady on the catwalk", "desc": "Quatre pas en avant comme sur un podium, regard porté loin. Le marié reste sur place."},
+            {"name": "Closed position", "desc": "Retour cadre fermé."},
+            {"name": "Walking in rotation", "desc": "Six pas tournants amples, le couple « occupe » la piste."},
+            {"name": "Lady's turn", "desc": "Tour rapide de la mariée pour préparer la transition vers la Part 4 (le pic dramatique du morceau)."}
+          ],
+          "transition": "La Part 4 enchaîne sur le deuxième refrain orchestré, qui est le pic dramatique de la chanson."
+        },
+        {
+          "num": 4,
+          "title": "Pic dramatique",
+          "time": "1:45 – 2:30",
+          "music_description": "Deuxième refrain (« Et là devant nos yeux, c'est l'apothéose »). Pic absolu d'Indila, voix puissante, orchestration ample. C'est le moment le plus chargé de la chanson.",
+          "figures": [
+            {"name": "Open position", "desc": "Mains tenues, prêts à exploser visuellement."},
+            {"name": "Tilt to the side", "desc": "Inclinaison lente de la mariée, en préparation au porté."},
+            {"name": "Princess lift", "desc": "LE porté principal de la chorégraphie. Le marié soulève la mariée bras tendus. Synchronisez le pic du lift PILE sur le mot « apothéose » d'Indila. C'est le moment iconique."},
+            {"name": "Pose hold", "desc": "Tenez 2 temps en haut du lift, regard partagé. Les invités vont applaudir ici."},
+            {"name": "Slow descent", "desc": "Redescente contrôlée et lente, soutenue."},
+            {"name": "Body sweep", "desc": "La mariée glisse latéralement contre le marié, geste fluide qui prolonge la dramaturgie."},
+            {"name": "Closed position", "desc": "Retour cadre fermé pour la Part 5."}
+          ],
+          "transition": "Le pont instrumental commence. La Part 5 va ramener le couple vers une apothéose plus contenue, juste avant le dip final."
+        },
+        {
+          "num": 5,
+          "title": "Apothéose finale",
+          "time": "2:30 – 3:02",
+          "music_description": "Pont instrumental et outro avec dernière note tenue. La voix d'Indila redescend en intensité, l'orchestration aussi.",
+          "figures": [
+            {"name": "Walking in rotation slow", "desc": "Quatre pas tournants ralentis, comme un retour au calme après la tempête émotionnelle."},
+            {"name": "Lady's right turn", "desc": "Un dernier tour ample pour la mariée."},
+            {"name": "Cradle to closed", "desc": "Petit cradle (mariée bercée brièvement), puis retour en closed position."},
+            {"name": "Swan figure (au sol)", "desc": "La mariée s'agenouille devant le marié, dos cambré, bras déployés. Pose iconique tenue 2 temps."},
+            {"name": "Rise to closed", "desc": "La mariée se relève lentement, soutenue par le marié, retour en closed position."},
+            {"name": "Steps in rotation", "desc": "Quatre derniers pas tournants pour caler le timing sur la dernière note d'Indila."},
+            {"name": "Final dip lyrique", "desc": "Dip final lent et théâtral. La mariée s'incline vers l'arrière, regard verrouillé. Synchronisez le pic du dip pile sur la dernière note tenue d'Indila. Tenez la pose 2 secondes après le silence."}
+          ],
+          "transition": "Restez figés sur le dip pendant 2 secondes après la dernière note. Puis relevez-vous lentement, regard partagé. Le silence après le lyrisme d'Indila rend le moment particulièrement puissant."
+        }
+      ],
+
+      "figures_intro": "Cette chorégraphie utilise 29 figures sur 5 Parts. Le vocabulaire est slow chorégraphié classique, avec une coloration plus théâtrale que sur Perfect ou A Thousand Years. Le swan figure se fait ici au sol (et non en lift) pour rester dans la dramaturgie lyrique d'Indila plutôt que dans l'esthétique conte de fées.",
+      "figures_list": [
+        {"name": "Walk-in slow oriental", "level": "BASE", "loc": "Part 1"},
+        {"name": "Hands", "level": "BASE", "loc": "Part 1, 2"},
+        {"name": "Closed position", "level": "BASE", "loc": "Part 1, 2, 3, 4, 5"},
+        {"name": "Slow rotation", "level": "BASE", "loc": "Part 1"},
+        {"name": "Lady's turn", "level": "BASE", "loc": "Part 1, 3"},
+        {"name": "Open position", "level": "BASE", "loc": "Part 1, 4"},
+        {"name": "Shadow position", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Disconnect", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Reach out", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hands reconnect", "level": "BASE", "loc": "Part 2"},
+        {"name": "Basket position", "level": "BASE", "loc": "Part 3"},
+        {"name": "Plank figure", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Lady on the catwalk", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Walking in rotation", "level": "BASE", "loc": "Part 3"},
+        {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Princess lift", "level": "INTER.", "loc": "Part 4"},
+        {"name": "Pose hold", "level": "BASE", "loc": "Part 4"},
+        {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Body sweep", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Walking in rotation slow", "level": "BASE", "loc": "Part 5"},
+        {"name": "Lady's right turn", "level": "BASE", "loc": "Part 5"},
+        {"name": "Cradle to closed", "level": "FACILE", "loc": "Part 5"},
+        {"name": "Swan figure (au sol)", "level": "FACILE", "loc": "Part 5"},
+        {"name": "Rise to closed", "level": "BASE", "loc": "Part 5"},
+        {"name": "Steps in rotation", "level": "BASE", "loc": "Part 5"},
+        {"name": "Final dip lyrique", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [
+        {"name": "Princess lift (Part 4)", "alternative": "Si le marié n'est pas à l'aise avec les portés, remplacez par un « pose tilt prolongée » : la mariée incline son corps en arrière, soutenue par le bras du marié, sans être soulevée du sol. Synchronisez la pose pile sur le mot « apothéose » pour conserver le pic dramatique."}
+      ],
+
+      "tips": [
+        {"title": "Travaillez les regards autant que les figures", "text": "Love Story est une chanson lyrique et narrative. Les figures techniques (plank, lift) sont importantes, mais ce qui rend la chorégraphie marquante, c'est l'intensité des regards entre les partenaires. Pratiquez la chorégraphie d'abord sans la musique, en vous regardant dans les yeux à chaque figure. Vous serez surpris du résultat."},
+        {"title": "La synchronisation sur « apothéose »", "text": "Le mot le plus important de la chanson est « apothéose » dans le deuxième refrain. Le pic du Princess lift doit tomber EXACTEMENT sur ce mot. Comptez les mesures pour le caler au lieu d'essayer de réagir à l'oreille (réaction trop lente). Comptez : refrain commence, 4 mesures, lift."},
+        {"title": "Le swan au sol plutôt qu'en lift", "text": "Beaucoup de chorégraphies de mariage utilisent le swan en lift (la mariée portée bras déployés). Pour Love Story, on préfère le swan au sol (mariée à genou, dos cambré). C'est cohérent avec la dramaturgie lyrique d'Indila, qui est plus orientée « personnages tragiques » que « conte de fées »."},
+        {"title": "Les invités francophones vont écouter les paroles", "text": "Contrairement aux chorégraphies sur des chansons anglo-saxonnes, les invités francophones vont écouter les paroles d'Indila pendant que vous dansez. Synchronisez vos figures sur le sens des paroles (shadow sur « tu venais d'un autre monde », plank sur « ce monde s'évanouit », lift sur « apothéose »). Le module 9 détaille ces synchros."}
+      ],
+
+      "faq": [
+        {"q": "Quels autres choix francophones existent dans votre catalogue ?", "a": "Tourner dans le vide (Indila, slow lyrique, similaire à Love Story dans la dramaturgie), Je veux (Indila également, plus pop), Sous le vent (Garou & Céline Dion, duo classique), Quand on n'a que l'amour (Jacques Brel, slow classique). Au total, le catalogue propose 8 chorégraphies en français sur les 56 disponibles."},
+        {"q": "Combien de temps faut-il pour apprendre cette chorégraphie ?", "a": "Comptez 8 à 12 semaines avec 2 à 3 séances de 30 minutes par semaine. Les couples débutants complets prennent 10 à 12 semaines. Les couples avec un peu de notions de danse maîtrisent en 8 semaines."},
+        {"q": "Qui s'occupe d'éditer la musique pour le jour J ?", "a": "Nous nous en chargeons. Après votre achat, vous recevez par mail la version chorégraphiée 3:02 prête à transmettre à votre DJ. Aucun travail d'édition de votre côté."},
+        {"q": "La chanson convient-elle à un public mixte francophone et non francophone ?", "a": "Oui. Les non francophones (anglophones, hispanophones) entendent la musique sans comprendre les paroles, ce qui fonctionne très bien (la voix d'Indila est suffisamment expressive). Les francophones, eux, suivent les paroles et vivent un deuxième niveau d'émotion. Effet « universel + intime » réussi."},
+        {"q": "Y a-t-il une version sans lift ?", "a": "Oui. Le seul lift de la chorégraphie (Princess lift Part 4) a une alternative intégrée : la « pose tilt prolongée », sans porté. Le module 8 explique précisément comment substituer. La chorégraphie reste tout aussi puissante."}
+      ],
+
+      "for_you_if": [
+        "Vous voulez une chorégraphie en français (Indila)",
+        "Vous aimez la dramaturgie lyrique et théâtrale",
+        "Vous avez des invités francophones qui suivront les paroles",
+        "Vous voulez un slow émotionnellement chargé",
+        "Vous êtes prêts à pratiquer 8 à 12 semaines",
+        "Vous voulez une option sans porté (swan au sol au lieu de lift)"
+      ],
+      "what_you_learn": [
+        "29 figures de slow chorégraphié francophone",
+        "Le swan figure au sol (et non en lift)",
+        "Le Princess lift synchronisé sur le mot « apothéose »",
+        "L'art des regards intenses entre partenaires",
+        "Le timing sur les paroles d'Indila",
+        "Comment poser un dip final lyrique et théâtral"
+      ],
+
+      "final_cta_text": "Vous êtes prêts à apprendre cette chorégraphie francophone en 8 à 12 semaines, depuis votre salon. Aucune expérience de danse n'est requise. Accès à vie aux 9 modules vidéo, démonstration sous 2 angles, version sans lift incluse. Garantie satisfait ou remboursé pendant 14 jours."
+    },
+
+    {
+      "slug": "all-of-me-john-legend",
+      "title": "All of Me",
+      "artist": "John Legend",
+      "year": 2013,
+      "duration": "3:25",
+      "bpm": 102,
+      "bpm_felt": 102,
+      "time_signature": "4/4 dansable 3/4",
+      "style": "slow",
+      "style_label": "Slow chorégraphié",
+      "level": "débutant à intermédiaire",
+      "preparation_weeks": "8 à 12",
+      "price": 89,
+      "modules": 10,
+      "course_duration": "2h 10",
+      "review_count": 142,
+      "visual_color": "peach-2",
+
+      "seo_title": "Chorégraphie ouverture de bal sur All of Me (John Legend) | Slow 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur All of Me de John Legend. Slow chorégraphié, 10 modules vidéo, version 3:25. Accès à vie. 89€.",
+      "og_title": "Chorégraphie All of Me, John Legend",
+      "og_description": "Slow chorégraphié sur All of Me de John Legend. 10 modules, 5 Parts, 31 figures. Le standard romantique par excellence.",
+
+      "hero_intro": "All of Me de John Legend est le slow mariage qui a régné en maître entre 2013 et 2017, juste avant l'arrivée de Perfect. Très demandé encore aujourd'hui par les couples qui veulent un slow romantique, avec piano au premier plan et voix soul. La version chorégraphiée fait 3:25, format idéal pour une ouverture de bal.",
+
+      "song_anecdote": "John Legend a écrit All of Me en 2013 pour Chrissy Teigen, sa femme, après une dispute pendant l'écriture de l'album. Il raconte que la chanson est venue d'un seul jet, au piano de leur appartement à New York. Le morceau est devenu le plus gros tube mariage des années 2013 à 2017 avant d'être détrôné par Perfect. Il y a aussi une version en duo avec Lindsey Stirling au violon, et une version live à Stockholm de 2014 souvent utilisée par les couples qui veulent une intro plus longue au piano.",
+
+      "song_wedding_reason": "All of Me est l'un des slows les plus accessibles techniquement. Le tempo à 102 BPM est confortable, ni trop lent ni trop rapide, et reste stable du début à la fin. Le piano au premier plan donne un cadre clair pour aligner les pas. Les transitions entre couplet, pré-refrain et refrain sont marquées par des accords distincts, faciles à entendre même pour des danseurs sans aucune oreille musicale. C'est le morceau parfait pour des débutants complets qui veulent un slow émotionnel sans piège rythmique.",
+
+      "music_intro": "Voici comment All of Me est construite. Quatre grands paliers musicaux qui structurent naturellement la chorégraphie.",
+      "music_timeline": [
+        {"label": "Intro piano", "details": "Piano seul, mélodie simple répétée. C'est l'entrée du couple sur la piste."},
+        {"label": "Couplet et pré-refrain", "details": "La voix de John Legend entre, le piano continue. Pas d'autre instrumentation."},
+        {"label": "Refrain (cordes et batterie)", "details": "Entrée des cordes amples et d'une batterie discrète. Premier pic émotionnel, moment des figures marquantes."},
+        {"label": "Crescendo final et dernière note tenue", "details": "Tous les instruments ensemble, montée orchestrale, puis dernière note longue. Signal du dip final."}
+      ],
+      "music_notes": [
+        "Le tempo à 102 BPM est très stable. Pas de variation à anticiper, c'est confortable pour des danseurs débutants.",
+        "Le pic émotionnel arrive sur le crescendo final (« cause all of me loves all of you »). C'est là que placer votre figure la plus spectaculaire : lift, swan, ou dip dramatique.",
+        "La dernière note du piano est tenue 3 secondes à la fin. Vous avez le temps de poser le dip final et de le tenir 2 secondes après le silence."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Cette chorégraphie suit l'arc classique en cinq actes sur la version 3:25. Le vocabulaire est slow chorégraphié pur (cadre, tours, shadow, lifts) avec un porté principal et un swan figure final. Toutes les figures sont accessibles aux débutants, avec une alternative sans porté pour le lift de la Part 4.",
+      "choreo_arc": [
+        {"num": 1, "title": "Rencontre", "time": "0:00–0:35", "mood": "Piano seul", "key": "Cadre, marche, 1er tour"},
+        {"num": 2, "title": "Découverte", "time": "0:35–1:05", "mood": "Tendresse", "key": "Shadow, hairbrushes, hands"},
+        {"num": 3, "title": "Intimité", "time": "1:05–1:45", "mood": "Pré-refrain", "key": "Catwalk, plank, disconnect"},
+        {"num": 4, "title": "Énergie", "time": "1:45–2:25", "mood": "Refrain orchestral", "key": "Walking, princess lift, tilt"},
+        {"num": 5, "title": "Apothéose", "time": "2:25–3:25", "mood": "Crescendo final", "key": "Swan lift, body sweep, dip final"}
+      ],
+      "choreo_parts": [
+        {
+          "num": 1,
+          "title": "Rencontre",
+          "time": "0:00 – 0:35",
+          "music_description": "Intro piano et début du couplet 1. Piano seul, voix qui démarre tranquillement. Vous arrivez sur la piste sans presser.",
+          "figures": [
+            {"name": "Walk-in slow", "desc": "Quatre pas lents qui rapprochent les partenaires depuis l'entrée. Démarrez pile sur la première note du piano."},
+            {"name": "Hands", "desc": "Prise de mains lente, regard dans les yeux. Tenue 4 temps."},
+            {"name": "Closed position", "desc": "Passage en cadre fermé, position de valse classique."},
+            {"name": "Steps in rotation", "desc": "Quatre pas tournants doux pour s'habituer à se mouvoir ensemble."},
+            {"name": "Lady's turn", "desc": "Premier tour de la mariée. Synchronisé sur l'entrée de la voix de John Legend."},
+            {"name": "Open position", "desc": "Retour face à face, mains tenues. Respiration avant la Part 2."}
+          ],
+          "transition": "Le pré-refrain arrive. La Part 2 va approfondir l'intimité avec shadow position."
+        },
+        {
+          "num": 2,
+          "title": "Découverte",
+          "time": "0:35 – 1:05",
+          "music_description": "Fin du couplet 1, pré-refrain qui se prépare. La voix monte légèrement en intensité.",
+          "figures": [
+            {"name": "Shadow position", "desc": "Le marié passe derrière la mariée, mains délicatement sur sa taille. Position intime."},
+            {"name": "Hairbrushes", "desc": "Geste tendre, chacun « coiffe » l'autre du bout des doigts."},
+            {"name": "Disconnect", "desc": "Les partenaires se séparent une mesure, se regardent, puis se reprennent."},
+            {"name": "Hands reconnect", "desc": "Reprise de mains lente, retour face à face."},
+            {"name": "Closed position", "desc": "Retour cadre fermé pour préparer la Part 3."}
+          ],
+          "transition": "Le pré-refrain approche du pic. La Part 3 va relancer le mouvement avec catwalk et plank."
+        },
+        {
+          "num": 3,
+          "title": "Intimité",
+          "time": "1:05 – 1:45",
+          "music_description": "Pré-refrain entier puis transition vers le refrain. Le piano s'étoffe, on sent quelque chose qui monte.",
+          "figures": [
+            {"name": "Basket position", "desc": "Croisement des mains devant le couple."},
+            {"name": "Plank figure", "desc": "La mariée s'étire à l'horizontale, supportée par le marié. Synchronisez le pic du plank sur le dernier mot du pré-refrain."},
+            {"name": "Lady on the catwalk", "desc": "Quatre pas en avant comme sur un podium, regard porté loin."},
+            {"name": "Closed position", "desc": "Retour cadre fermé."},
+            {"name": "Walking in rotation", "desc": "Six pas tournants amples, le couple « occupe » la piste."},
+            {"name": "Lady's turn", "desc": "Tour rapide de la mariée pour préparer le lift de la Part 4."}
+          ],
+          "transition": "Le refrain démarre (« cause all of me loves all of you »). Les cordes entrent, c'est le pic émotionnel."
+        },
+        {
+          "num": 4,
+          "title": "Énergie",
+          "time": "1:45 – 2:25",
+          "music_description": "Refrain orchestré avec cordes et batterie discrète. C'est le premier pic émotionnel et instrumental.",
+          "figures": [
+            {"name": "Open position", "desc": "Mains tenues, prêts à exploser visuellement."},
+            {"name": "Tilt to the side", "desc": "Inclinaison lente de la mariée, en préparation au porté."},
+            {"name": "Princess lift", "desc": "Le porté principal. Le marié soulève la mariée bras tendus. Synchronisez le pic sur le mot « curves » du refrain."},
+            {"name": "Pose hold", "desc": "Tenez 2 temps en haut du lift, regard partagé."},
+            {"name": "Slow descent", "desc": "Redescente contrôlée et lente, soutenue."},
+            {"name": "Body sweep", "desc": "La mariée glisse latéralement contre le marié, geste fluide."}
+          ],
+          "transition": "Le crescendo final commence. La Part 5 va monter en intensité jusqu'au dip final."
+        },
+        {
+          "num": 5,
+          "title": "Apothéose",
+          "time": "2:25 – 3:25",
+          "music_description": "Crescendo orchestral, tous les instruments, voix au maximum, puis dernière note tenue.",
+          "figures": [
+            {"name": "Walking in rotation large", "desc": "Six pas tournants amples, le couple danse vraiment maintenant."},
+            {"name": "Lady's right turn", "desc": "Un tour ample de la mariée pour relancer l'énergie."},
+            {"name": "Cradle to closed", "desc": "Petit cradle, puis retour en closed position."},
+            {"name": "Half turn", "desc": "Demi-tour rapide en cadre fermé pour préparer le swan."},
+            {"name": "Swan figure", "desc": "Pose « cygne » : la mariée arrondit son dos, bras déployés. Figure iconique du mariage."},
+            {"name": "Spin out", "desc": "La mariée sort en pivot vers l'extérieur pour préparer le dip final."},
+            {"name": "Steps in rotation", "desc": "Quatre derniers pas tournants pour caler le timing."},
+            {"name": "Final dip", "desc": "Dip final. La mariée s'incline en arrière. Synchronisez le pic du dip pile sur la dernière note tenue du piano. Tenez la pose 2 secondes après le silence."}
+          ],
+          "transition": "Restez figés sur le dip pendant 2 secondes après le silence. Puis relevez-vous lentement, sourire partagé."
+        }
+      ],
+
+      "figures_intro": "Cette chorégraphie utilise 31 figures sur 5 Parts. Vocabulaire classique du slow chorégraphié : cadre, tours, shadow position, hairbrushes, plank, lifts, swan, dip final. Toutes les figures sont enseignées sous deux angles (face et profil) dans les modules vidéo.",
+      "figures_list": [
+        {"name": "Walk-in slow", "level": "BASE", "loc": "Part 1"},
+        {"name": "Hands", "level": "BASE", "loc": "Part 1, 2"},
+        {"name": "Closed position", "level": "BASE", "loc": "Part 1, 2, 3"},
+        {"name": "Steps in rotation", "level": "BASE", "loc": "Part 1, 5"},
+        {"name": "Lady's turn", "level": "BASE", "loc": "Part 1, 3"},
+        {"name": "Open position", "level": "BASE", "loc": "Part 1, 4"},
+        {"name": "Shadow position", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Disconnect", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hands reconnect", "level": "BASE", "loc": "Part 2"},
+        {"name": "Basket position", "level": "BASE", "loc": "Part 3"},
+        {"name": "Plank figure", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Lady on the catwalk", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Walking in rotation", "level": "BASE", "loc": "Part 3, 5"},
+        {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Princess lift", "level": "INTER.", "loc": "Part 4"},
+        {"name": "Pose hold", "level": "BASE", "loc": "Part 4"},
+        {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Body sweep", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Lady's right turn", "level": "BASE", "loc": "Part 5"},
+        {"name": "Cradle to closed", "level": "FACILE", "loc": "Part 5"},
+        {"name": "Half turn", "level": "FACILE", "loc": "Part 5"},
+        {"name": "Swan figure", "level": "BASE", "loc": "Part 5"},
+        {"name": "Spin out", "level": "BASE", "loc": "Part 5"},
+        {"name": "Final dip", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [
+        {"name": "Princess lift (Part 4)", "alternative": "Si le marié n'est pas à l'aise avec les portés, remplacez par un « close hug » où la mariée s'incline contre le marié sans être portée. Effet visuel proche, zéro effort de porté."}
+      ],
+
+      "tips": [
+        {"title": "Suivez la voix de John Legend", "text": "Sa voix monte et descend de façon très expressive. Calez l'intensité de vos pas sur l'intensité de sa voix. Plus elle est forte, plus vos gestes peuvent être amples. Plus elle est douce, plus vos gestes sont contenus."},
+        {"title": "Synchronisez le plank sur le mot-clé", "text": "Le pic du plank tombe sur le dernier mot du pré-refrain (« stop loving you »). Comptez les mesures dès le début du pré-refrain pour caler exactement. Compter à l'oreille est trop lent et vous arriverez en retard."},
+        {"title": "Le piano est votre métronome", "text": "Contrairement à Perfect où il faut suivre les paroles, dans All of Me le piano joue toujours en arrière-plan. Calez vos pas sur les accords du piano, pas sur les mots. C'est plus régulier."},
+        {"title": "Pratiquez le dip final lent", "text": "La dernière note dure 3 secondes. La tentation est de faire un dip rapide pendant qu'elle dure. Préférez un dip qui se POSE lentement sur les 3 premières secondes, puis qui se TIENT pendant les 2 secondes de silence après. Le timing total est de 5 secondes."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps faut-il pour apprendre cette chorégraphie ?", "a": "Comptez 8 à 12 semaines avec 2 à 3 séances de 30 minutes par semaine. Les couples débutants complets prennent 10 à 12 semaines. Les couples avec un peu de notions de danse maîtrisent en 8 semaines."},
+        {"q": "Faut-il savoir danser pour cette chorégraphie ?", "a": "Non. Toutes les figures sont accessibles aux débutants complets. Seul le Princess lift de la Part 4 demande un peu de pratique, et il a une alternative sans porté intégrée au cours."},
+        {"q": "Qui s'occupe d'éditer la musique pour le jour J ?", "a": "Nous nous en chargeons. Après votre achat, vous recevez par mail la version chorégraphiée 3:25 prête à transmettre à votre DJ. Aucun travail d'édition de votre côté."},
+        {"q": "La chorégraphie marche-t-elle avec la version live de Stockholm 2014 ?", "a": "Oui, la structure musicale est identique. Seule différence : l'intro piano est plus longue de 12 secondes. Ajoutez une marche d'entrée plus lente sur la Part 1, ou demandez à votre DJ de couper l'intro live."},
+        {"q": "Y a-t-il une version sans lift ?", "a": "Oui. Le seul lift de la chorégraphie (Princess lift Part 4) a une alternative intégrée : le « close hug », sans porté. Le module 7 explique précisément comment substituer."}
+      ],
+
+      "for_you_if": [
+        "Vous voulez le slow mariage classique du milieu des années 2010",
+        "Vous êtes débutants complets en danse",
+        "Vous aimez le piano au premier plan et la voix soul",
+        "Vous voulez un tempo confortable et stable (102 BPM)",
+        "Vous voulez une option avec ou sans porté",
+        "Vous avez 8 à 12 semaines pour préparer votre première danse"
+      ],
+      "what_you_learn": [
+        "31 figures de slow chorégraphié (cadre, tours, lifts, dip)",
+        "Le Princess lift et son alternative close hug",
+        "Comment se synchroniser sur les paroles-clés (« curves », « stop loving you »)",
+        "Le swan figure, figure iconique du mariage",
+        "Comment suivre les accords du piano comme métronome",
+        "Comment poser un dip final lent (5 secondes incluant le silence)"
+      ],
+
+      "final_cta_text": "Vous êtes prêts à apprendre le slow mariage classique en 8 à 12 semaines, depuis votre salon. Aucune expérience de danse n'est requise. Accès à vie aux 10 modules vidéo, démonstration sous 2 angles, version sans lift incluse. Garantie satisfait ou remboursé pendant 14 jours."
+    }
+  ]
+}
