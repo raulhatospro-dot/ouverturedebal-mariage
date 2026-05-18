@@ -1791,6 +1791,20 @@ body {
   font-weight: 400;
 }
 
+.hero__tagline {
+  font-family: var(--font-sans);
+  font-size: 18px;
+  color: #2B1F17;
+  max-width: 480px;
+  line-height: 1.5;
+  margin-top: 4px;
+}
+
+.hero__tagline strong {
+  color: #A8364C;
+  font-weight: 600;
+}
+
 .hero__subtitle {
   font-family: var(--font-sans);
   font-size: 16px;
