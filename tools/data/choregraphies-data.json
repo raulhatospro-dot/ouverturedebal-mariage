@@ -9481,6 +9481,441 @@
       "what_you_learn": ["30 figures swing jazz", "Jive lift + alternative", "Body roll duo", "Tenir un tempo swing (124 BPM)", "Pose finale swing assumée", "Synchroniser sur L-O-V-E"],
 
       "final_cta_text": "Apprenez ce swing jazz en 5 à 6 semaines. Accès à vie. Garantie 14 jours."
+    },
+
+    {
+      "slug": "perfect-for-me-bradley-marshall",
+      "title": "Perfect For Me",
+      "artist": "Bradley Marshall",
+      "year": 2024,
+      "duration": "3:00",
+      "bpm": 82,
+      "bpm_felt": 82,
+      "time_signature": "4/4",
+      "style": "slow",
+      "style_label": "Slow indie-folk moderne",
+      "level": "débutant",
+      "preparation_weeks": "4 à 5",
+      "price": 89,
+      "modules": 8,
+      "course_duration": "1h 45",
+      "review_count": 54,
+      "visual_color": "peach-1",
+
+      "seo_title": "Chorégraphie ouverture de bal sur Perfect For Me (Bradley Marshall) | 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur Perfect For Me de Bradley Marshall. Slow indie chorégraphié, 8 modules. Accès à vie. 89€.",
+      "og_title": "Chorégraphie Perfect For Me, Bradley Marshall",
+      "og_description": "Slow indie chorégraphié sur Perfect For Me. 8 modules, 5 Parts, 27 figures. Le hit indie 2024 pour votre première danse.",
+
+      "hero_intro": "Perfect For Me de Bradley Marshall est devenu un slow mariage tendance en 2024. Voix douce, guitare acoustique, structure intime. La version chorégraphiée fait 3:00 sans coupe.",
+
+      "song_anecdote": "Bradley Marshall a sorti Perfect For Me en 2024. Le morceau parle de trouver « la bonne personne, faite pour vous ». Style indie-folk doux. Devenu populaire sur les plateformes wedding-music.",
+
+      "song_wedding_reason": "Idéal pour un slow récent moins joué. Tempo confortable (82 BPM), durée parfaite (3:00), thème mariage explicite.",
+
+      "music_intro": "Quatre paliers musicaux autour de la guitare acoustique.",
+      "music_timeline": [
+        {"label": "Intro guitare", "details": "Guitare seule. Entrée."},
+        {"label": "Couplet", "details": "Voix de Bradley sur guitare."},
+        {"label": "Refrain", "details": "Cordes douces. Pic."},
+        {"label": "Crescendo final", "details": "Voix au max. Dip."}
+      ],
+      "music_notes": [
+        "Tempo confortable (82 BPM).",
+        "Pic sur « perfect for me ».",
+        "Dernière note tenue 2 secondes."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Slow chorégraphié indie-folk accessible.",
+      "choreo_arc": [
+        {"num": 1, "title": "Rencontre", "time": "0:00–0:30", "mood": "Intro guitare", "key": "Cadre, tour"},
+        {"num": 2, "title": "Tendresse", "time": "0:30–1:00", "mood": "Couplet Bradley", "key": "Shadow, hairbrushes"},
+        {"num": 3, "title": "Pré-refrain", "time": "1:00–1:30", "mood": "Montée", "key": "Catwalk, plank"},
+        {"num": 4, "title": "Refrain", "time": "1:30–2:15", "mood": "Pic", "key": "Walking, lift"},
+        {"num": 5, "title": "Final", "time": "2:15–3:00", "mood": "Apothéose", "key": "Swan, dip"}
+      ],
+      "choreo_parts": [
+        {"num": 1, "title": "Rencontre", "time": "0:00 – 0:30", "music_description": "Intro guitare.", "figures": [{"name": "Walk-in slow", "desc": "Quatre pas lents."}, {"name": "Hands", "desc": "Prise de mains."}, {"name": "Closed position", "desc": "Cadre fermé."}, {"name": "Steps in rotation", "desc": "Quatre pas tournants."}, {"name": "Lady's turn", "desc": "Premier tour."}, {"name": "Open position", "desc": "Mains tenues."}], "transition": "Couplet entre."},
+        {"num": 2, "title": "Tendresse", "time": "0:30 – 1:00", "music_description": "Couplet.", "figures": [{"name": "Shadow position", "desc": "Marié derrière."}, {"name": "Hairbrushes", "desc": "Geste tendre."}, {"name": "Disconnect", "desc": "Séparation."}, {"name": "Hands reconnect", "desc": "Reprise."}, {"name": "Closed position", "desc": "Retour cadre."}], "transition": "Pré-refrain monte."},
+        {"num": 3, "title": "Pré-refrain", "time": "1:00 – 1:30", "music_description": "Pré-refrain.", "figures": [{"name": "Basket position", "desc": "Croisement."}, {"name": "Plank figure", "desc": "Mariée à l'horizontale."}, {"name": "Lady on the catwalk", "desc": "Quatre pas en avant."}, {"name": "Walking in rotation", "desc": "Six pas tournants."}, {"name": "Lady's turn", "desc": "Tour rapide."}], "transition": "Refrain entre."},
+        {"num": 4, "title": "Refrain", "time": "1:30 – 2:15", "music_description": "Refrain.", "figures": [{"name": "Tilt to the side", "desc": "Inclinaison."}, {"name": "Princess lift", "desc": "Porté. Synchronisez sur « me »."}, {"name": "Pose hold", "desc": "2 temps."}, {"name": "Slow descent", "desc": "Redescente."}, {"name": "Body sweep", "desc": "Glissement."}], "transition": "Final."},
+        {"num": 5, "title": "Final", "time": "2:15 – 3:00", "music_description": "Final.", "figures": [{"name": "Walking in rotation", "desc": "Six pas amples."}, {"name": "Lady's right turn", "desc": "Tour ample."}, {"name": "Cradle to closed", "desc": "Cradle."}, {"name": "Swan figure", "desc": "Pose cygne."}, {"name": "Spin out", "desc": "Pivot."}, {"name": "Final dip", "desc": "Dip final. 2 secondes."}], "transition": "Restez figés."}
+      ],
+
+      "figures_intro": "27 figures sur 5 Parts.",
+      "figures_list": [
+        {"name": "Walk-in slow", "level": "BASE", "loc": "Part 1"}, {"name": "Hands", "level": "BASE", "loc": "Part 1"}, {"name": "Closed position", "level": "BASE", "loc": "Part 1, 2, 5"}, {"name": "Steps in rotation", "level": "BASE", "loc": "Part 1, 5"}, {"name": "Lady's turn", "level": "BASE", "loc": "Part 1, 3"}, {"name": "Open position", "level": "BASE", "loc": "Part 1"}, {"name": "Shadow position", "level": "FACILE", "loc": "Part 2"}, {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 2"}, {"name": "Disconnect", "level": "FACILE", "loc": "Part 2"}, {"name": "Hands reconnect", "level": "BASE", "loc": "Part 2"}, {"name": "Basket position", "level": "BASE", "loc": "Part 3"}, {"name": "Plank figure", "level": "FACILE", "loc": "Part 3"}, {"name": "Lady on the catwalk", "level": "FACILE", "loc": "Part 3"}, {"name": "Walking in rotation", "level": "BASE", "loc": "Part 3, 5"}, {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 4"}, {"name": "Princess lift", "level": "INTER.", "loc": "Part 4"}, {"name": "Pose hold", "level": "BASE", "loc": "Part 4"}, {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"}, {"name": "Body sweep", "level": "FACILE", "loc": "Part 4"}, {"name": "Lady's right turn", "level": "BASE", "loc": "Part 5"}, {"name": "Cradle to closed", "level": "FACILE", "loc": "Part 5"}, {"name": "Swan figure", "level": "BASE", "loc": "Part 5"}, {"name": "Spin out", "level": "BASE", "loc": "Part 5"}, {"name": "Final dip", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [{"name": "Princess lift (Part 4)", "alternative": "Close hug prolongé."}],
+
+      "tips": [
+        {"title": "Slow indie récent", "text": "Bradley Marshall est un artiste indie. Peu joué pour l'instant en mariage, effet de différenciation garanti."},
+        {"title": "Synchronisez sur « me »", "text": "Princess lift sur « perfect for me »."},
+        {"title": "Style folk doux", "text": "Postures naturelles, pas solennelles."},
+        {"title": "Pratiquez avec chaussures", "text": "Trois fois min."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps ?", "a": "4 à 5 semaines."},
+        {"q": "Bradley Marshall, qui est-ce ?", "a": "Artiste indie-folk américain, hit 2024 Perfect For Me."},
+        {"q": "Qui gère la musique ?", "a": "Pas besoin. 3:00 exactement."},
+        {"q": "Version sans porté ?", "a": "Oui."},
+        {"q": "Mes invités ne la connaîtront pas", "a": "Avantage : effet de surprise."}
+      ],
+
+      "for_you_if": ["Vous voulez un slow récent moins joué", "Vous aimez l'indie-folk doux", "Vous êtes débutants", "Vous voulez 3:00 sans coupe", "Vous voulez option sans porté", "Vous avez 4 à 5 semaines"],
+      "what_you_learn": ["27 figures de slow indie", "Princess lift + alternative", "Synchroniser sur « me »", "Swan figure", "Style folk doux", "Dip final"],
+
+      "final_cta_text": "Apprenez ce slow indie en 4 à 5 semaines. Accès à vie. Garantie 14 jours."
+    },
+
+    {
+      "slug": "i-think-they-call-this-love-elliot-james-reay",
+      "title": "I Think They Call This Love",
+      "artist": "Elliot James Reay",
+      "year": 2024,
+      "duration": "3:00",
+      "bpm": 78,
+      "bpm_felt": 78,
+      "time_signature": "4/4",
+      "style": "valse",
+      "style_label": "Slow vintage TikTok",
+      "level": "débutant",
+      "preparation_weeks": "4 à 5",
+      "price": 89,
+      "modules": 8,
+      "course_duration": "1h 45",
+      "review_count": 67,
+      "visual_color": "peach-2",
+
+      "seo_title": "Chorégraphie ouverture de bal sur I Think They Call This Love (Elliot James Reay) | 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur I Think They Call This Love. Slow vintage, 8 modules. Accès à vie. 89€.",
+      "og_title": "Chorégraphie I Think They Call This Love, Elliot James Reay",
+      "og_description": "Slow vintage chorégraphié sur I Think They Call This Love. 8 modules, 5 Parts, 27 figures. Le hit TikTok 2024.",
+
+      "hero_intro": "I Think They Call This Love d'Elliot James Reay a explosé sur TikTok en 2024. Style vintage 60s revisité, voix douce. Version chorégraphiée 3:00 sans coupe.",
+
+      "song_anecdote": "Elliot James Reay (britannique) a sorti I Think They Call This Love en 2024. Le morceau a été massivement repris sur TikTok comme « la chanson de demande en mariage ». Style vintage doo-wop revisité.",
+
+      "song_wedding_reason": "Idéal pour les couples jeunes qui aiment le style vintage modernisé. Très récent, peu joué encore, effet de surprise.",
+
+      "music_intro": "Quatre paliers vintage doo-wop.",
+      "music_timeline": [
+        {"label": "Intro vintage", "details": "Guitare doo-wop. Entrée."},
+        {"label": "Couplet", "details": "Voix d'Elliot vintage."},
+        {"label": "Refrain", "details": "Cordes douces. Pic."},
+        {"label": "Final", "details": "Voix au max. Dip."}
+      ],
+      "music_notes": [
+        "Tempo confortable (78 BPM).",
+        "Pic sur « I think they call this love ».",
+        "Dernière note tenue 2 secondes."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Slow chorégraphié vintage doo-wop modernisé.",
+      "choreo_arc": [
+        {"num": 1, "title": "Rencontre", "time": "0:00–0:30", "mood": "Intro vintage", "key": "Cadre, tour"},
+        {"num": 2, "title": "Tendresse", "time": "0:30–1:00", "mood": "Couplet", "key": "Shadow"},
+        {"num": 3, "title": "Pré-refrain", "time": "1:00–1:30", "mood": "Montée", "key": "Plank"},
+        {"num": 4, "title": "Refrain", "time": "1:30–2:15", "mood": "Pic", "key": "Lift"},
+        {"num": 5, "title": "Final", "time": "2:15–3:00", "mood": "Apothéose", "key": "Swan, dip"}
+      ],
+      "choreo_parts": [
+        {"num": 1, "title": "Rencontre", "time": "0:00 – 0:30", "music_description": "Intro vintage.", "figures": [{"name": "Walk-in slow", "desc": "Quatre pas."}, {"name": "Hands", "desc": "Prise de mains."}, {"name": "Closed position", "desc": "Cadre."}, {"name": "Steps in rotation", "desc": "Quatre pas tournants."}, {"name": "Lady's turn", "desc": "Premier tour."}, {"name": "Open position", "desc": "Mains tenues."}], "transition": "Couplet entre."},
+        {"num": 2, "title": "Tendresse", "time": "0:30 – 1:00", "music_description": "Couplet.", "figures": [{"name": "Shadow position", "desc": "Marié derrière."}, {"name": "Hairbrushes", "desc": "Tendre."}, {"name": "Disconnect", "desc": "Séparation."}, {"name": "Hands reconnect", "desc": "Reprise."}, {"name": "Closed position", "desc": "Retour."}], "transition": "Pré-refrain."},
+        {"num": 3, "title": "Pré-refrain", "time": "1:00 – 1:30", "music_description": "Pré-refrain.", "figures": [{"name": "Basket position", "desc": "Croisement."}, {"name": "Plank figure", "desc": "Horizontale."}, {"name": "Lady on the catwalk", "desc": "Quatre pas en avant."}, {"name": "Walking in rotation", "desc": "Six pas."}, {"name": "Lady's turn", "desc": "Tour rapide."}], "transition": "Refrain."},
+        {"num": 4, "title": "Refrain", "time": "1:30 – 2:15", "music_description": "Refrain.", "figures": [{"name": "Tilt to the side", "desc": "Inclinaison."}, {"name": "Princess lift", "desc": "Porté. Synchronisez sur « love »."}, {"name": "Pose hold", "desc": "2 temps."}, {"name": "Slow descent", "desc": "Redescente."}, {"name": "Body sweep", "desc": "Glissement."}], "transition": "Final."},
+        {"num": 5, "title": "Final", "time": "2:15 – 3:00", "music_description": "Final.", "figures": [{"name": "Walking in rotation", "desc": "Six pas amples."}, {"name": "Lady's right turn", "desc": "Tour ample."}, {"name": "Cradle to closed", "desc": "Cradle."}, {"name": "Swan figure", "desc": "Pose cygne."}, {"name": "Spin out", "desc": "Pivot."}, {"name": "Final dip", "desc": "Dip. 2 secondes."}], "transition": "Figés."}
+      ],
+
+      "figures_intro": "27 figures sur 5 Parts. Vocabulaire vintage doo-wop.",
+      "figures_list": [
+        {"name": "Walk-in slow", "level": "BASE", "loc": "Part 1"}, {"name": "Hands", "level": "BASE", "loc": "Part 1"}, {"name": "Closed position", "level": "BASE", "loc": "Part 1, 2, 5"}, {"name": "Steps in rotation", "level": "BASE", "loc": "Part 1, 5"}, {"name": "Lady's turn", "level": "BASE", "loc": "Part 1, 3"}, {"name": "Open position", "level": "BASE", "loc": "Part 1"}, {"name": "Shadow position", "level": "FACILE", "loc": "Part 2"}, {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 2"}, {"name": "Disconnect", "level": "FACILE", "loc": "Part 2"}, {"name": "Hands reconnect", "level": "BASE", "loc": "Part 2"}, {"name": "Basket position", "level": "BASE", "loc": "Part 3"}, {"name": "Plank figure", "level": "FACILE", "loc": "Part 3"}, {"name": "Lady on the catwalk", "level": "FACILE", "loc": "Part 3"}, {"name": "Walking in rotation", "level": "BASE", "loc": "Part 3, 5"}, {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 4"}, {"name": "Princess lift", "level": "INTER.", "loc": "Part 4"}, {"name": "Pose hold", "level": "BASE", "loc": "Part 4"}, {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"}, {"name": "Body sweep", "level": "FACILE", "loc": "Part 4"}, {"name": "Lady's right turn", "level": "BASE", "loc": "Part 5"}, {"name": "Cradle to closed", "level": "FACILE", "loc": "Part 5"}, {"name": "Swan figure", "level": "BASE", "loc": "Part 5"}, {"name": "Spin out", "level": "BASE", "loc": "Part 5"}, {"name": "Final dip", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [{"name": "Princess lift (Part 4)", "alternative": "Close hug prolongé."}],
+
+      "tips": [
+        {"title": "Hit TikTok 2024", "text": "Les invités jeunes la reconnaîtront immédiatement."},
+        {"title": "Synchronisez sur « love »", "text": "Princess lift sur « I think they call this love »."},
+        {"title": "Style vintage doo-wop", "text": "Postures un peu plus hautes que la moyenne."},
+        {"title": "Pratiquez avec chaussures", "text": "Trois fois min."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps ?", "a": "4 à 5 semaines."},
+        {"q": "Hit TikTok ?", "a": "Oui, explosion 2024."},
+        {"q": "Qui gère la musique ?", "a": "Pas besoin. 3:00 exactement."},
+        {"q": "Version sans porté ?", "a": "Oui."},
+        {"q": "Public cible ?", "a": "Idéal mariages 20-35 ans."}
+      ],
+
+      "for_you_if": ["Vous avez vu la chanson sur TikTok", "Vous aimez le vintage modernisé", "Vous êtes jeunes (20-30 ans)", "Vous êtes débutants", "Vous voulez option sans porté", "Vous avez 4 à 5 semaines"],
+      "what_you_learn": ["27 figures de slow vintage", "Princess lift + alternative", "Synchroniser sur « love »", "Swan figure", "Style doo-wop", "Dip final"],
+
+      "final_cta_text": "Apprenez ce slow TikTok en 4 à 5 semaines. Accès à vie. Garantie 14 jours."
+    },
+
+    {
+      "slug": "youre-still-the-one-teddy-swims",
+      "title": "You're Still The One",
+      "artist": "Teddy Swims (Shania Twain cover)",
+      "year": 2023,
+      "duration": "3:10",
+      "bpm": 84,
+      "bpm_felt": 84,
+      "time_signature": "4/4",
+      "style": "slow",
+      "style_label": "Slow soul moderne",
+      "level": "débutant à intermédiaire",
+      "preparation_weeks": "4 à 6",
+      "price": 89,
+      "modules": 9,
+      "course_duration": "2h 00",
+      "review_count": 76,
+      "visual_color": "peach-3",
+
+      "seo_title": "Chorégraphie ouverture de bal sur You're Still The One (Teddy Swims) | 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur You're Still The One de Teddy Swims. Slow soul, 9 modules. Accès à vie. 89€.",
+      "og_title": "Chorégraphie You're Still The One, Teddy Swims",
+      "og_description": "Slow soul chorégraphié sur You're Still The One de Teddy Swims. 9 modules, 5 Parts, 28 figures. Reprise soul du classique Shania Twain.",
+
+      "hero_intro": "You're Still The One de Teddy Swims est la reprise soul moderne du classique Shania Twain (1997). Voix soul puissante, arrangement piano. La version chorégraphiée fait 3:10.",
+
+      "song_anecdote": "Teddy Swims (Atlanta) a repris You're Still The One de Shania Twain en 2023. Sa version transforme le country-pop original en slow soul. Le morceau a explosé sur YouTube et est devenu une référence mariage soul.",
+
+      "song_wedding_reason": "Idéal pour les couples qui veulent une reprise moderne d'un classique mariage. Le titre « You're Still The One » est une promesse parfaite pour un mariage.",
+
+      "music_intro": "Quatre paliers soul autour du piano.",
+      "music_timeline": [
+        {"label": "Intro piano", "details": "Piano seul. Entrée."},
+        {"label": "Couplet", "details": "Voix soul de Teddy."},
+        {"label": "Refrain", "details": "Cordes. Pic."},
+        {"label": "Crescendo final", "details": "Voix au max. Dip."}
+      ],
+      "music_notes": [
+        "Tempo confortable (84 BPM).",
+        "Pic sur « you're still the one ».",
+        "Dernière note tenue 3 secondes."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Slow chorégraphié soul moderne.",
+      "choreo_arc": [
+        {"num": 1, "title": "Rencontre", "time": "0:00–0:30", "mood": "Intro piano", "key": "Cadre, tour"},
+        {"num": 2, "title": "Tendresse", "time": "0:30–1:00", "mood": "Couplet Teddy", "key": "Shadow"},
+        {"num": 3, "title": "Pré-refrain", "time": "1:00–1:40", "mood": "Montée", "key": "Catwalk, plank"},
+        {"num": 4, "title": "Refrain", "time": "1:40–2:25", "mood": "Pic", "key": "Walking, lift"},
+        {"num": 5, "title": "Final", "time": "2:25–3:10", "mood": "Apothéose", "key": "Swan, dip"}
+      ],
+      "choreo_parts": [
+        {"num": 1, "title": "Rencontre", "time": "0:00 – 0:30", "music_description": "Intro piano.", "figures": [{"name": "Walk-in slow", "desc": "Quatre pas."}, {"name": "Hands", "desc": "Mains."}, {"name": "Closed position", "desc": "Cadre."}, {"name": "Steps in rotation", "desc": "Quatre pas tournants."}, {"name": "Lady's turn", "desc": "Premier tour."}, {"name": "Open position", "desc": "Mains tenues."}], "transition": "Couplet."},
+        {"num": 2, "title": "Tendresse", "time": "0:30 – 1:00", "music_description": "Couplet Teddy.", "figures": [{"name": "Shadow position", "desc": "Marié derrière."}, {"name": "Hairbrushes", "desc": "Tendre."}, {"name": "Disconnect", "desc": "Séparation."}, {"name": "Hands reconnect", "desc": "Reprise."}, {"name": "Closed position", "desc": "Retour."}], "transition": "Pré-refrain."},
+        {"num": 3, "title": "Pré-refrain", "time": "1:00 – 1:40", "music_description": "Pré-refrain.", "figures": [{"name": "Basket position", "desc": "Croisement."}, {"name": "Plank figure", "desc": "Horizontale."}, {"name": "Lady on the catwalk", "desc": "Quatre pas en avant."}, {"name": "Walking in rotation", "desc": "Six pas."}, {"name": "Lady's turn", "desc": "Tour."}], "transition": "Refrain."},
+        {"num": 4, "title": "Refrain", "time": "1:40 – 2:25", "music_description": "Refrain (« You're still the one »).", "figures": [{"name": "Tilt to the side", "desc": "Inclinaison."}, {"name": "Princess lift", "desc": "Porté. Synchronisez sur « one »."}, {"name": "Pose hold", "desc": "2 temps."}, {"name": "Slow descent", "desc": "Redescente."}, {"name": "Body sweep", "desc": "Glissement."}], "transition": "Final."},
+        {"num": 5, "title": "Final", "time": "2:25 – 3:10", "music_description": "Final.", "figures": [{"name": "Walking in rotation", "desc": "Six pas amples."}, {"name": "Lady's right turn", "desc": "Tour ample."}, {"name": "Cradle to closed", "desc": "Cradle."}, {"name": "Swan figure", "desc": "Pose cygne."}, {"name": "Spin out", "desc": "Pivot."}, {"name": "Steps in rotation", "desc": "Quatre derniers pas."}, {"name": "Final dip", "desc": "Dip. 2 secondes."}], "transition": "Figés."}
+      ],
+
+      "figures_intro": "28 figures sur 5 Parts.",
+      "figures_list": [
+        {"name": "Walk-in slow", "level": "BASE", "loc": "Part 1"}, {"name": "Hands", "level": "BASE", "loc": "Part 1"}, {"name": "Closed position", "level": "BASE", "loc": "Part 1, 2, 5"}, {"name": "Steps in rotation", "level": "BASE", "loc": "Part 1, 5"}, {"name": "Lady's turn", "level": "BASE", "loc": "Part 1, 3"}, {"name": "Open position", "level": "BASE", "loc": "Part 1"}, {"name": "Shadow position", "level": "FACILE", "loc": "Part 2"}, {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 2"}, {"name": "Disconnect", "level": "FACILE", "loc": "Part 2"}, {"name": "Hands reconnect", "level": "BASE", "loc": "Part 2"}, {"name": "Basket position", "level": "BASE", "loc": "Part 3"}, {"name": "Plank figure", "level": "FACILE", "loc": "Part 3"}, {"name": "Lady on the catwalk", "level": "FACILE", "loc": "Part 3"}, {"name": "Walking in rotation", "level": "BASE", "loc": "Part 3, 5"}, {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 4"}, {"name": "Princess lift", "level": "INTER.", "loc": "Part 4"}, {"name": "Pose hold", "level": "BASE", "loc": "Part 4"}, {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"}, {"name": "Body sweep", "level": "FACILE", "loc": "Part 4"}, {"name": "Lady's right turn", "level": "BASE", "loc": "Part 5"}, {"name": "Cradle to closed", "level": "FACILE", "loc": "Part 5"}, {"name": "Swan figure", "level": "BASE", "loc": "Part 5"}, {"name": "Spin out", "level": "BASE", "loc": "Part 5"}, {"name": "Final dip", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [{"name": "Princess lift (Part 4)", "alternative": "Close hug prolongé."}],
+
+      "tips": [
+        {"title": "Teddy Swims vs Shania Twain", "text": "Teddy (2023, soul) ou Shania originale (1997, country-pop). Teddy = mariage moderne, Shania = mariage classique."},
+        {"title": "Synchronisez sur « one »", "text": "Princess lift sur le mot signature."},
+        {"title": "Voix soul puissante", "text": "Postures qui accompagnent la voix."},
+        {"title": "Pratiquez avec chaussures", "text": "Trois fois."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps ?", "a": "4 à 6 semaines."},
+        {"q": "Teddy ou Shania ?", "a": "Pour cette chorégraphie soul, Teddy (2023)."},
+        {"q": "Qui gère la musique ?", "a": "Nous nous en chargeons."},
+        {"q": "Version sans porté ?", "a": "Oui."},
+        {"q": "Le titre fonctionne pour un mariage ?", "a": "Parfaitement : « Tu es toujours le seul »."}
+      ],
+
+      "for_you_if": ["Vous aimez la voix soul de Teddy Swims", "Vous voulez une reprise moderne d'un classique", "Vous voulez le titre « still the one »", "Vous êtes débutants à intermédiaires", "Vous voulez option sans porté", "Vous avez 4 à 6 semaines"],
+      "what_you_learn": ["28 figures soul", "Princess lift + alternative", "Synchroniser sur « one »", "Swan figure", "Style soul moderne", "Dip final"],
+
+      "final_cta_text": "Apprenez cette reprise soul en 4 à 6 semaines. Accès à vie. Garantie 14 jours."
+    },
+
+    {
+      "slug": "enchanted-taylor-swift",
+      "title": "Enchanted",
+      "artist": "Taylor Swift",
+      "year": 2010,
+      "duration": "3:30",
+      "bpm": 80,
+      "bpm_felt": 80,
+      "time_signature": "4/4",
+      "style": "slow",
+      "style_label": "Slow narratif Taylor Swift",
+      "level": "débutant à intermédiaire",
+      "preparation_weeks": "4 à 6",
+      "price": 89,
+      "modules": 9,
+      "course_duration": "2h 00",
+      "review_count": 102,
+      "visual_color": "peach-2",
+
+      "seo_title": "Chorégraphie ouverture de bal sur Enchanted (Taylor Swift) | 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur Enchanted de Taylor Swift. Slow narratif, 9 modules. Accès à vie. 89€.",
+      "og_title": "Chorégraphie Enchanted, Taylor Swift",
+      "og_description": "Slow narratif chorégraphié sur Enchanted de Taylor Swift. 9 modules, 5 Parts, 28 figures.",
+
+      "hero_intro": "Enchanted de Taylor Swift (album Speak Now, 2010) est l'un des slows Taylor Swift les plus dansés en mariage. Voix narrative, structure montée progressive, refrain orchestral. Version chorégraphiée 3:30.",
+
+      "song_anecdote": "Enchanted a été écrite par Taylor Swift en 2010, inspirée par une vraie rencontre avec un musicien à New York. La chanson raconte la première impression d'un amour potentiel. Pour les mariages, c'est un slow narratif unique : Taylor raconte une histoire d'enchantement réciproque.",
+
+      "song_wedding_reason": "Idéal pour les couples Swifties qui veulent un slow narratif. Tempo confortable, structure ascendante claire, refrain marquant (« This night is sparkling »).",
+
+      "music_intro": "Quatre paliers narratifs.",
+      "music_timeline": [
+        {"label": "Intro douce", "details": "Piano et guitare. Entrée."},
+        {"label": "Couplet narratif", "details": "Voix de Taylor raconte."},
+        {"label": "Refrain orchestral", "details": "Cordes amples. Pic."},
+        {"label": "Crescendo final", "details": "Voix au max. Dip."}
+      ],
+      "music_notes": [
+        "Tempo confortable (80 BPM).",
+        "Pic sur « This night is sparkling, don't you let it go ».",
+        "Dernière note tenue 3 secondes."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Slow chorégraphié narratif Taylor Swift.",
+      "choreo_arc": [
+        {"num": 1, "title": "Rencontre", "time": "0:00–0:35", "mood": "Intro", "key": "Cadre, tour"},
+        {"num": 2, "title": "Tendresse narrative", "time": "0:35–1:10", "mood": "Couplet 1", "key": "Shadow"},
+        {"num": 3, "title": "Pré-refrain", "time": "1:10–1:50", "mood": "Montée", "key": "Plank"},
+        {"num": 4, "title": "Refrain orchestral", "time": "1:50–2:35", "mood": "Pic", "key": "Lift"},
+        {"num": 5, "title": "Crescendo final", "time": "2:35–3:30", "mood": "Apothéose", "key": "Swan, dip"}
+      ],
+      "choreo_parts": [
+        {"num": 1, "title": "Rencontre", "time": "0:00 – 0:35", "music_description": "Intro douce.", "figures": [{"name": "Walk-in slow", "desc": "Quatre pas."}, {"name": "Hands", "desc": "Mains."}, {"name": "Closed position", "desc": "Cadre."}, {"name": "Steps in rotation", "desc": "Pas tournants."}, {"name": "Lady's turn", "desc": "Tour."}, {"name": "Open position", "desc": "Mains tenues."}], "transition": "Couplet."},
+        {"num": 2, "title": "Tendresse narrative", "time": "0:35 – 1:10", "music_description": "Couplet narratif.", "figures": [{"name": "Shadow position", "desc": "Marié derrière."}, {"name": "Hairbrushes", "desc": "Tendre."}, {"name": "Disconnect", "desc": "Séparation."}, {"name": "Hands reconnect", "desc": "Reprise."}, {"name": "Closed position", "desc": "Retour."}], "transition": "Pré-refrain."},
+        {"num": 3, "title": "Pré-refrain", "time": "1:10 – 1:50", "music_description": "Pré-refrain.", "figures": [{"name": "Basket position", "desc": "Croisement."}, {"name": "Plank figure", "desc": "Horizontale."}, {"name": "Lady on the catwalk", "desc": "Quatre pas."}, {"name": "Walking in rotation", "desc": "Six pas."}, {"name": "Lady's turn", "desc": "Tour."}], "transition": "Refrain."},
+        {"num": 4, "title": "Refrain orchestral", "time": "1:50 – 2:35", "music_description": "Refrain.", "figures": [{"name": "Tilt to the side", "desc": "Inclinaison."}, {"name": "Princess lift", "desc": "Porté. Synchronisez sur « sparkling »."}, {"name": "Pose hold", "desc": "2 temps."}, {"name": "Slow descent", "desc": "Redescente."}, {"name": "Body sweep", "desc": "Glissement."}], "transition": "Final."},
+        {"num": 5, "title": "Crescendo final", "time": "2:35 – 3:30", "music_description": "Final.", "figures": [{"name": "Walking in rotation", "desc": "Six pas amples."}, {"name": "Lady's right turn", "desc": "Tour ample."}, {"name": "Cradle to closed", "desc": "Cradle."}, {"name": "Swan figure", "desc": "Pose cygne."}, {"name": "Spin out", "desc": "Pivot."}, {"name": "Steps in rotation", "desc": "Quatre derniers pas."}, {"name": "Final dip", "desc": "Dip. 2 secondes."}], "transition": "Figés."}
+      ],
+
+      "figures_intro": "28 figures sur 5 Parts.",
+      "figures_list": [
+        {"name": "Walk-in slow", "level": "BASE", "loc": "Part 1"}, {"name": "Hands", "level": "BASE", "loc": "Part 1"}, {"name": "Closed position", "level": "BASE", "loc": "Part 1, 2, 5"}, {"name": "Steps in rotation", "level": "BASE", "loc": "Part 1, 5"}, {"name": "Lady's turn", "level": "BASE", "loc": "Part 1, 3"}, {"name": "Open position", "level": "BASE", "loc": "Part 1"}, {"name": "Shadow position", "level": "FACILE", "loc": "Part 2"}, {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 2"}, {"name": "Disconnect", "level": "FACILE", "loc": "Part 2"}, {"name": "Hands reconnect", "level": "BASE", "loc": "Part 2"}, {"name": "Basket position", "level": "BASE", "loc": "Part 3"}, {"name": "Plank figure", "level": "FACILE", "loc": "Part 3"}, {"name": "Lady on the catwalk", "level": "FACILE", "loc": "Part 3"}, {"name": "Walking in rotation", "level": "BASE", "loc": "Part 3, 5"}, {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 4"}, {"name": "Princess lift", "level": "INTER.", "loc": "Part 4"}, {"name": "Pose hold", "level": "BASE", "loc": "Part 4"}, {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"}, {"name": "Body sweep", "level": "FACILE", "loc": "Part 4"}, {"name": "Lady's right turn", "level": "BASE", "loc": "Part 5"}, {"name": "Cradle to closed", "level": "FACILE", "loc": "Part 5"}, {"name": "Swan figure", "level": "BASE", "loc": "Part 5"}, {"name": "Spin out", "level": "BASE", "loc": "Part 5"}, {"name": "Final dip", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [{"name": "Princess lift (Part 4)", "alternative": "Close hug prolongé."}],
+
+      "tips": [
+        {"title": "Lover ou Enchanted ?", "text": "Lover (valse 3/4) vs Enchanted (4/4 narratif). Enchanted plus long et plus narratif."},
+        {"title": "Synchronisez sur « sparkling »", "text": "Princess lift sur ce mot signature."},
+        {"title": "Swifties dans la salle", "text": "Si vos invités sont Swifties, effet immédiat garanti."},
+        {"title": "Pratiquez avec chaussures", "text": "Trois fois min."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps ?", "a": "4 à 6 semaines."},
+        {"q": "Enchanted vs Lover ?", "a": "Enchanted = narratif 4/4. Lover = valse 3/4."},
+        {"q": "Qui gère la musique ?", "a": "Nous nous en chargeons. Version 3:30."},
+        {"q": "Version sans porté ?", "a": "Oui."},
+        {"q": "Pour quel public ?", "a": "Idéal pour fans Taylor Swift et amateurs de slow narratif."}
+      ],
+
+      "for_you_if": ["Vous êtes Swifties", "Vous aimez les slows narratifs", "Vous voulez un slow Taylor Swift alternatif à Lover", "Vous êtes prêts à pratiquer 4 à 6 semaines", "Vous voulez option sans porté", "Vous aimez les crescendos orchestraux"],
+      "what_you_learn": ["28 figures narratives", "Princess lift + alternative", "Synchroniser sur « sparkling »", "Swan figure", "Style narratif Taylor Swift", "Dip final"],
+
+      "final_cta_text": "Apprenez Enchanted en 4 à 6 semaines. Accès à vie. Garantie 14 jours."
+    },
+
+    {
+      "slug": "dancing-in-the-moonlight-toploader",
+      "title": "Dancing in the Moonlight",
+      "artist": "Toploader",
+      "year": 2000,
+      "duration": "3:00",
+      "bpm": 130,
+      "bpm_felt": 130,
+      "time_signature": "4/4",
+      "style": "rock",
+      "style_label": "Rock pop énergique",
+      "level": "intermédiaire",
+      "preparation_weeks": "5 à 6",
+      "price": 89,
+      "modules": 10,
+      "course_duration": "2h 30",
+      "review_count": 87,
+      "visual_color": "peach-2",
+
+      "seo_title": "Chorégraphie ouverture de bal sur Dancing in the Moonlight (Toploader) | 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur Dancing in the Moonlight de Toploader. Rock pop énergique, 10 modules. Accès à vie. 89€.",
+      "og_title": "Chorégraphie Dancing in the Moonlight, Toploader",
+      "og_description": "Rock pop chorégraphié sur Dancing in the Moonlight de Toploader. 10 modules, 5 Parts, 32 figures.",
+
+      "hero_intro": "Dancing in the Moonlight de Toploader est un rock pop énergique pour les couples qui veulent assumer une ouverture de bal joyeuse. Tempo dynamique 130 BPM. Version chorégraphiée 3:00.",
+
+      "song_anecdote": "Dancing in the Moonlight a été écrite par King Harvest en 1972. La version Toploader (2000) est devenue la plus connue, popularisée par Shrek et les comédies romantiques 2000s. Le morceau est synonyme de joie et de fête.",
+
+      "song_wedding_reason": "Idéal pour les couples qui veulent éviter le slow lent classique et opter pour une ouverture de bal joyeuse et dansante.",
+
+      "music_intro": "Quatre paliers rock pop énergiques.",
+      "music_timeline": [
+        {"label": "Intro piano-rock", "details": "Piano et guitare. Entrée énergique."},
+        {"label": "Couplet", "details": "Voix de Toploader sur rock pop."},
+        {"label": "Refrain", "details": "Choeurs entraînants. Pic d'énergie."},
+        {"label": "Crescendo final", "details": "Voix au max, batterie pleine. Pose finale."}
+      ],
+      "music_notes": [
+        "Tempo dynamique (130 BPM).",
+        "Pic sur « Dancing in the moonlight ».",
+        "Dernière note coup sec."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Chorégraphie rock pop. Vocabulaire jive-rock. Sans slow classique.",
+      "choreo_arc": [
+        {"num": 1, "title": "Entrée énergique", "time": "0:00–0:30", "mood": "Intro rock", "key": "Cadre rock, kicks"},
+        {"num": 2, "title": "Couplet", "time": "0:30–1:00", "mood": "Voix", "key": "Side rocks, spins"},
+        {"num": 3, "title": "Pré-refrain", "time": "1:00–1:30", "mood": "Montée", "key": "Triple step, body roll"},
+        {"num": 4, "title": "Refrain", "time": "1:30–2:15", "mood": "Pic", "key": "Lift, swan"},
+        {"num": 5, "title": "Final", "time": "2:15–3:00", "mood": "Apothéose", "key": "Spins, pose"}
+      ],
+      "choreo_parts": [
+        {"num": 1, "title": "Entrée énergique", "time": "0:00 – 0:30", "music_description": "Intro rock.", "figures": [{"name": "Walk-in rapide", "desc": "Pas dynamiques."}, {"name": "Closed position rock", "desc": "Cadre rock."}, {"name": "Side rocks", "desc": "Quatre pas latéraux."}, {"name": "Jive kicks", "desc": "Deux séries de kicks."}, {"name": "Underarm turn", "desc": "Tour sous bras."}, {"name": "Open position", "desc": "Mains tenues."}], "transition": "Couplet."},
+        {"num": 2, "title": "Couplet", "time": "0:30 – 1:00", "music_description": "Couplet rock pop.", "figures": [{"name": "Side rocks", "desc": "Latéraux."}, {"name": "Single time points", "desc": "Pointes."}, {"name": "American spin", "desc": "Spin 360°."}, {"name": "Walking in promenade", "desc": "Quatre pas promenade."}, {"name": "Swing-out", "desc": "Écart."}, {"name": "Spin in", "desc": "Retour."}], "transition": "Pré-refrain."},
+        {"num": 3, "title": "Pré-refrain", "time": "1:00 – 1:30", "music_description": "Pré-refrain.", "figures": [{"name": "Closed position rock", "desc": "Cadre."}, {"name": "Triple step rock", "desc": "Deux séries."}, {"name": "Body roll duo", "desc": "Body roll synchronisé."}, {"name": "American spin x2", "desc": "Deux spins."}, {"name": "Tilt to the side", "desc": "Préparation lift."}], "transition": "Refrain."},
+        {"num": 4, "title": "Refrain", "time": "1:30 – 2:15", "music_description": "Refrain « Dancing in the moonlight ».", "figures": [{"name": "Open position rock", "desc": "Cadre."}, {"name": "Jive lift basic", "desc": "Porté. Synchronisez sur « moonlight »."}, {"name": "Slow descent", "desc": "Redescente."}, {"name": "Pose hold", "desc": "2 temps."}, {"name": "Swan figure", "desc": "Pose cygne."}, {"name": "Spin out", "desc": "Pivot."}], "transition": "Final."},
+        {"num": 5, "title": "Final", "time": "2:15 – 3:00", "music_description": "Final.", "figures": [{"name": "Walking in rotation rock", "desc": "Six pas énergiques."}, {"name": "Side kicks duo", "desc": "Quatre kicks synchronisés."}, {"name": "Body roll duo", "desc": "Body roll."}, {"name": "American spin", "desc": "Spin."}, {"name": "Half turn rapide", "desc": "Demi-tour."}, {"name": "Sweetheart position", "desc": "Côte à côte."}, {"name": "Final pose joyeuse", "desc": "Bras en V. Synchronisez sur le coup sec. 2 secondes."}], "transition": "Figés."}
+      ],
+
+      "figures_intro": "32 figures sur 5 Parts. Vocabulaire rock pop énergique.",
+      "figures_list": [
+        {"name": "Walk-in rapide", "level": "BASE", "loc": "Part 1"}, {"name": "Closed position rock", "level": "BASE", "loc": "Part 1, 3, 4"}, {"name": "Side rocks", "level": "BASE", "loc": "Part 1, 2"}, {"name": "Jive kicks", "level": "FACILE", "loc": "Part 1"}, {"name": "Underarm turn", "level": "BASE", "loc": "Part 1"}, {"name": "Open position", "level": "BASE", "loc": "Part 1"}, {"name": "Single time points", "level": "FACILE", "loc": "Part 2"}, {"name": "American spin", "level": "FACILE", "loc": "Part 2, 3, 5"}, {"name": "Walking in promenade", "level": "BASE", "loc": "Part 2"}, {"name": "Swing-out", "level": "FACILE", "loc": "Part 2"}, {"name": "Spin in", "level": "FACILE", "loc": "Part 2"}, {"name": "Triple step rock", "level": "FACILE", "loc": "Part 3"}, {"name": "Body roll duo", "level": "INTER.", "loc": "Part 3, 5"}, {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 3"}, {"name": "Open position rock", "level": "BASE", "loc": "Part 4"}, {"name": "Jive lift basic", "level": "INTER.", "loc": "Part 4"}, {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"}, {"name": "Pose hold", "level": "BASE", "loc": "Part 4"}, {"name": "Swan figure", "level": "BASE", "loc": "Part 4"}, {"name": "Spin out", "level": "BASE", "loc": "Part 4"}, {"name": "Walking in rotation rock", "level": "BASE", "loc": "Part 5"}, {"name": "Side kicks duo", "level": "FACILE", "loc": "Part 5"}, {"name": "Half turn rapide", "level": "FACILE", "loc": "Part 5"}, {"name": "Sweetheart position", "level": "BASE", "loc": "Part 5"}, {"name": "Final pose joyeuse", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [{"name": "Jive lift basic (Part 4)", "alternative": "Back lean."}],
+
+      "tips": [
+        {"title": "Préparez le cardio", "text": "130 BPM rock pendant 3:00, beaucoup d'énergie."},
+        {"title": "Joie assumée", "text": "Sourires, énergie communicative. C'est une chorégraphie qui doit faire rire les invités."},
+        {"title": "Synchronisez sur « moonlight »", "text": "Jive lift sur le mot signature."},
+        {"title": "Talons bas recommandés", "text": "Pour les kicks et spins."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps ?", "a": "5 à 6 semaines."},
+        {"q": "Très dynamique ?", "a": "Oui, 130 BPM rock. Niveau intermédiaire."},
+        {"q": "Qui gère la musique ?", "a": "Nous nous en chargeons."},
+        {"q": "Version sans porté ?", "a": "Oui. Back lean."},
+        {"q": "Pour quel mariage ?", "a": "Idéal mariages décontractés, ambiance fête."}
+      ],
+
+      "for_you_if": ["Vous voulez fuir le slow lent classique", "Vous voulez une ouverture joyeuse et dansante", "Vous aimez le rock pop 2000s", "Vous êtes prêts à pratiquer 5 à 6 semaines", "Vous voulez option sans porté", "Vous voulez surprendre"],
+      "what_you_learn": ["32 figures rock pop", "Jive lift + alternative", "Body roll duo", "Synchroniser sur « moonlight »", "Pose finale joyeuse", "Tempo dynamique 130 BPM"],
+
+      "final_cta_text": "Apprenez ce rock pop joyeux en 5 à 6 semaines. Accès à vie. Garantie 14 jours."
     }
   ]
 }
