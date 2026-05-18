@@ -9916,6 +9916,441 @@
       "what_you_learn": ["32 figures rock pop", "Jive lift + alternative", "Body roll duo", "Synchroniser sur « moonlight »", "Pose finale joyeuse", "Tempo dynamique 130 BPM"],
 
       "final_cta_text": "Apprenez ce rock pop joyeux en 5 à 6 semaines. Accès à vie. Garantie 14 jours."
+    },
+
+    {
+      "slug": "lifetime-justin-bieber",
+      "title": "Lifetime",
+      "artist": "Justin Bieber",
+      "year": 2021,
+      "duration": "3:10",
+      "bpm": 88,
+      "bpm_felt": 88,
+      "time_signature": "4/4",
+      "style": "slow",
+      "style_label": "Slow R&B moderne",
+      "level": "débutant à intermédiaire",
+      "preparation_weeks": "4 à 6",
+      "price": 89,
+      "modules": 9,
+      "course_duration": "2h 00",
+      "review_count": 73,
+      "visual_color": "peach-2",
+
+      "seo_title": "Chorégraphie ouverture de bal sur Lifetime (Justin Bieber) | 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur Lifetime de Justin Bieber. Slow R&B chorégraphié, 9 modules. Accès à vie. 89€.",
+      "og_title": "Chorégraphie Lifetime, Justin Bieber",
+      "og_description": "Slow R&B chorégraphié sur Lifetime de Justin Bieber. 9 modules, 5 Parts, 28 figures.",
+
+      "hero_intro": "Lifetime de Justin Bieber, sur l'album Justice (2021), est un slow R&B moderne dédié à Hailey, sa femme. Voix douce, R&B contemporain, paroles mariage explicites. Version chorégraphiée 3:10.",
+
+      "song_anecdote": "Justin Bieber a écrit Lifetime en 2021 pour Hailey Baldwin sa femme. Le morceau parle de promesse d'engagement total : « I'll be there for you for a lifetime ». Style R&B-pop contemporain.",
+
+      "song_wedding_reason": "Idéal pour les couples qui aiment le R&B contemporain. Paroles mariage explicites (« lifetime »), tempo confortable.",
+
+      "music_intro": "Quatre paliers R&B-pop.",
+      "music_timeline": [
+        {"label": "Intro", "details": "Beats doux. Entrée."},
+        {"label": "Couplet", "details": "Voix Bieber R&B."},
+        {"label": "Refrain", "details": "Cordes, batterie. Pic."},
+        {"label": "Final", "details": "Voix au max. Dip."}
+      ],
+      "music_notes": [
+        "Tempo confortable (88 BPM).",
+        "Pic sur « lifetime ».",
+        "Dernière note tenue 3 secondes."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Slow chorégraphié R&B moderne.",
+      "choreo_arc": [
+        {"num": 1, "title": "Rencontre", "time": "0:00–0:30", "mood": "Intro R&B", "key": "Cadre, tour"},
+        {"num": 2, "title": "Tendresse", "time": "0:30–1:00", "mood": "Couplet Justin", "key": "Shadow"},
+        {"num": 3, "title": "Pré-refrain", "time": "1:00–1:40", "mood": "Montée", "key": "Plank"},
+        {"num": 4, "title": "Refrain", "time": "1:40–2:25", "mood": "Pic", "key": "Lift"},
+        {"num": 5, "title": "Final", "time": "2:25–3:10", "mood": "Apothéose", "key": "Swan, dip"}
+      ],
+      "choreo_parts": [
+        {"num": 1, "title": "Rencontre", "time": "0:00 – 0:30", "music_description": "Intro R&B.", "figures": [{"name": "Walk-in slow", "desc": "Quatre pas."}, {"name": "Hands", "desc": "Mains."}, {"name": "Closed position", "desc": "Cadre."}, {"name": "Steps in rotation", "desc": "Pas tournants."}, {"name": "Lady's turn", "desc": "Tour."}, {"name": "Open position", "desc": "Mains tenues."}], "transition": "Couplet."},
+        {"num": 2, "title": "Tendresse", "time": "0:30 – 1:00", "music_description": "Couplet Justin.", "figures": [{"name": "Shadow position", "desc": "Marié derrière."}, {"name": "Hairbrushes", "desc": "Tendre."}, {"name": "Disconnect", "desc": "Séparation."}, {"name": "Hands reconnect", "desc": "Reprise."}, {"name": "Closed position", "desc": "Retour."}], "transition": "Pré-refrain."},
+        {"num": 3, "title": "Pré-refrain", "time": "1:00 – 1:40", "music_description": "Pré-refrain.", "figures": [{"name": "Basket position", "desc": "Croisement."}, {"name": "Plank figure", "desc": "Horizontale."}, {"name": "Lady on the catwalk", "desc": "Quatre pas."}, {"name": "Walking in rotation", "desc": "Six pas."}, {"name": "Lady's turn", "desc": "Tour."}], "transition": "Refrain."},
+        {"num": 4, "title": "Refrain", "time": "1:40 – 2:25", "music_description": "Refrain (« I'll be there for a lifetime »).", "figures": [{"name": "Tilt to the side", "desc": "Inclinaison."}, {"name": "Princess lift", "desc": "Porté. Synchronisez sur « lifetime »."}, {"name": "Pose hold", "desc": "2 temps."}, {"name": "Slow descent", "desc": "Redescente."}, {"name": "Body sweep", "desc": "Glissement."}], "transition": "Final."},
+        {"num": 5, "title": "Final", "time": "2:25 – 3:10", "music_description": "Final.", "figures": [{"name": "Walking in rotation", "desc": "Six pas amples."}, {"name": "Lady's right turn", "desc": "Tour ample."}, {"name": "Cradle to closed", "desc": "Cradle."}, {"name": "Swan figure", "desc": "Pose cygne."}, {"name": "Spin out", "desc": "Pivot."}, {"name": "Steps in rotation", "desc": "Quatre pas."}, {"name": "Final dip", "desc": "Dip. 2 secondes."}], "transition": "Figés."}
+      ],
+
+      "figures_intro": "28 figures sur 5 Parts.",
+      "figures_list": [
+        {"name": "Walk-in slow", "level": "BASE", "loc": "Part 1"}, {"name": "Hands", "level": "BASE", "loc": "Part 1"}, {"name": "Closed position", "level": "BASE", "loc": "Part 1, 2, 5"}, {"name": "Steps in rotation", "level": "BASE", "loc": "Part 1, 5"}, {"name": "Lady's turn", "level": "BASE", "loc": "Part 1, 3"}, {"name": "Open position", "level": "BASE", "loc": "Part 1"}, {"name": "Shadow position", "level": "FACILE", "loc": "Part 2"}, {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 2"}, {"name": "Disconnect", "level": "FACILE", "loc": "Part 2"}, {"name": "Hands reconnect", "level": "BASE", "loc": "Part 2"}, {"name": "Basket position", "level": "BASE", "loc": "Part 3"}, {"name": "Plank figure", "level": "FACILE", "loc": "Part 3"}, {"name": "Lady on the catwalk", "level": "FACILE", "loc": "Part 3"}, {"name": "Walking in rotation", "level": "BASE", "loc": "Part 3, 5"}, {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 4"}, {"name": "Princess lift", "level": "INTER.", "loc": "Part 4"}, {"name": "Pose hold", "level": "BASE", "loc": "Part 4"}, {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"}, {"name": "Body sweep", "level": "FACILE", "loc": "Part 4"}, {"name": "Lady's right turn", "level": "BASE", "loc": "Part 5"}, {"name": "Cradle to closed", "level": "FACILE", "loc": "Part 5"}, {"name": "Swan figure", "level": "BASE", "loc": "Part 5"}, {"name": "Spin out", "level": "BASE", "loc": "Part 5"}, {"name": "Final dip", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [{"name": "Princess lift (Part 4)", "alternative": "Close hug prolongé."}],
+
+      "tips": [
+        {"title": "Justin Bieber dédié à Hailey", "text": "Chanson écrite pour sa femme. Le mariage est explicite dans les paroles."},
+        {"title": "Synchronisez sur « lifetime »", "text": "Princess lift sur ce mot."},
+        {"title": "Style R&B contemporain", "text": "Postures naturelles."},
+        {"title": "Chaussures", "text": "Trois fois min."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps ?", "a": "4 à 6 semaines."},
+        {"q": "Mariage dans les paroles ?", "a": "Oui, explicite."},
+        {"q": "Qui gère la musique ?", "a": "Nous nous en chargeons."},
+        {"q": "Version sans porté ?", "a": "Oui."},
+        {"q": "Bieber pour mariage ?", "a": "Oui, son album Justice (2021) est dédié à Hailey."}
+      ],
+
+      "for_you_if": ["Vous aimez le R&B-pop contemporain", "Vous voulez un slow Justin Bieber", "Le mot « lifetime » résonne avec votre engagement", "Vous êtes débutants à intermédiaires", "Vous voulez option sans porté", "Vous avez 4 à 6 semaines"],
+      "what_you_learn": ["28 figures R&B", "Princess lift + alternative", "Synchroniser sur « lifetime »", "Swan figure", "Style R&B moderne", "Dip final"],
+
+      "final_cta_text": "Apprenez ce slow R&B en 4 à 6 semaines. Accès à vie. Garantie 14 jours."
+    },
+
+    {
+      "slug": "forever-my-love-j-balvin-ed-sheeran",
+      "title": "Forever My Love",
+      "artist": "J Balvin & Ed Sheeran",
+      "year": 2022,
+      "duration": "3:20",
+      "bpm": 95,
+      "bpm_felt": 95,
+      "time_signature": "4/4",
+      "style": "slow",
+      "style_label": "Slow latino-pop bilingue",
+      "level": "intermédiaire",
+      "preparation_weeks": "5 à 6",
+      "price": 89,
+      "modules": 9,
+      "course_duration": "2h 00",
+      "review_count": 84,
+      "visual_color": "peach-3",
+
+      "seo_title": "Chorégraphie ouverture de bal sur Forever My Love (J Balvin & Ed Sheeran) | 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur Forever My Love. Slow latino-pop bilingue, 9 modules. Accès à vie. 89€.",
+      "og_title": "Chorégraphie Forever My Love, J Balvin & Ed Sheeran",
+      "og_description": "Slow latino-pop chorégraphié sur Forever My Love. 9 modules, 5 Parts, 30 figures. Le duo bilingue pour votre première danse.",
+
+      "hero_intro": "Forever My Love de J Balvin et Ed Sheeran est un slow latino-pop bilingue (espagnol/anglais). Voix de Balvin en espagnol, Sheeran en anglais. Version chorégraphiée 3:20.",
+
+      "song_anecdote": "J Balvin (Colombie) et Ed Sheeran ont sorti Forever My Love en 2022. C'est un duo bilingue : Balvin chante en espagnol, Sheeran en anglais. Le morceau a explosé en Amérique du Sud et est devenu populaire en mariage pour les couples hispanophones et bilingues.",
+
+      "song_wedding_reason": "Idéal pour les couples hispanophones, bilingues, ou simplement amateurs de latino-pop. Tempo dynamique, structure en duo permettant d'alterner les deux mariés.",
+
+      "music_intro": "Quatre paliers latino-pop bilingues.",
+      "music_timeline": [
+        {"label": "Intro douce", "details": "Guitare latino. Entrée."},
+        {"label": "Couplets bilingues (Balvin puis Sheeran)", "details": "Espagnol puis anglais en alternance."},
+        {"label": "Refrain ensemble", "details": "Les voix se rejoignent. Pic."},
+        {"label": "Crescendo final", "details": "Voix au max. Dip."}
+      ],
+      "music_notes": [
+        "Tempo dynamique (95 BPM).",
+        "Pic sur « forever my love ».",
+        "Dernière note tenue 3 secondes."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Slow chorégraphié bilingue avec dynamique en duo.",
+      "choreo_arc": [
+        {"num": 1, "title": "Rencontre", "time": "0:00–0:30", "mood": "Intro latino", "key": "Cadre, tour"},
+        {"num": 2, "title": "Couplet Balvin (esp)", "time": "0:30–1:00", "mood": "Voix Balvin", "key": "Shadow"},
+        {"num": 3, "title": "Couplet Sheeran (eng)", "time": "1:00–1:35", "mood": "Voix Sheeran", "key": "Disconnect, reach out"},
+        {"num": 4, "title": "Refrain ensemble", "time": "1:35–2:25", "mood": "Pic", "key": "Lift"},
+        {"num": 5, "title": "Final", "time": "2:25–3:20", "mood": "Apothéose", "key": "Swan, dip"}
+      ],
+      "choreo_parts": [
+        {"num": 1, "title": "Rencontre", "time": "0:00 – 0:30", "music_description": "Intro latino.", "figures": [{"name": "Walk-in slow", "desc": "Quatre pas."}, {"name": "Hands", "desc": "Mains."}, {"name": "Closed position", "desc": "Cadre."}, {"name": "Steps in rotation", "desc": "Pas tournants."}, {"name": "Lady's turn", "desc": "Tour."}, {"name": "Open position", "desc": "Mains tenues."}], "transition": "Couplet Balvin."},
+        {"num": 2, "title": "Couplet Balvin", "time": "0:30 – 1:00", "music_description": "Couplet en espagnol.", "figures": [{"name": "Shadow position", "desc": "Marié derrière."}, {"name": "Hairbrushes", "desc": "Tendre."}, {"name": "Cuban motion", "desc": "Mouvement de hanches latino."}, {"name": "Hands reconnect", "desc": "Reprise."}, {"name": "Closed position", "desc": "Retour."}], "transition": "Sheeran entre."},
+        {"num": 3, "title": "Couplet Sheeran", "time": "1:00 – 1:35", "music_description": "Couplet en anglais.", "figures": [{"name": "Disconnect", "desc": "Séparation."}, {"name": "Reach out", "desc": "Geste théâtral."}, {"name": "Hands reconnect", "desc": "Reprise."}, {"name": "Walking in rotation", "desc": "Six pas tournants."}, {"name": "Lady's turn", "desc": "Tour rapide."}], "transition": "Refrain ensemble."},
+        {"num": 4, "title": "Refrain ensemble", "time": "1:35 – 2:25", "music_description": "Refrain à deux voix.", "figures": [{"name": "Basket position", "desc": "Croisement."}, {"name": "Plank figure", "desc": "Horizontale. Synchronisez sur « forever »."}, {"name": "Tilt to the side", "desc": "Préparation lift."}, {"name": "Princess lift", "desc": "Porté. Synchronisez sur « love »."}, {"name": "Pose hold", "desc": "2 temps."}, {"name": "Slow descent", "desc": "Redescente."}], "transition": "Final."},
+        {"num": 5, "title": "Final", "time": "2:25 – 3:20", "music_description": "Final.", "figures": [{"name": "Body sweep", "desc": "Glissement."}, {"name": "Walking in rotation", "desc": "Six pas amples."}, {"name": "Lady's right turn", "desc": "Tour ample."}, {"name": "Cradle to closed", "desc": "Cradle."}, {"name": "Swan figure", "desc": "Pose cygne."}, {"name": "Spin out", "desc": "Pivot."}, {"name": "Final dip", "desc": "Dip. 2 secondes."}], "transition": "Figés."}
+      ],
+
+      "figures_intro": "30 figures sur 5 Parts. Vocabulaire slow chorégraphié avec touches latino.",
+      "figures_list": [
+        {"name": "Walk-in slow", "level": "BASE", "loc": "Part 1"}, {"name": "Hands", "level": "BASE", "loc": "Part 1"}, {"name": "Closed position", "level": "BASE", "loc": "Part 1, 2"}, {"name": "Steps in rotation", "level": "BASE", "loc": "Part 1"}, {"name": "Lady's turn", "level": "BASE", "loc": "Part 1, 3"}, {"name": "Open position", "level": "BASE", "loc": "Part 1"}, {"name": "Shadow position", "level": "FACILE", "loc": "Part 2"}, {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 2"}, {"name": "Cuban motion", "level": "FACILE", "loc": "Part 2"}, {"name": "Hands reconnect", "level": "BASE", "loc": "Part 2, 3"}, {"name": "Disconnect", "level": "FACILE", "loc": "Part 3"}, {"name": "Reach out", "level": "FACILE", "loc": "Part 3"}, {"name": "Walking in rotation", "level": "BASE", "loc": "Part 3, 5"}, {"name": "Basket position", "level": "BASE", "loc": "Part 4"}, {"name": "Plank figure", "level": "FACILE", "loc": "Part 4"}, {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 4"}, {"name": "Princess lift", "level": "INTER.", "loc": "Part 4"}, {"name": "Pose hold", "level": "BASE", "loc": "Part 4"}, {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"}, {"name": "Body sweep", "level": "FACILE", "loc": "Part 5"}, {"name": "Lady's right turn", "level": "BASE", "loc": "Part 5"}, {"name": "Cradle to closed", "level": "FACILE", "loc": "Part 5"}, {"name": "Swan figure", "level": "BASE", "loc": "Part 5"}, {"name": "Spin out", "level": "BASE", "loc": "Part 5"}, {"name": "Final dip", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [{"name": "Princess lift (Part 4)", "alternative": "Close hug prolongé."}],
+
+      "tips": [
+        {"title": "Duo bilingue", "text": "Balvin (esp) puis Sheeran (eng). Exploitez : mariée mène sur Balvin, marié répond sur Sheeran."},
+        {"title": "Touche latino", "text": "Cuban motion en Part 2 pour le côté latino."},
+        {"title": "Synchronisez sur « forever » et « love »", "text": "Plank sur « forever », lift sur « love »."},
+        {"title": "Chaussures", "text": "Trois fois min."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps ?", "a": "5 à 6 semaines."},
+        {"q": "Bilingue espagnol/anglais ?", "a": "Oui, Balvin esp / Sheeran eng."},
+        {"q": "Qui gère la musique ?", "a": "Nous nous en chargeons."},
+        {"q": "Version sans porté ?", "a": "Oui."},
+        {"q": "Pour quel public ?", "a": "Idéal couples hispanophones, bilingues, ou amateurs latino-pop."}
+      ],
+
+      "for_you_if": ["Vous êtes hispanophones ou bilingues", "Vous aimez le latino-pop", "Vous voulez un duo Ed Sheeran moderne", "Vous êtes prêts à pratiquer 5 à 6 semaines", "Vous voulez option sans porté", "Vous avez un public bilingue"],
+      "what_you_learn": ["30 figures bilingue", "Princess lift + alternative", "Cuban motion latino", "Exploiter une structure duo bilingue", "Synchroniser sur « forever » et « love »", "Dip final"],
+
+      "final_cta_text": "Apprenez ce duo bilingue en 5 à 6 semaines. Accès à vie. Garantie 14 jours."
+    },
+
+    {
+      "slug": "i-belong-to-you-jacob-lee",
+      "title": "I Belong to You",
+      "artist": "Jacob Lee",
+      "year": 2017,
+      "duration": "3:05",
+      "bpm": 80,
+      "bpm_felt": 80,
+      "time_signature": "4/4",
+      "style": "slow",
+      "style_label": "Slow folk-pop indépendant",
+      "level": "débutant",
+      "preparation_weeks": "4 à 5",
+      "price": 89,
+      "modules": 8,
+      "course_duration": "1h 45",
+      "review_count": 61,
+      "visual_color": "peach-1",
+
+      "seo_title": "Chorégraphie ouverture de bal sur I Belong to You (Jacob Lee) | 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur I Belong to You de Jacob Lee. Slow folk-pop, 8 modules. Accès à vie. 89€.",
+      "og_title": "Chorégraphie I Belong to You, Jacob Lee",
+      "og_description": "Slow folk-pop chorégraphié sur I Belong to You. 8 modules, 5 Parts, 27 figures.",
+
+      "hero_intro": "I Belong to You de Jacob Lee est un slow folk-pop indépendant pour les couples qui veulent une chanson moins jouée. Voix douce, guitare acoustique. Version chorégraphiée 3:05.",
+
+      "song_anecdote": "Jacob Lee est un artiste indépendant australien. I Belong to You (2017) est l'un de ses titres les plus populaires sur les playlists wedding-music. Style folk-pop intime.",
+
+      "song_wedding_reason": "Idéal pour les couples qui veulent éviter les hits surjoués. Effet de différenciation immédiat. Le titre est une promesse parfaite.",
+
+      "music_intro": "Quatre paliers folk-pop intimes.",
+      "music_timeline": [
+        {"label": "Intro guitare", "details": "Guitare. Entrée."},
+        {"label": "Couplet", "details": "Voix Jacob."},
+        {"label": "Refrain", "details": "Cordes douces. Pic."},
+        {"label": "Final", "details": "Voix au max. Dip."}
+      ],
+      "music_notes": [
+        "Tempo confortable (80 BPM).",
+        "Pic sur « I belong to you ».",
+        "Dernière note tenue 2 secondes."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Slow folk-pop accessible.",
+      "choreo_arc": [
+        {"num": 1, "title": "Rencontre", "time": "0:00–0:30", "mood": "Intro", "key": "Cadre, tour"},
+        {"num": 2, "title": "Tendresse", "time": "0:30–1:00", "mood": "Couplet", "key": "Shadow"},
+        {"num": 3, "title": "Pré-refrain", "time": "1:00–1:35", "mood": "Montée", "key": "Plank"},
+        {"num": 4, "title": "Refrain", "time": "1:35–2:20", "mood": "Pic", "key": "Lift"},
+        {"num": 5, "title": "Final", "time": "2:20–3:05", "mood": "Apothéose", "key": "Swan, dip"}
+      ],
+      "choreo_parts": [
+        {"num": 1, "title": "Rencontre", "time": "0:00 – 0:30", "music_description": "Intro guitare.", "figures": [{"name": "Walk-in slow", "desc": "Pas."}, {"name": "Hands", "desc": "Mains."}, {"name": "Closed position", "desc": "Cadre."}, {"name": "Steps in rotation", "desc": "Pas tournants."}, {"name": "Lady's turn", "desc": "Tour."}, {"name": "Open position", "desc": "Mains tenues."}], "transition": "Couplet."},
+        {"num": 2, "title": "Tendresse", "time": "0:30 – 1:00", "music_description": "Couplet.", "figures": [{"name": "Shadow position", "desc": "Marié derrière."}, {"name": "Hairbrushes", "desc": "Tendre."}, {"name": "Disconnect", "desc": "Séparation."}, {"name": "Hands reconnect", "desc": "Reprise."}, {"name": "Closed position", "desc": "Retour."}], "transition": "Pré-refrain."},
+        {"num": 3, "title": "Pré-refrain", "time": "1:00 – 1:35", "music_description": "Pré-refrain.", "figures": [{"name": "Basket position", "desc": "Croisement."}, {"name": "Plank figure", "desc": "Horizontale."}, {"name": "Lady on the catwalk", "desc": "Quatre pas."}, {"name": "Walking in rotation", "desc": "Six pas."}, {"name": "Lady's turn", "desc": "Tour."}], "transition": "Refrain."},
+        {"num": 4, "title": "Refrain", "time": "1:35 – 2:20", "music_description": "Refrain « I belong to you ».", "figures": [{"name": "Tilt to the side", "desc": "Inclinaison."}, {"name": "Princess lift", "desc": "Porté. Synchronisez sur « you »."}, {"name": "Pose hold", "desc": "2 temps."}, {"name": "Slow descent", "desc": "Redescente."}, {"name": "Body sweep", "desc": "Glissement."}], "transition": "Final."},
+        {"num": 5, "title": "Final", "time": "2:20 – 3:05", "music_description": "Final.", "figures": [{"name": "Walking in rotation", "desc": "Six pas amples."}, {"name": "Lady's right turn", "desc": "Tour ample."}, {"name": "Cradle to closed", "desc": "Cradle."}, {"name": "Swan figure", "desc": "Pose cygne."}, {"name": "Spin out", "desc": "Pivot."}, {"name": "Final dip", "desc": "Dip. 2 secondes."}], "transition": "Figés."}
+      ],
+
+      "figures_intro": "27 figures sur 5 Parts.",
+      "figures_list": [
+        {"name": "Walk-in slow", "level": "BASE", "loc": "Part 1"}, {"name": "Hands", "level": "BASE", "loc": "Part 1"}, {"name": "Closed position", "level": "BASE", "loc": "Part 1, 2, 5"}, {"name": "Steps in rotation", "level": "BASE", "loc": "Part 1, 5"}, {"name": "Lady's turn", "level": "BASE", "loc": "Part 1, 3"}, {"name": "Open position", "level": "BASE", "loc": "Part 1"}, {"name": "Shadow position", "level": "FACILE", "loc": "Part 2"}, {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 2"}, {"name": "Disconnect", "level": "FACILE", "loc": "Part 2"}, {"name": "Hands reconnect", "level": "BASE", "loc": "Part 2"}, {"name": "Basket position", "level": "BASE", "loc": "Part 3"}, {"name": "Plank figure", "level": "FACILE", "loc": "Part 3"}, {"name": "Lady on the catwalk", "level": "FACILE", "loc": "Part 3"}, {"name": "Walking in rotation", "level": "BASE", "loc": "Part 3, 5"}, {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 4"}, {"name": "Princess lift", "level": "INTER.", "loc": "Part 4"}, {"name": "Pose hold", "level": "BASE", "loc": "Part 4"}, {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"}, {"name": "Body sweep", "level": "FACILE", "loc": "Part 4"}, {"name": "Lady's right turn", "level": "BASE", "loc": "Part 5"}, {"name": "Cradle to closed", "level": "FACILE", "loc": "Part 5"}, {"name": "Swan figure", "level": "BASE", "loc": "Part 5"}, {"name": "Spin out", "level": "BASE", "loc": "Part 5"}, {"name": "Final dip", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [{"name": "Princess lift (Part 4)", "alternative": "Close hug prolongé."}],
+
+      "tips": [
+        {"title": "Artiste indépendant", "text": "Jacob Lee est moins joué. Effet de différenciation."},
+        {"title": "Synchronisez sur « you »", "text": "Princess lift sur ce mot."},
+        {"title": "Style folk-pop", "text": "Postures naturelles."},
+        {"title": "Chaussures", "text": "Trois fois."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps ?", "a": "4 à 5 semaines."},
+        {"q": "Jacob Lee, qui est-ce ?", "a": "Artiste indépendant australien."},
+        {"q": "Qui gère la musique ?", "a": "Nous nous en chargeons."},
+        {"q": "Version sans porté ?", "a": "Oui."},
+        {"q": "Mes invités la connaîtront-ils ?", "a": "Probablement pas. Effet de surprise."}
+      ],
+
+      "for_you_if": ["Vous voulez éviter les hits surjoués", "Vous aimez le folk-pop indépendant", "Vous êtes débutants", "Vous voulez option sans porté", "Vous avez 4 à 5 semaines", "Vous voulez vous différencier"],
+      "what_you_learn": ["27 figures de slow folk", "Princess lift + alternative", "Synchroniser sur « you »", "Swan figure", "Style indé doux", "Dip final"],
+
+      "final_cta_text": "Apprenez ce slow indé en 4 à 5 semaines. Accès à vie. Garantie 14 jours."
+    },
+
+    {
+      "slug": "stumblin-in-chris-norman-suzi-quatro",
+      "title": "Stumblin' In",
+      "artist": "Chris Norman & Suzi Quatro",
+      "year": 1978,
+      "duration": "3:35",
+      "bpm": 100,
+      "bpm_felt": 100,
+      "time_signature": "4/4",
+      "style": "rock",
+      "style_label": "Rock pop 70s",
+      "level": "intermédiaire",
+      "preparation_weeks": "5 à 6",
+      "price": 89,
+      "modules": 9,
+      "course_duration": "2h 00",
+      "review_count": 78,
+      "visual_color": "peach-3",
+
+      "seo_title": "Chorégraphie ouverture de bal sur Stumblin' In (Chris Norman & Suzi Quatro) | 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur Stumblin' In. Rock pop 70s, 9 modules. Accès à vie. 89€.",
+      "og_title": "Chorégraphie Stumblin' In, Chris Norman & Suzi Quatro",
+      "og_description": "Rock pop chorégraphié sur Stumblin' In. 9 modules, 5 Parts, 30 figures.",
+
+      "hero_intro": "Stumblin' In de Chris Norman et Suzi Quatro (1978) est un duo rock-pop iconique des années 70. Récent come-back grâce aux reprises modernes. Version chorégraphiée 3:35.",
+
+      "song_anecdote": "Stumblin' In a été écrite par Nicky Chinn et Mike Chapman en 1978, interprétée en duo par Chris Norman (Smokie) et Suzi Quatro. Le morceau a été redécouvert récemment grâce à des reprises modernes (CYRIL 2024). Pour les mariages, c'est devenu un slow rock-pop nostalgique.",
+
+      "song_wedding_reason": "Idéal pour les couples qui aiment le rock-pop 70s. Duo permettant d'exploiter la structure mariée/marié.",
+
+      "music_intro": "Quatre paliers rock-pop 70s.",
+      "music_timeline": [
+        {"label": "Intro rock", "details": "Guitare et batterie. Entrée."},
+        {"label": "Couplets duo", "details": "Norman puis Quatro en alternance."},
+        {"label": "Refrain ensemble", "details": "Les voix se rejoignent. Pic."},
+        {"label": "Final", "details": "Voix au max. Pose finale."}
+      ],
+      "music_notes": [
+        "Tempo dynamique (100 BPM).",
+        "Pic sur « stumblin' in ».",
+        "Dernière note tenue 2 secondes."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Rock-pop chorégraphié avec dynamique duo.",
+      "choreo_arc": [
+        {"num": 1, "title": "Rencontre", "time": "0:00–0:35", "mood": "Intro rock", "key": "Cadre, tour"},
+        {"num": 2, "title": "Couplet Norman", "time": "0:35–1:10", "mood": "Voix Norman", "key": "Shadow"},
+        {"num": 3, "title": "Couplet Quatro", "time": "1:10–1:45", "mood": "Voix Quatro", "key": "Disconnect"},
+        {"num": 4, "title": "Refrain ensemble", "time": "1:45–2:35", "mood": "Pic", "key": "Lift"},
+        {"num": 5, "title": "Final", "time": "2:35–3:35", "mood": "Apothéose", "key": "Swan, dip"}
+      ],
+      "choreo_parts": [
+        {"num": 1, "title": "Rencontre", "time": "0:00 – 0:35", "music_description": "Intro rock.", "figures": [{"name": "Walk-in slow", "desc": "Pas."}, {"name": "Hands", "desc": "Mains."}, {"name": "Closed position rock", "desc": "Cadre rock."}, {"name": "Side rocks", "desc": "Pas latéraux."}, {"name": "Lady's turn", "desc": "Tour."}, {"name": "Open position", "desc": "Mains tenues."}], "transition": "Norman entre."},
+        {"num": 2, "title": "Couplet Norman", "time": "0:35 – 1:10", "music_description": "Couplet Norman.", "figures": [{"name": "Shadow position", "desc": "Marié derrière."}, {"name": "Hairbrushes", "desc": "Tendre."}, {"name": "Disconnect", "desc": "Séparation."}, {"name": "Hands reconnect", "desc": "Reprise."}, {"name": "Closed position rock", "desc": "Retour."}], "transition": "Quatro entre."},
+        {"num": 3, "title": "Couplet Quatro", "time": "1:10 – 1:45", "music_description": "Couplet Quatro.", "figures": [{"name": "Disconnect", "desc": "Séparation."}, {"name": "Reach out", "desc": "Geste."}, {"name": "American spin", "desc": "Spin mariée."}, {"name": "Walking in promenade", "desc": "Quatre pas."}, {"name": "Spin in", "desc": "Retour."}], "transition": "Refrain ensemble."},
+        {"num": 4, "title": "Refrain ensemble", "time": "1:45 – 2:35", "music_description": "Refrain à deux voix.", "figures": [{"name": "Basket position", "desc": "Croisement."}, {"name": "Plank figure", "desc": "Horizontale."}, {"name": "Walking in rotation", "desc": "Six pas."}, {"name": "Princess lift", "desc": "Porté. Synchronisez sur « stumblin »."}, {"name": "Pose hold", "desc": "2 temps."}, {"name": "Slow descent", "desc": "Redescente."}, {"name": "Body sweep", "desc": "Glissement."}], "transition": "Final."},
+        {"num": 5, "title": "Final", "time": "2:35 – 3:35", "music_description": "Final.", "figures": [{"name": "Walking in rotation rock", "desc": "Six pas énergiques."}, {"name": "Lady's right turn", "desc": "Tour ample."}, {"name": "Body roll duo", "desc": "Body roll synchronisé."}, {"name": "Swan figure", "desc": "Pose cygne."}, {"name": "Spin out", "desc": "Pivot."}, {"name": "Steps in rotation", "desc": "Quatre pas."}, {"name": "Final dip", "desc": "Dip. 2 secondes."}], "transition": "Figés."}
+      ],
+
+      "figures_intro": "30 figures sur 5 Parts. Vocabulaire rock-pop 70s avec structure duo.",
+      "figures_list": [
+        {"name": "Walk-in slow", "level": "BASE", "loc": "Part 1"}, {"name": "Hands", "level": "BASE", "loc": "Part 1"}, {"name": "Closed position rock", "level": "BASE", "loc": "Part 1, 2"}, {"name": "Side rocks", "level": "BASE", "loc": "Part 1"}, {"name": "Lady's turn", "level": "BASE", "loc": "Part 1"}, {"name": "Open position", "level": "BASE", "loc": "Part 1"}, {"name": "Shadow position", "level": "FACILE", "loc": "Part 2"}, {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 2"}, {"name": "Disconnect", "level": "FACILE", "loc": "Part 2, 3"}, {"name": "Hands reconnect", "level": "BASE", "loc": "Part 2"}, {"name": "Reach out", "level": "FACILE", "loc": "Part 3"}, {"name": "American spin", "level": "FACILE", "loc": "Part 3"}, {"name": "Walking in promenade", "level": "BASE", "loc": "Part 3"}, {"name": "Spin in", "level": "FACILE", "loc": "Part 3"}, {"name": "Basket position", "level": "BASE", "loc": "Part 4"}, {"name": "Plank figure", "level": "FACILE", "loc": "Part 4"}, {"name": "Walking in rotation", "level": "BASE", "loc": "Part 4, 5"}, {"name": "Princess lift", "level": "INTER.", "loc": "Part 4"}, {"name": "Pose hold", "level": "BASE", "loc": "Part 4"}, {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"}, {"name": "Body sweep", "level": "FACILE", "loc": "Part 4"}, {"name": "Walking in rotation rock", "level": "BASE", "loc": "Part 5"}, {"name": "Lady's right turn", "level": "BASE", "loc": "Part 5"}, {"name": "Body roll duo", "level": "INTER.", "loc": "Part 5"}, {"name": "Swan figure", "level": "BASE", "loc": "Part 5"}, {"name": "Spin out", "level": "BASE", "loc": "Part 5"}, {"name": "Steps in rotation", "level": "BASE", "loc": "Part 5"}, {"name": "Final dip", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [{"name": "Princess lift (Part 4)", "alternative": "Close hug rock."}],
+
+      "tips": [
+        {"title": "Norman ou CYRIL ?", "text": "Original 1978 (Norman/Quatro) ou moderne 2024 (CYRIL). Original 3:35, CYRIL 2:30."},
+        {"title": "Exploitez le duo", "text": "Mariée mène sur Quatro, marié répond sur Norman."},
+        {"title": "Synchronisez sur « stumblin »", "text": "Princess lift sur ce mot."},
+        {"title": "Chaussures", "text": "Talons bas pour spins."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps ?", "a": "5 à 6 semaines."},
+        {"q": "Norman/Quatro ou CYRIL ?", "a": "Norman/Quatro (3:35, classique) ou CYRIL (2:30, moderne). Les deux dans le catalogue."},
+        {"q": "Qui gère la musique ?", "a": "Nous nous en chargeons."},
+        {"q": "Version sans porté ?", "a": "Oui."},
+        {"q": "Style rock-pop dansable ?", "a": "Oui, parfait pour s'amuser."}
+      ],
+
+      "for_you_if": ["Vous aimez le rock-pop 70s", "Vous voulez exploiter une structure duo", "Vous voulez surprendre vos invités", "Vous êtes prêts à pratiquer 5 à 6 semaines", "Vous voulez option sans porté", "Vous voulez 3:35 (version classique)"],
+      "what_you_learn": ["30 figures rock-pop duo", "Princess lift + alternative", "Body roll duo", "Exploiter structure duo Norman/Quatro", "Synchroniser sur « stumblin »", "Dip final"],
+
+      "final_cta_text": "Apprenez ce duo rock-pop en 5 à 6 semaines. Accès à vie. Garantie 14 jours."
+    },
+
+    {
+      "slug": "lose-control-teddy-swims",
+      "title": "Lose Control",
+      "artist": "Teddy Swims",
+      "year": 2023,
+      "duration": "3:30",
+      "bpm": 90,
+      "bpm_felt": 90,
+      "time_signature": "4/4",
+      "style": "slow",
+      "style_label": "Slow soul puissant",
+      "level": "intermédiaire",
+      "preparation_weeks": "5 à 6",
+      "price": 89,
+      "modules": 9,
+      "course_duration": "2h 00",
+      "review_count": 92,
+      "visual_color": "dark",
+
+      "seo_title": "Chorégraphie ouverture de bal sur Lose Control (Teddy Swims) | 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur Lose Control de Teddy Swims. Slow soul puissant, 9 modules. Accès à vie. 89€.",
+      "og_title": "Chorégraphie Lose Control, Teddy Swims",
+      "og_description": "Slow soul chorégraphié sur Lose Control de Teddy Swims. 9 modules, 5 Parts, 30 figures.",
+
+      "hero_intro": "Lose Control de Teddy Swims est le tube soul-pop de 2023-2024, devenu un slow mariage moderne très demandé. Voix soul puissante, montée orchestrale émotionnelle. Version chorégraphiée 3:30.",
+
+      "song_anecdote": "Teddy Swims a sorti Lose Control en 2023. Le morceau est resté en tête des charts dans plus de trente pays en 2024. Sa voix soul puissante et le crescendo orchestral final en font un slow particulièrement émouvant pour les mariages.",
+
+      "song_wedding_reason": "Idéal pour les couples qui veulent un slow soul puissant moderne. Tempo confortable, crescendo final marquant. Hit récent reconnu par les jeunes invités.",
+
+      "music_intro": "Quatre paliers soul.",
+      "music_timeline": [
+        {"label": "Intro piano", "details": "Piano. Entrée."},
+        {"label": "Couplet", "details": "Voix soul Teddy."},
+        {"label": "Refrain", "details": "Cordes amples. Pic."},
+        {"label": "Crescendo final", "details": "Voix au max absolu. Dip."}
+      ],
+      "music_notes": [
+        "Tempo confortable (90 BPM).",
+        "Pic sur « lose control ».",
+        "Dernière note tenue 3 secondes."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Slow chorégraphié soul moderne avec crescendo final puissant.",
+      "choreo_arc": [
+        {"num": 1, "title": "Rencontre", "time": "0:00–0:35", "mood": "Intro piano", "key": "Cadre, tour"},
+        {"num": 2, "title": "Tendresse", "time": "0:35–1:10", "mood": "Couplet Teddy", "key": "Shadow"},
+        {"num": 3, "title": "Pré-refrain", "time": "1:10–1:50", "mood": "Montée", "key": "Plank"},
+        {"num": 4, "title": "Refrain", "time": "1:50–2:35", "mood": "Pic", "key": "Lift"},
+        {"num": 5, "title": "Crescendo final", "time": "2:35–3:30", "mood": "Apothéose", "key": "Swan, dip"}
+      ],
+      "choreo_parts": [
+        {"num": 1, "title": "Rencontre", "time": "0:00 – 0:35", "music_description": "Intro piano.", "figures": [{"name": "Walk-in slow", "desc": "Pas."}, {"name": "Hands", "desc": "Mains."}, {"name": "Closed position", "desc": "Cadre."}, {"name": "Steps in rotation", "desc": "Pas tournants."}, {"name": "Lady's turn", "desc": "Tour."}, {"name": "Open position", "desc": "Mains tenues."}], "transition": "Couplet."},
+        {"num": 2, "title": "Tendresse", "time": "0:35 – 1:10", "music_description": "Couplet Teddy.", "figures": [{"name": "Shadow position", "desc": "Marié derrière."}, {"name": "Hairbrushes", "desc": "Tendre."}, {"name": "Disconnect", "desc": "Séparation."}, {"name": "Hands reconnect", "desc": "Reprise."}, {"name": "Closed position", "desc": "Retour."}], "transition": "Pré-refrain."},
+        {"num": 3, "title": "Pré-refrain", "time": "1:10 – 1:50", "music_description": "Pré-refrain.", "figures": [{"name": "Basket position", "desc": "Croisement."}, {"name": "Plank figure", "desc": "Horizontale."}, {"name": "Lady on the catwalk", "desc": "Quatre pas."}, {"name": "Walking in rotation", "desc": "Six pas."}, {"name": "Lady's turn", "desc": "Tour."}], "transition": "Refrain."},
+        {"num": 4, "title": "Refrain", "time": "1:50 – 2:35", "music_description": "Refrain (« I'd lose control »).", "figures": [{"name": "Tilt to the side", "desc": "Inclinaison."}, {"name": "Princess lift", "desc": "Porté. Synchronisez sur « control »."}, {"name": "Pose hold dramatique", "desc": "3 temps."}, {"name": "Slow descent", "desc": "Redescente."}, {"name": "Body sweep", "desc": "Glissement."}], "transition": "Crescendo final."},
+        {"num": 5, "title": "Crescendo final", "time": "2:35 – 3:30", "music_description": "Crescendo soul final.", "figures": [{"name": "Walking in rotation amples", "desc": "Six pas amples."}, {"name": "Lady's right turn", "desc": "Tour ample."}, {"name": "Cradle to closed", "desc": "Cradle."}, {"name": "Swan figure", "desc": "Pose cygne. Synchronisez sur le pic soul."}, {"name": "Spin out", "desc": "Pivot."}, {"name": "Steps in rotation", "desc": "Quatre pas."}, {"name": "Final dip lent", "desc": "Dip lent. 2 secondes."}], "transition": "Figés."}
+      ],
+
+      "figures_intro": "30 figures sur 5 Parts.",
+      "figures_list": [
+        {"name": "Walk-in slow", "level": "BASE", "loc": "Part 1"}, {"name": "Hands", "level": "BASE", "loc": "Part 1"}, {"name": "Closed position", "level": "BASE", "loc": "Part 1, 2, 5"}, {"name": "Steps in rotation", "level": "BASE", "loc": "Part 1, 5"}, {"name": "Lady's turn", "level": "BASE", "loc": "Part 1, 3"}, {"name": "Open position", "level": "BASE", "loc": "Part 1"}, {"name": "Shadow position", "level": "FACILE", "loc": "Part 2"}, {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 2"}, {"name": "Disconnect", "level": "FACILE", "loc": "Part 2"}, {"name": "Hands reconnect", "level": "BASE", "loc": "Part 2"}, {"name": "Basket position", "level": "BASE", "loc": "Part 3"}, {"name": "Plank figure", "level": "FACILE", "loc": "Part 3"}, {"name": "Lady on the catwalk", "level": "FACILE", "loc": "Part 3"}, {"name": "Walking in rotation", "level": "BASE", "loc": "Part 3, 5"}, {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 4"}, {"name": "Princess lift", "level": "INTER.", "loc": "Part 4"}, {"name": "Pose hold dramatique", "level": "BASE", "loc": "Part 4"}, {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"}, {"name": "Body sweep", "level": "FACILE", "loc": "Part 4"}, {"name": "Lady's right turn", "level": "BASE", "loc": "Part 5"}, {"name": "Cradle to closed", "level": "FACILE", "loc": "Part 5"}, {"name": "Swan figure", "level": "BASE", "loc": "Part 5"}, {"name": "Spin out", "level": "BASE", "loc": "Part 5"}, {"name": "Final dip lent", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [{"name": "Princess lift (Part 4)", "alternative": "Close hug prolongé."}],
+
+      "tips": [
+        {"title": "Lose Control vs You're Still The One Teddy Swims", "text": "Lose Control = solo soul puissant. You're Still The One = reprise Shania. Lose Control plus moderne et intense."},
+        {"title": "Synchronisez sur « control »", "text": "Princess lift sur ce mot."},
+        {"title": "Voix soul Teddy", "text": "Postures qui accompagnent la voix."},
+        {"title": "Chaussures", "text": "Trois fois."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps ?", "a": "5 à 6 semaines."},
+        {"q": "Lose Control ou You're Still The One Teddy ?", "a": "Lose Control = solo. You're Still The One = reprise Shania."},
+        {"q": "Qui gère la musique ?", "a": "Nous nous en chargeons."},
+        {"q": "Version sans porté ?", "a": "Oui."},
+        {"q": "Hit récent ?", "a": "Oui, n°1 en 2024 dans plus de trente pays."}
+      ],
+
+      "for_you_if": ["Vous voulez le hit soul de 2024", "Vous aimez la voix puissante de Teddy Swims", "Vous voulez un crescendo final intense", "Vous êtes prêts à pratiquer 5 à 6 semaines", "Vous voulez option sans porté", "Vous voulez 3:30 d'émotion"],
+      "what_you_learn": ["30 figures soul moderne", "Princess lift + alternative", "Synchroniser sur « control »", "Swan figure", "Exploiter un crescendo soul", "Dip final lent"],
+
+      "final_cta_text": "Apprenez ce hit soul Teddy Swims en 5 à 6 semaines. Accès à vie. Garantie 14 jours."
     }
   ]
 }

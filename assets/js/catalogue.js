@@ -35,14 +35,14 @@
     { id: 32, title: "All of Me", artist: "John Legend (original)", style: "slow", tags: [], rank: 32, slug: "all-of-me-john-legend" },
     { id: 33, title: "Lover", artist: "Taylor Swift", style: "slow", tags: [], rank: 33, slug: "lover-taylor-swift" },
     { id: 34, title: "Wildest Dreams (Bridgerton)", artist: "Duomo", style: "valse", tags: [], rank: 34, slug: "wildest-dreams-bridgerton-duomo" },
-    { id: 35, title: "Lifetime", artist: "Justin Bieber", style: "slow", tags: [], rank: 35 },
+    { id: 35, title: "Lifetime", artist: "Justin Bieber", style: "slow", tags: [], rank: 35, slug: "lifetime-justin-bieber" },
     { id: 36, title: "Until I Found You", artist: "Stephen Sanchez", style: "slow", tags: [], rank: 36, slug: "until-i-found-you-stephen-sanchez" },
     { id: 37, title: "Dancing in the Moonlight", artist: "Toploader", style: "rock", tags: [], rank: 37, slug: "dancing-in-the-moonlight-toploader" },
     { id: 38, title: "Unchained Melody", artist: "Righteous Brothers", style: "slow", tags: [], rank: 38, slug: "unchained-melody-righteous-brothers" },
     { id: 39, title: "Dandelions", artist: "Ruth B.", style: "slow", tags: [], rank: 39, slug: "dandelions-ruth-b" },
     { id: 40, title: "Your Song", artist: "Elton John", style: "slow", tags: [], rank: 40, slug: "your-song-elton-john" },
     { id: 41, title: "La Vie En Rose", artist: "Daniela Andrade", style: "slow", tags: ["francais"], rank: 41, slug: "la-vie-en-rose-daniela-andrade" },
-    { id: 42, title: "Stumblin' In", artist: "Chris Norman & Suzi Quatro", style: "rock", tags: [], rank: 42 },
+    { id: 42, title: "Stumblin' In", artist: "Chris Norman & Suzi Quatro", style: "rock", tags: [], rank: 42, slug: "stumblin-in-chris-norman-suzi-quatro" },
     { id: 43, title: "Stumblin' In", artist: "CYRIL (version moderne)", style: "rock", tags: [], rank: 43 },
     { id: 44, title: "Hallelujah", artist: "Alexandra Burke", style: "slow", tags: [], rank: 44, slug: "hallelujah-alexandra-burke" },
     { id: 45, title: "Marry You", artist: "Bruno Mars", style: "rock", tags: [], rank: 45, slug: "marry-you-bruno-mars" },
@@ -50,13 +50,13 @@
     { id: 47, title: "Love Me Like You Do", artist: "Ellie Goulding", style: "slow", tags: [], rank: 47, slug: "love-me-like-you-do-ellie-goulding" },
     { id: 48, title: "Make You Feel My Love", artist: "Adele", style: "slow", tags: [], rank: 48, slug: "make-you-feel-my-love-adele" },
     { id: 49, title: "LOVE", artist: "Nat King Cole", style: "slow", tags: [], rank: 49, slug: "love-nat-king-cole" },
-    { id: 50, title: "Forever My Love", artist: "J Balvin & Ed Sheeran", style: "slow", tags: [], rank: 50 },
+    { id: 50, title: "Forever My Love", artist: "J Balvin & Ed Sheeran", style: "slow", tags: [], rank: 50, slug: "forever-my-love-j-balvin-ed-sheeran" },
     { id: 51, title: "Enchanted", artist: "Taylor Swift", style: "slow", tags: [], rank: 51, slug: "enchanted-taylor-swift" },
-    { id: 52, title: "I Belong to You", artist: "Jacob Lee", style: "slow", tags: [], rank: 52 },
+    { id: 52, title: "I Belong to You", artist: "Jacob Lee", style: "slow", tags: [], rank: 52, slug: "i-belong-to-you-jacob-lee" },
     { id: 53, title: "Be More", artist: "Stephen Sanchez", style: "slow", tags: [], rank: 53 },
     { id: 54, title: "Who We Love", artist: "Sam Smith & Ed Sheeran", style: "slow", tags: [], rank: 54 },
     { id: 55, title: "Give Me Everything (Bridgerton)", artist: "Archer Marsh", style: "rock", tags: [], rank: 55 },
-    { id: 56, title: "Lose Control", artist: "Teddy Swims", style: "slow", tags: ["new"], rank: 56 }
+    { id: 56, title: "Lose Control", artist: "Teddy Swims", style: "slow", tags: ["new"], rank: 56, slug: "lose-control-teddy-swims" }
   ];
 
   const cardColors = ["#E8C9B8", "#D9A89C", "#C87856", "#B8985F", "#A8364C", "#8B3A1F"];
