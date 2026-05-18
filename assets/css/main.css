@@ -361,6 +361,107 @@
   color: #A8364C;
 }
 
+.choreo-updated {
+  margin-left: 16px;
+  color: #C9B8A6;
+  font-style: italic;
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 11px;
+}
+
+/* VOUS AIMEREZ AUSSI */
+.choreo-related {
+  margin-top: 48px;
+  padding-top: 32px;
+  border-top: 0.5px solid #E8DCD0;
+}
+
+.choreo-related-heading {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 24px;
+  font-weight: 500;
+  color: #2B1F17;
+  margin: 0 0 20px 0;
+  letter-spacing: -0.3px;
+}
+
+.choreo-related-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+}
+
+.choreo-related-card {
+  display: flex;
+  flex-direction: column;
+  background: #FFFFFF;
+  border: 0.5px solid #E8DCD0;
+  border-radius: 12px;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.choreo-related-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 28px rgba(43, 31, 23, 0.10);
+}
+
+.choreo-related-blob {
+  height: 140px;
+  background: #E8C9B8;
+}
+
+.choreo-related-blob[data-color="peach-1"] { background: #E8C9B8; }
+.choreo-related-blob[data-color="peach-2"] { background: #D9A89C; }
+.choreo-related-blob[data-color="peach-3"] { background: #C87856; }
+.choreo-related-blob[data-color="dark"]    { background: #4A3527; }
+
+.choreo-related-info {
+  padding: 16px 18px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.choreo-related-style {
+  font-size: 10px;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: #A8364C;
+  font-weight: 500;
+}
+
+.choreo-related-title-h {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: #2B1F17;
+  margin: 4px 0 2px 0;
+  letter-spacing: -0.2px;
+}
+
+.choreo-related-artist {
+  font-size: 13px;
+  color: #6B5D52;
+  margin: 0;
+}
+
+.choreo-related-price {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: #A8364C;
+  margin-top: 8px;
+}
+
+@media (max-width: 900px) {
+  .choreo-related-grid { grid-template-columns: 1fr; }
+  .choreo-updated { display: block; margin-left: 0; margin-top: 4px; }
+}
+
 /* LAYOUT : col gauche (visuel + accordéon empilés), col droite (contenu + bullets) */
 .choreo-layout {
   display: grid;

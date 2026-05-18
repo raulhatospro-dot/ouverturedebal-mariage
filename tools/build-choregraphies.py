@@ -15,8 +15,10 @@ Lit :
 
 import json
 import re
+import subprocess
 from pathlib import Path
 from html import escape
+from datetime import date as _date
 
 ROOT = Path(__file__).parent.parent
 TEMPLATE_PATH = ROOT / "tools" / "choregraphie-template.html"
@@ -166,8 +168,165 @@ def render_bullets(items):
     return "\n".join(f'              <li>{html_escape(item)}</li>' for item in items)
 
 
-def build_page(template, song):
+def parse_duration_to_iso(s):
+    """Convert '2h 10' or '1h 45' to ISO 8601 duration 'PT2H10M'."""
+    m = re.match(r'(\d+)h\s*(\d*)', s)
+    if not m:
+        return "PT2H"
+    h, mins = m.group(1), m.group(2) or "0"
+    if mins in ("0", ""):
+        return f"PT{h}H"
+    return f"PT{h}H{mins}M"
+
+
+def render_faq_schema(faq):
+    """Render FAQPage JSON-LD from faq array, with Speakable for voice assistants."""
+    schema = {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "speakable": {
+            "@type": "SpeakableSpecification",
+            "cssSelector": [".choreo-faq-q", ".choreo-faq-a"],
+        },
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": item["q"],
+                "acceptedAnswer": {"@type": "Answer", "text": item["a"]},
+            }
+            for item in faq
+        ],
+    }
+    return json.dumps(schema, ensure_ascii=False, indent=2)
+
+
+def parse_weeks_to_iso(s):
+    """Convert '6 à 10' to ISO 8601 'P10W' (using max weeks)."""
+    nums = re.findall(r'\d+', s)
+    if not nums:
+        return "P8W"
+    return f"P{nums[-1]}W"
+
+
+def render_howto_schema(song):
+    """Render HowTo JSON-LD with each Part as a step."""
+    schema = {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": f"Comment apprendre l'ouverture de bal sur {song['title']}",
+        "description": song["choreo_overview"],
+        "totalTime": parse_weeks_to_iso(song["preparation_weeks"]),
+        "estimatedCost": {
+            "@type": "MonetaryAmount",
+            "currency": "EUR",
+            "value": str(song["price"]),
+        },
+        "step": [
+            {
+                "@type": "HowToStep",
+                "position": p["num"],
+                "name": f"Part {p['num']} : {p['title']}",
+                "text": p["music_description"],
+                "url": f"https://ouverturedebal-mariage.fr/choregraphies/{song['slug']}.html",
+            }
+            for p in song["choreo_parts"]
+        ],
+    }
+    return json.dumps(schema, ensure_ascii=False, indent=2)
+
+
+DATE_PUBLISHED = "2026-05-17"  # date initiale de mise en ligne des fiches
+
+
+def get_data_modified_date():
+    """Date du dernier commit git sur le fichier JSON de données (YYYY-MM-DD)."""
+    try:
+        r = subprocess.run(
+            ["git", "log", "-1", "--format=%cs", "--", str(DATA_PATH)],
+            capture_output=True, text=True, cwd=ROOT, check=False
+        )
+        d = r.stdout.strip()
+        return d if d else _date.today().isoformat()
+    except Exception:
+        return _date.today().isoformat()
+
+
+def render_related_cards(song, all_songs, n=3):
+    """Pick n other songs and render cards for cross-linking."""
+    others = [s for s in all_songs if s["slug"] != song["slug"]]
+    related = others[:n] if len(others) >= n else others
+    items = []
+    for s in related:
+        items.append(f'''        <a href="{s['slug']}.html" class="choreo-related-card">
+          <div class="choreo-related-blob" data-color="{html_escape(s['visual_color'])}" aria-hidden="true"></div>
+          <div class="choreo-related-info">
+            <span class="choreo-related-style">{html_escape(s['style_label'])}</span>
+            <h3 class="choreo-related-title-h">{html_escape(s['title'])}</h3>
+            <p class="choreo-related-artist">{html_escape(s['artist'])}</p>
+            <span class="choreo-related-price">{s['price']}€</span>
+          </div>
+        </a>''')
+    return "\n".join(items)
+
+
+def render_breadcrumb_schema(song):
+    """Render BreadcrumbList JSON-LD."""
+    schema = {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Catalogue des chorégraphies",
+                "item": "https://ouverturedebal-mariage.fr/choregraphies.html",
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": song["title"],
+                "item": f"https://ouverturedebal-mariage.fr/choregraphies/{song['slug']}.html",
+            },
+        ],
+    }
+    return json.dumps(schema, ensure_ascii=False, indent=2)
+
+
+def render_course_schema(song, modified_date):
+    """Render Course JSON-LD with datePublished + dateModified for freshness signal."""
+    schema = {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": f"Chorégraphie ouverture de bal sur {song['title']} ({song['artist']})",
+        "description": song["seo_description"],
+        "provider": {
+            "@type": "Organization",
+            "name": "Ouverture de Bal",
+            "url": "https://ouverturedebal-mariage.fr",
+        },
+        "hasCourseInstance": {
+            "@type": "CourseInstance",
+            "courseMode": "online",
+            "courseWorkload": parse_duration_to_iso(song["course_duration"]),
+        },
+        "offers": {
+            "@type": "Offer",
+            "price": str(song["price"]),
+            "priceCurrency": "EUR",
+            "category": "Online course",
+        },
+        "datePublished": DATE_PUBLISHED,
+        "dateModified": modified_date,
+    }
+    return json.dumps(schema, ensure_ascii=False, indent=2)
+
+
+def build_page(template, song, all_songs=None, modified_date=None):
     """Build a single HTML page from the template and song data."""
+    if all_songs is None:
+        all_songs = [song]
+    if modified_date is None:
+        modified_date = _date.today().isoformat()
     # Simple string replacements
     replacements = {
         "{{SLUG}}": song["slug"],
@@ -207,6 +366,11 @@ def build_page(template, song):
         "{{FAQ_LIST}}": render_faq(song["faq"]),
         "{{FOR_YOU_IF}}": render_bullets(song["for_you_if"]),
         "{{WHAT_YOU_LEARN}}": render_bullets(song["what_you_learn"]),
+        "{{FAQ_SCHEMA}}": render_faq_schema(song["faq"]),
+        "{{BREADCRUMB_SCHEMA}}": render_breadcrumb_schema(song),
+        "{{COURSE_SCHEMA}}": render_course_schema(song, modified_date),
+        "{{HOWTO_SCHEMA}}": render_howto_schema(song),
+        "{{RELATED_CARDS}}": render_related_cards(song, all_songs),
     }
 
     page = template
@@ -232,10 +396,14 @@ def main():
     # Ensure output directory exists
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
+    # Date du dernier commit git sur le JSON de données (pour dateModified)
+    modified_date = get_data_modified_date()
+    print(f"dateModified utilisé : {modified_date}")
+
     # Generate each page
     print(f"Génération de {len(songs)} fiche(s) chorégraphie…")
     for song in songs:
-        page = build_page(template, song)
+        page = build_page(template, song, songs, modified_date)
         output_path = OUTPUT_DIR / f"{song['slug']}.html"
         output_path.write_text(page, encoding="utf-8")
         size_kb = len(page) / 1024
