@@ -6951,6 +6951,981 @@
       ],
 
       "final_cta_text": "Vous êtes prêts à apprendre cette alternative à Ordinary en 4 à 6 semaines, depuis votre salon. Aucune expérience de danse n'est requise. Accès à vie aux 9 modules vidéo, démonstration sous 2 angles, version sans porté incluse. Garantie satisfait ou remboursé pendant 14 jours."
+    },
+
+    {
+      "slug": "stand-by-me-ben-e-king",
+      "title": "Stand By Me",
+      "artist": "Ben E. King",
+      "year": 1961,
+      "duration": "2:55",
+      "bpm": 117,
+      "bpm_felt": 58,
+      "time_signature": "4/4",
+      "style": "slow",
+      "style_label": "Slow soul vintage 60s",
+      "level": "débutant",
+      "preparation_weeks": "4 à 5",
+      "price": 89,
+      "modules": 8,
+      "course_duration": "1h 45",
+      "review_count": 189,
+      "visual_color": "peach-2",
+
+      "seo_title": "Chorégraphie ouverture de bal sur Stand By Me (Ben E. King) | 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur Stand By Me de Ben E. King. Slow soul vintage, 8 modules vidéo, durée 2:55 sans coupe. Accès à vie. 89€.",
+      "og_title": "Chorégraphie Stand By Me, Ben E. King",
+      "og_description": "Slow soul chorégraphié sur Stand By Me de Ben E. King. 8 modules, 5 Parts, 27 figures. Le classique soul 60s pour votre première danse.",
+
+      "hero_intro": "Stand By Me de Ben E. King est l'un des slows les plus universellement reconnus de l'histoire de la musique populaire. Soul 60s, mélodie de basse iconique, voix chaude et tendre. Tempo très lent à 58 BPM. La durée naturelle est de 2:55, format parfait sans aucune coupe nécessaire.",
+
+      "song_anecdote": "Stand By Me a été écrite par Ben E. King, Jerry Leiber et Mike Stoller en 1961. Ben E. King s'est inspiré d'un spiritual gospel qu'il chantait enfant à l'église. La chanson a été reprise plus de 400 fois (John Lennon, Otis Redding, Florence + The Machine, Mickey Gilley) et est devenue le titre du film Stand By Me de Rob Reiner (1986). Pour les mariages, c'est l'un des slows soul les plus joués depuis les années 1980, particulièrement pour les couples qui veulent un standard vintage chaleureux.",
+
+      "song_wedding_reason": "Stand By Me coche toutes les cases d'une ouverture de bal réussie. Tous les invités, des plus jeunes aux plus âgés, connaissent la chanson. Le tempo très lent (58 BPM) en fait l'un des slows les plus accessibles techniquement. La durée naturelle de 2:55 est parfaite : pas de coupe, juste un slow soul classique du début à la fin. Et le titre même (« Sois là pour moi ») est une promesse de mariage en deux mots.",
+
+      "music_intro": "Voici la structure de Stand By Me. Quatre paliers musicaux qui montent progressivement, autour de la ligne de basse iconique.",
+      "music_timeline": [
+        {"label": "Intro basse iconique", "details": "La ligne de basse mémorable seule. C'est l'entrée du couple, immédiatement reconnaissable."},
+        {"label": "Premier couplet et pré-refrain", "details": "Voix soul de Ben E. King, instrumentation discrète sur la basse."},
+        {"label": "Refrain orchestral", "details": "Cordes et batterie qui entrent. Premier pic émotionnel."},
+        {"label": "Crescendo final et dernière note", "details": "Pic vocal, montée orchestrale, dernière note. Signal du dip final."}
+      ],
+      "music_notes": [
+        "Le tempo très lent (58 BPM) demande beaucoup de précision. Profitez-en pour soigner chaque figure.",
+        "Le pic émotionnel arrive sur le refrain final (« Stand by me »). C'est là que placer votre figure la plus spectaculaire.",
+        "La dernière note de Ben E. King est tenue 2 secondes. Synchronisez le dip final pile sur ce moment."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Cette chorégraphie respecte l'esthétique soul vintage 60s de Stand By Me. Vocabulaire slow chorégraphié classique. Aucune coupe DJ nécessaire (durée naturelle 2:55). Un porté principal et un swan figure final. Accessible aux débutants complets.",
+      "choreo_arc": [
+        {"num": 1, "title": "Rencontre soul", "time": "0:00–0:30", "mood": "Basse iconique", "key": "Cadre, premier tour"},
+        {"num": 2, "title": "Tendresse", "time": "0:30–1:00", "mood": "Couplet King", "key": "Shadow, hairbrushes"},
+        {"num": 3, "title": "Pré-refrain", "time": "1:00–1:30", "mood": "Montée", "key": "Catwalk, plank"},
+        {"num": 4, "title": "Refrain orchestral", "time": "1:30–2:15", "mood": "Pic émotionnel", "key": "Walking, princess lift"},
+        {"num": 5, "title": "Crescendo final", "time": "2:15–2:55", "mood": "Apothéose", "key": "Swan, body sweep, dip"}
+      ],
+      "choreo_parts": [
+        {
+          "num": 1,
+          "title": "Rencontre soul",
+          "time": "0:00 – 0:30",
+          "music_description": "Intro avec la ligne de basse iconique de Stand By Me. Atmosphère soul 60s. Vous arrivez tranquillement sur la piste.",
+          "figures": [
+            {"name": "Walk-in slow", "desc": "Quatre pas lents pour rejoindre le centre. Démarrez sur la première note de basse."},
+            {"name": "Hands", "desc": "Prise de mains lente, regard verrouillé."},
+            {"name": "Closed position vintage", "desc": "Passage en cadre fermé style années 60."},
+            {"name": "Slow rotation", "desc": "Trois pas tournants très lents."},
+            {"name": "Lady's turn", "desc": "Premier tour de la mariée. Synchronisé sur l'entrée de la voix de Ben E. King."},
+            {"name": "Open position", "desc": "Mains tenues, respiration avant la Part 2."}
+          ],
+          "transition": "Le couplet continue. La Part 2 va approfondir l'intimité."
+        },
+        {
+          "num": 2,
+          "title": "Tendresse",
+          "time": "0:30 – 1:00",
+          "music_description": "Premier couplet (« When the night has come »). Voix soul de Ben E. King, instrumentation toujours minimale.",
+          "figures": [
+            {"name": "Shadow position", "desc": "Le marié passe derrière la mariée, mains délicatement sur sa taille."},
+            {"name": "Hairbrushes", "desc": "Geste tendre depuis la position shadow."},
+            {"name": "Disconnect", "desc": "Les partenaires se séparent une mesure, regard chargé."},
+            {"name": "Hands reconnect", "desc": "Reprise de mains très lente."},
+            {"name": "Closed position", "desc": "Retour cadre fermé pour préparer la Part 3."}
+          ],
+          "transition": "Le pré-refrain monte. La Part 3 va relancer le mouvement."
+        },
+        {
+          "num": 3,
+          "title": "Pré-refrain",
+          "time": "1:00 – 1:30",
+          "music_description": "Pré-refrain. Les cordes commencent à se faire entendre, batterie discrète.",
+          "figures": [
+            {"name": "Basket position", "desc": "Croisement des mains devant le couple."},
+            {"name": "Plank figure", "desc": "La mariée s'étire à l'horizontale."},
+            {"name": "Lady on the catwalk", "desc": "Quatre pas en avant, regard porté loin."},
+            {"name": "Walking in rotation", "desc": "Six pas tournants ensemble."},
+            {"name": "Lady's turn", "desc": "Tour rapide de la mariée pour préparer le lift."}
+          ],
+          "transition": "Le refrain orchestral entre. La Part 4 va atteindre le pic émotionnel."
+        },
+        {
+          "num": 4,
+          "title": "Refrain orchestral",
+          "time": "1:30 – 2:15",
+          "music_description": "Premier refrain orchestré (« Stand by me, oh stand by me »). Cordes amples, batterie ample.",
+          "figures": [
+            {"name": "Tilt to the side", "desc": "Inclinaison lente, préparation au porté."},
+            {"name": "Princess lift", "desc": "Le porté principal. Synchronisez le pic sur le mot « me » du refrain."},
+            {"name": "Pose hold", "desc": "Tenez 2 temps en haut du lift."},
+            {"name": "Slow descent", "desc": "Redescente contrôlée."},
+            {"name": "Body sweep", "desc": "Glissement latéral de la mariée contre le marié."}
+          ],
+          "transition": "Le refrain continue. La Part 5 va clore en beauté."
+        },
+        {
+          "num": 5,
+          "title": "Crescendo final",
+          "time": "2:15 – 2:55",
+          "music_description": "Refrain final pleine puissance. Voix de Ben E. King à son maximum. Dernière note tenue.",
+          "figures": [
+            {"name": "Walking in rotation large", "desc": "Six pas tournants amples."},
+            {"name": "Lady's right turn", "desc": "Un tour ample de la mariée."},
+            {"name": "Cradle to closed", "desc": "Petit cradle, puis retour en closed position."},
+            {"name": "Swan figure", "desc": "Pose cygne, bras déployés."},
+            {"name": "Spin out", "desc": "La mariée sort en pivot pour préparer le dip."},
+            {"name": "Steps in rotation", "desc": "Quatre derniers pas pour caler le timing."},
+            {"name": "Final dip", "desc": "Dip final. Synchronisez le pic sur la dernière note tenue. Tenez 2 secondes après le silence."}
+          ],
+          "transition": "Restez figés sur le dip pendant 2 secondes après le silence."
+        }
+      ],
+
+      "figures_intro": "Cette chorégraphie utilise 27 figures sur 5 Parts. Vocabulaire slow chorégraphié vintage 60s, accessible aux débutants complets.",
+      "figures_list": [
+        {"name": "Walk-in slow", "level": "BASE", "loc": "Part 1"},
+        {"name": "Hands", "level": "BASE", "loc": "Part 1"},
+        {"name": "Closed position vintage", "level": "BASE", "loc": "Part 1, 2, 5"},
+        {"name": "Slow rotation", "level": "BASE", "loc": "Part 1"},
+        {"name": "Lady's turn", "level": "BASE", "loc": "Part 1, 3"},
+        {"name": "Open position", "level": "BASE", "loc": "Part 1"},
+        {"name": "Shadow position", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Disconnect", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hands reconnect", "level": "BASE", "loc": "Part 2"},
+        {"name": "Basket position", "level": "BASE", "loc": "Part 3"},
+        {"name": "Plank figure", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Lady on the catwalk", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Walking in rotation", "level": "BASE", "loc": "Part 3, 5"},
+        {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Princess lift", "level": "INTER.", "loc": "Part 4"},
+        {"name": "Pose hold", "level": "BASE", "loc": "Part 4"},
+        {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Body sweep", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Lady's right turn", "level": "BASE", "loc": "Part 5"},
+        {"name": "Cradle to closed", "level": "FACILE", "loc": "Part 5"},
+        {"name": "Swan figure", "level": "BASE", "loc": "Part 5"},
+        {"name": "Spin out", "level": "BASE", "loc": "Part 5"},
+        {"name": "Steps in rotation", "level": "BASE", "loc": "Part 5"},
+        {"name": "Final dip", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [
+        {"name": "Princess lift (Part 4)", "alternative": "Si le marié n'est pas à l'aise avec les portés, remplacez par un « close hug » prolongé."}
+      ],
+
+      "tips": [
+        {"title": "Suivez la ligne de basse iconique", "text": "La basse de Stand By Me est tellement reconnaissable qu'elle est devenue la signature de la chanson. Calez vos pas sur la basse, pas sur la voix : elle est plus régulière et donne le tempo absolu."},
+        {"title": "Profitez de la durée parfaite", "text": "2:55, c'est exactement la durée idéale d'une ouverture de bal. Aucune coupe DJ, vous donnez le MP3 original tel quel. Avantage majeur : zéro risque d'erreur de transition."},
+        {"title": "Synchronisez sur « me »", "text": "Le mot signature de la chanson (« Stand by me ») revient plusieurs fois. Synchronisez votre Princess lift sur le « me » du premier refrain. C'est le moment-clé."},
+        {"title": "Pratiquez avec les vraies chaussures", "text": "Les talons hauts changent l'équilibre de la mariée. Pratiquez avec des chaussures de hauteur similaire au moins trois fois avant le jour J, idéalement avec une jupe longue."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps faut-il pour apprendre cette chorégraphie ?", "a": "Comptez 4 à 5 semaines avec 2 à 3 séances de 30 minutes par semaine. C'est l'une de nos chorégraphies les plus accessibles, idéale pour des débutants complets."},
+        {"q": "Quelle version : Ben E. King originale ou John Lennon ?", "a": "La version Ben E. King 1961 (2:55) est utilisée pour la chorégraphie. La version John Lennon (1975) dure 3:32 et a une dynamique différente. Si vous préférez Lennon, demandez l'ajustement personnalisé."},
+        {"q": "Qui s'occupe d'éditer la musique pour le jour J ?", "a": "Pas besoin. Stand By Me fait 2:55, durée parfaite. Vous donnez le MP3 original à votre DJ."},
+        {"q": "Y a-t-il une version sans porté ?", "a": "Oui. Le Princess lift en Part 4 a une alternative intégrée (close hug prolongé)."},
+        {"q": "C'est une chanson vraiment universelle ?", "a": "Oui, l'une des plus universelles au monde. Toutes les générations la connaissent. Aucun invité ne sera surpris ni perdu."}
+      ],
+
+      "for_you_if": [
+        "Vous voulez le slow soul le plus universellement reconnu",
+        "Vous aimez les classiques vintage 60s",
+        "Vous êtes débutants complets en danse",
+        "Vous voulez une chorégraphie courte et accessible (2:55 sans coupe)",
+        "Vous voulez une option avec ou sans porté",
+        "Vous avez 4 à 5 semaines pour préparer votre première danse"
+      ],
+      "what_you_learn": [
+        "27 figures de slow chorégraphié vintage soul",
+        "Le Princess lift et son alternative close hug",
+        "Comment suivre la ligne de basse iconique comme métronome",
+        "Le swan figure, figure iconique du mariage",
+        "Comment synchroniser sur le mot signature « me »",
+        "Comment poser un dip final sur la dernière note tenue"
+      ],
+
+      "final_cta_text": "Vous êtes prêts à apprendre ce classique soul universel en 4 à 5 semaines, depuis votre salon. Aucune expérience de danse n'est requise. Accès à vie aux 8 modules vidéo, démonstration sous 2 angles, version sans porté incluse. Garantie satisfait ou remboursé pendant 14 jours."
+    },
+
+    {
+      "slug": "the-time-of-my-life-dirty-dancing",
+      "title": "(I've Had) The Time of My Life",
+      "artist": "Dirty Dancing (Bill Medley & Jennifer Warnes)",
+      "year": 1987,
+      "duration": "3:20",
+      "bpm": 113,
+      "bpm_felt": 113,
+      "time_signature": "4/4",
+      "style": "rock",
+      "style_label": "Rock 80s avec lift culte",
+      "level": "intermédiaire",
+      "preparation_weeks": "5 à 6",
+      "price": 89,
+      "modules": 10,
+      "course_duration": "2h 30",
+      "review_count": 145,
+      "visual_color": "peach-3",
+
+      "seo_title": "Chorégraphie ouverture de bal sur The Time of My Life (Dirty Dancing) | 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur The Time of My Life de Dirty Dancing. Rock 80s avec lift culte, 10 modules vidéo, version 3:20. Accès à vie. 89€.",
+      "og_title": "Chorégraphie The Time of My Life, Dirty Dancing",
+      "og_description": "Rock chorégraphié sur The Time of My Life. 10 modules, 5 Parts, 33 figures. Le lift culte de Patrick Swayze pour votre première danse.",
+
+      "hero_intro": "The Time of My Life du film Dirty Dancing (1987) est l'une des chorégraphies de mariage les plus iconiques de tous les temps. Rock 80s puissant, lift de Patrick Swayze devenu mondialement célèbre, énergie communicative. La version chorégraphiée fait 3:20 et inclut une variante simplifiée du fameux lift.",
+
+      "song_anecdote": "The Time of My Life a été écrite par Franke Previte, John DeNicola et Donald Markowitz en 1987 pour le film Dirty Dancing avec Patrick Swayze et Jennifer Grey. Elle est chantée en duo par Bill Medley (Righteous Brothers) et Jennifer Warnes. La chanson accompagne la scène finale du film où Johnny revient chercher Baby pour danser, scène qui se termine par le « lift » que Patrick Swayze fait avec Jennifer Grey, devenu l'un des moments les plus iconiques du cinéma. Pour les mariages, c'est devenu un grand classique pour les couples qui veulent reproduire (au moins symboliquement) ce moment culte.",
+
+      "song_wedding_reason": "The Time of My Life est idéal pour les couples ambitieux qui veulent une ouverture de bal qui restera dans les mémoires. Le rock 80s énergique donne une dynamique communicative. Le lift Dirty Dancing (même dans sa version simplifiée que nous enseignons) reste un moment cinématographique unique. Et la nostalgie du film crée une émotion immédiate chez tous les invités de plus de 40 ans.",
+
+      "music_intro": "Voici la structure de The Time of My Life. Quatre paliers rock 80s avec un final particulièrement puissant.",
+      "music_timeline": [
+        {"label": "Intro percussions", "details": "Percussions iconiques, atmosphère qui monte. C'est l'entrée du couple."},
+        {"label": "Couplets en duo (Bill puis Jennifer)", "details": "Chacun chante son couplet en alternance, rock 80s."},
+        {"label": "Pré-refrain et refrain", "details": "Cuivres et batterie pleine puissance. Premier pic d'énergie."},
+        {"label": "Bridge instrumental et final", "details": "Saxophone, voix au max, dernière phrase tenue. Signal du lift Dirty Dancing."}
+      ],
+      "music_notes": [
+        "Le tempo à 113 BPM est dynamique. Préparez votre cardio, c'est de l'énergie pure du début à la fin.",
+        "Le pic émotionnel arrive sur le bridge instrumental avant le final (« Now I've had the time of my life »). C'est là que placer le lift culte (ou son alternative).",
+        "La dernière phrase est tenue 3 secondes. Synchronisez la pose finale pile sur ce moment."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Cette chorégraphie reprend l'esprit du film Dirty Dancing avec un vocabulaire rock 80s : kicks, spins, body roll, lift culte. Le lift Patrick Swayze (Part 4) a une version simplifiée intégrée pour les couples qui ne sont pas à l'aise avec un porté complet. Toutes les figures sont enseignées sous deux angles.",
+      "choreo_arc": [
+        {"num": 1, "title": "Entrée énergique", "time": "0:00–0:30", "mood": "Percussions intro", "key": "Cadre rock, kicks"},
+        {"num": 2, "title": "Couplet duo", "time": "0:30–1:10", "mood": "Bill puis Jennifer", "key": "Side rocks, points"},
+        {"num": 3, "title": "Pré-refrain", "time": "1:10–1:45", "mood": "Montée", "key": "Spins, body roll"},
+        {"num": 4, "title": "Lift Dirty Dancing", "time": "1:45–2:30", "mood": "Pic culte", "key": "Le porté iconique"},
+        {"num": 5, "title": "Final explosif", "time": "2:30–3:20", "mood": "Apothéose 80s", "key": "Kicks, spin, pose finale"}
+      ],
+      "choreo_parts": [
+        {
+          "num": 1,
+          "title": "Entrée énergique",
+          "time": "0:00 – 0:30",
+          "music_description": "Intro percussions iconiques. Atmosphère 80s qui monte. Vous arrivez sur la piste avec énergie.",
+          "figures": [
+            {"name": "Walk-in rapide", "desc": "Quatre pas dynamiques pour rejoindre le centre."},
+            {"name": "Closed position rock", "desc": "Cadre rock, prêt à exploser."},
+            {"name": "Side rocks", "desc": "Quatre pas de côté gauche-droite en rythme."},
+            {"name": "Jive kicks", "desc": "Deux séries de kicks alternés."},
+            {"name": "Underarm turn", "desc": "Tour de la mariée sous le bras du marié."},
+            {"name": "Open position", "desc": "Mains tenues, respiration courte avant Part 2."}
+          ],
+          "transition": "Bill Medley commence à chanter. La Part 2 va exploiter la structure en duo."
+        },
+        {
+          "num": 2,
+          "title": "Couplet duo",
+          "time": "0:30 – 1:10",
+          "music_description": "Premier couplet par Bill Medley puis deuxième par Jennifer Warnes. Rock 80s typique.",
+          "figures": [
+            {"name": "Side rocks", "desc": "Quatre pas latéraux énergiques."},
+            {"name": "Single time points", "desc": "Pointes de pied alternées, fun et ouvert."},
+            {"name": "American spin", "desc": "Spin de la mariée à 360°."},
+            {"name": "Walking in promenade", "desc": "Quatre pas de côté en promenade, mains hautes."},
+            {"name": "Swing-out", "desc": "Le couple s'écarte, puis revient."},
+            {"name": "Spin in", "desc": "La mariée revient en se vrillant vers le marié."}
+          ],
+          "transition": "Le pré-refrain monte. La Part 3 va relancer l'énergie."
+        },
+        {
+          "num": 3,
+          "title": "Pré-refrain",
+          "time": "1:10 – 1:45",
+          "music_description": "Pré-refrain avec montée orchestrale. La voix commence à exploser.",
+          "figures": [
+            {"name": "Closed position rock", "desc": "Retour cadre rock pour figures dynamiques."},
+            {"name": "Triple step rock", "desc": "Deux séries de triple-step énergiques."},
+            {"name": "Cuban motion duo", "desc": "Mouvement de hanches synchronisé."},
+            {"name": "American spin x2", "desc": "Deux spins consécutifs."},
+            {"name": "Body roll duo", "desc": "Body roll synchronisé, figure spectaculaire."},
+            {"name": "Tilt to the side", "desc": "Inclinaison de la mariée, préparation au lift."}
+          ],
+          "transition": "Le bridge instrumental arrive avec saxophone. La Part 4 va exécuter le lift culte."
+        },
+        {
+          "num": 4,
+          "title": "Lift Dirty Dancing",
+          "time": "1:45 – 2:30",
+          "music_description": "Bridge instrumental avec saxophone puis montée vers le refrain final. C'est le moment du lift culte.",
+          "figures": [
+            {"name": "Approach run", "desc": "La mariée fait quatre pas vers le marié pour préparer le lift (comme Jennifer Grey vers Patrick Swayze)."},
+            {"name": "Dirty Dancing lift", "desc": "Le lift culte : la mariée est portée bras tendus, jambes droites comme un planeur. Synchronisez le pic sur le sax solo."},
+            {"name": "Slow descent dramatique", "desc": "Redescente très lente."},
+            {"name": "Pose hold", "desc": "Tenez 2 temps après la descente, regard partagé."},
+            {"name": "Closed position rock", "desc": "Retour cadre rock pour la Part 5."}
+          ],
+          "transition": "Le refrain final pleine puissance arrive. La Part 5 va clore en mode 80s explosif."
+        },
+        {
+          "num": 5,
+          "title": "Final explosif",
+          "time": "2:30 – 3:20",
+          "music_description": "Refrain final pleine puissance avec saxophone, choeurs, batterie ample. Pic d'énergie absolu.",
+          "figures": [
+            {"name": "Walking in rotation rock", "desc": "Six pas tournants énergiques."},
+            {"name": "Body roll duo", "desc": "Deuxième body roll synchronisé."},
+            {"name": "Side kicks duo", "desc": "Quatre kicks synchronisés côte à côte."},
+            {"name": "American spin", "desc": "Tour de la mariée."},
+            {"name": "Half turn rapide", "desc": "Demi-tour vif."},
+            {"name": "Sweetheart position", "desc": "Position côte à côte pour la pose finale."},
+            {"name": "Final pose 80s", "desc": "Pose finale : marié bras vers le haut, mariée bras tendus. Synchronisez sur la dernière note. Tenez 2 secondes."}
+          ],
+          "transition": "Restez figés sur la pose finale pendant 2 secondes. Effet 80s explosif garanti."
+        }
+      ],
+
+      "figures_intro": "Cette chorégraphie utilise 33 figures sur 5 Parts. Vocabulaire rock 80s avec lift Dirty Dancing simplifié. Les deux versions du lift (porté complet et alternative back lean) sont enseignées en détail.",
+      "figures_list": [
+        {"name": "Walk-in rapide", "level": "BASE", "loc": "Part 1"},
+        {"name": "Closed position rock", "level": "BASE", "loc": "Part 1, 3, 4"},
+        {"name": "Side rocks", "level": "BASE", "loc": "Part 1, 2"},
+        {"name": "Jive kicks", "level": "FACILE", "loc": "Part 1"},
+        {"name": "Underarm turn", "level": "BASE", "loc": "Part 1"},
+        {"name": "Open position", "level": "BASE", "loc": "Part 1"},
+        {"name": "Single time points", "level": "FACILE", "loc": "Part 2"},
+        {"name": "American spin", "level": "FACILE", "loc": "Part 2, 3, 5"},
+        {"name": "Walking in promenade", "level": "BASE", "loc": "Part 2"},
+        {"name": "Swing-out", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Spin in", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Triple step rock", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Cuban motion duo", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Body roll duo", "level": "INTER.", "loc": "Part 3, 5"},
+        {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Approach run", "level": "BASE", "loc": "Part 4"},
+        {"name": "Dirty Dancing lift", "level": "INTER.", "loc": "Part 4"},
+        {"name": "Slow descent dramatique", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Pose hold", "level": "BASE", "loc": "Part 4"},
+        {"name": "Walking in rotation rock", "level": "BASE", "loc": "Part 5"},
+        {"name": "Side kicks duo", "level": "FACILE", "loc": "Part 5"},
+        {"name": "Half turn rapide", "level": "FACILE", "loc": "Part 5"},
+        {"name": "Sweetheart position", "level": "BASE", "loc": "Part 5"},
+        {"name": "Final pose 80s", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [
+        {"name": "Dirty Dancing lift (Part 4)", "alternative": "Si le marié n'est pas à l'aise avec ce lift exigeant, remplacez par un « back lean » : la mariée se laisse tomber en arrière dans les bras du marié sans être soulevée du sol. Le marié la rattrape à mi-hauteur. Effet cinématographique préservé sans risque physique."}
+      ],
+
+      "tips": [
+        {"title": "Le lift Dirty Dancing demande beaucoup de pratique", "text": "Le porté Patrick Swayze (mariée bras tendus comme un planeur) est physiquement exigeant. Comptez 20 à 30 répétitions isolées avant de le maîtriser. Si vous n'êtes pas à l'aise, l'alternative back lean est tout aussi spectaculaire visuellement, beaucoup moins risquée."},
+        {"title": "Préparez votre cardio", "text": "113 BPM rock pendant 3:20, c'est beaucoup d'énergie. La dernière semaine, pratiquez la chorégraphie complète 5 fois d'affilée pour habituer votre cardio. La Part 5 est particulièrement intense."},
+        {"title": "L'approche du lift est tout", "text": "Avant le lift, la mariée fait quatre pas vers le marié (comme Jennifer Grey vers Patrick Swayze). Cette « course » donne l'élan nécessaire au porté. Sans cet élan, le lift devient impossible techniquement."},
+        {"title": "Tenue pour le lift", "text": "La mariée doit garder ses bras tendus et son corps gainé pendant tout le lift, comme un planeur. Aucun mouvement, aucun relâchement, regard vers le haut. Pratiquez le gainage isolément la semaine avant le mariage."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps faut-il pour apprendre cette chorégraphie ?", "a": "Comptez 5 à 6 semaines avec 2 à 3 séances de 30 minutes par semaine. Le niveau intermédiaire est dû au lift Dirty Dancing et au tempo rock dynamique."},
+        {"q": "Le lift Dirty Dancing est-il vraiment réalisable ?", "a": "Oui, dans sa version simplifiée enseignée dans le cours (hauteur réduite par rapport au film, pose plus courte). Si même cette version vous paraît trop, l'alternative back lean offre un effet visuel équivalent sans risque physique."},
+        {"q": "Qui s'occupe d'éditer la musique pour le jour J ?", "a": "Nous nous en chargeons. Vous recevez par mail la version chorégraphiée 3:20."},
+        {"q": "Y a-t-il une version sans le lift ?", "a": "Oui. Le Dirty Dancing lift a une alternative intégrée (back lean) très spectaculaire visuellement. Le module 8 explique précisément la substitution."},
+        {"q": "Faut-il avoir vu Dirty Dancing ?", "a": "Pour vos invités de plus de 40 ans, ils ont presque tous vu le film, et la chorégraphie aura un effet nostalgique immédiat. Pour les plus jeunes, la chanson fonctionne aussi comme rock 80s entraînant."}
+      ],
+
+      "for_you_if": [
+        "Vous voulez l'ouverture de bal la plus iconique du cinéma",
+        "Vous êtes prêts à pratiquer le lift Patrick Swayze",
+        "Vous aimez le rock 80s énergique",
+        "Vous voulez surprendre vos invités avec un moment culte",
+        "Vous êtes prêts à pratiquer 5 à 6 semaines",
+        "Vous voulez une alternative au lift en cas de difficulté"
+      ],
+      "what_you_learn": [
+        "33 figures de rock 80s chorégraphié",
+        "Le lift Dirty Dancing version simplifiée + son alternative back lean",
+        "Le body roll duo, figure spectaculaire",
+        "Comment gérer un tempo rock soutenu (113 BPM, 3:20)",
+        "Comment exploiter le saxophone du bridge instrumental",
+        "Comment poser une pose finale 80s explosive"
+      ],
+
+      "final_cta_text": "Vous êtes prêts à apprendre la chorégraphie la plus iconique du cinéma en 5 à 6 semaines, depuis votre salon. Accès à vie aux 10 modules vidéo, démonstration sous 2 angles, alternative au lift incluse. Garantie satisfait ou remboursé pendant 14 jours."
+    },
+
+    {
+      "slug": "at-last-etta-james",
+      "title": "At Last",
+      "artist": "Etta James",
+      "year": 1960,
+      "duration": "2:58",
+      "bpm": 130,
+      "bpm_felt": 65,
+      "time_signature": "4/4",
+      "style": "slow",
+      "style_label": "Slow jazz-soul vintage",
+      "level": "débutant",
+      "preparation_weeks": "4 à 5",
+      "price": 89,
+      "modules": 8,
+      "course_duration": "1h 45",
+      "review_count": 162,
+      "visual_color": "dark",
+
+      "seo_title": "Chorégraphie ouverture de bal sur At Last (Etta James) | 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur At Last d'Etta James. Slow jazz-soul vintage, 8 modules vidéo, durée 2:58 sans coupe. Accès à vie. 89€.",
+      "og_title": "Chorégraphie At Last, Etta James",
+      "og_description": "Slow jazz-soul chorégraphié sur At Last d'Etta James. 8 modules, 5 Parts, 27 figures. Le classique soul absolu pour votre première danse.",
+
+      "hero_intro": "At Last d'Etta James est le slow mariage absolu, considéré par beaucoup comme la plus belle chanson d'amour jamais enregistrée. Voix soul puissante, orchestration jazz années 60, durée idéale. La durée naturelle est de 2:58, parfait sans aucune coupe.",
+
+      "song_anecdote": "At Last a été écrite par Mack Gordon et Harry Warren en 1941 pour le film Sun Valley Serenade, mais c'est la version d'Etta James enregistrée en 1960 qui est devenue iconique. Elle a été choisie par Barack Obama et Michelle pour leur première danse à leur bal d'investiture en 2009, Beyoncé étant l'invitée d'honneur qui l'a chantée live. C'est devenu l'un des slows soul les plus joués en mariage depuis cette date. Sa voix puissante d'Etta James (« At lastttt ») est immédiatement reconnaissable dès la première seconde.",
+
+      "song_wedding_reason": "At Last est le slow ultime pour les couples qui veulent un standard intemporel. Tempo très lent (65 BPM ressentis) idéal pour des débutants. Durée naturelle 2:58 parfaite, aucune coupe. Voix soul absolue d'Etta James qui crée l'émotion immédiatement. Et la légitimité d'avoir été choisie par les Obama pour leur premier slow d'investiture ajoute une aura particulière.",
+
+      "music_intro": "Voici la structure d'At Last. Trois grandes vagues qui montent, autour de l'orchestration jazz années 60.",
+      "music_timeline": [
+        {"label": "Intro orchestrale", "details": "Cordes vintage années 60, atmosphère feutrée. C'est l'entrée du couple."},
+        {"label": "Premier couplet", "details": "Voix soul d'Etta sur orchestre jazz. Tendresse vintage."},
+        {"label": "Pont et deuxième couplet", "details": "Les cuivres se font discrets. Pré-pic émotionnel."},
+        {"label": "Final crescendo et dernière note", "details": "Voix d'Etta au maximum, dernière note tenue. Signal du dip final."}
+      ],
+      "music_notes": [
+        "Le tempo très lent (65 BPM ressentis) demande de la précision mais reste très accessible.",
+        "Le pic émotionnel arrive sur la fin (« My love »). C'est là que placer votre figure la plus spectaculaire.",
+        "La dernière note d'Etta est tenue 3 secondes. Synchronisez le dip final pile sur ce moment."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Cette chorégraphie respecte l'esthétique jazz-soul vintage 60s d'At Last. Vocabulaire slow chorégraphié vintage avec posture haute. Un porté principal et un swan figure final. Aucune coupe DJ nécessaire.",
+      "choreo_arc": [
+        {"num": 1, "title": "Entrée vintage", "time": "0:00–0:30", "mood": "Intro orchestrale", "key": "Cadre, premier tour"},
+        {"num": 2, "title": "Tendresse Etta", "time": "0:30–1:00", "mood": "Couplet 1", "key": "Shadow, hairbrushes"},
+        {"num": 3, "title": "Pré-pic", "time": "1:00–1:30", "mood": "Pont jazz", "key": "Catwalk, plank"},
+        {"num": 4, "title": "Pic émotionnel", "time": "1:30–2:15", "mood": "Couplet 2 monté", "key": "Walking, princess lift"},
+        {"num": 5, "title": "Crescendo final", "time": "2:15–2:58", "mood": "Final Etta", "key": "Swan, body sweep, dip"}
+      ],
+      "choreo_parts": [
+        {
+          "num": 1,
+          "title": "Entrée vintage",
+          "time": "0:00 – 0:30",
+          "music_description": "Intro orchestrale jazz années 60. Cordes vintage. Vous arrivez sur la piste avec élégance.",
+          "figures": [
+            {"name": "Walk-in slow vintage", "desc": "Quatre pas lents et élégants. Tenue haute, regard porté loin."},
+            {"name": "Hands held high", "desc": "Prise de mains à hauteur du visage, style années 60."},
+            {"name": "Closed position vintage haute", "desc": "Cadre fermé style années 60."},
+            {"name": "Slow rotation", "desc": "Trois pas tournants très lents."},
+            {"name": "Lady's turn ample", "desc": "Premier tour de la mariée. Synchronisé sur le mot « last » du premier vers (« At last »)."},
+            {"name": "Open position", "desc": "Mains tenues, respiration."}
+          ],
+          "transition": "Le premier couplet continue. La Part 2 va approfondir l'intimité."
+        },
+        {
+          "num": 2,
+          "title": "Tendresse Etta",
+          "time": "0:30 – 1:00",
+          "music_description": "Premier couplet (« At last my love has come along »). Voix soul d'Etta sur orchestre.",
+          "figures": [
+            {"name": "Shadow position", "desc": "Le marié passe derrière la mariée."},
+            {"name": "Hairbrushes", "desc": "Geste tendre depuis la position shadow."},
+            {"name": "Disconnect", "desc": "Les partenaires se séparent une mesure."},
+            {"name": "Hands reconnect", "desc": "Reprise de mains très lente."},
+            {"name": "Closed position", "desc": "Retour cadre fermé pour préparer la Part 3."}
+          ],
+          "transition": "Le pont arrive. La Part 3 va relancer le mouvement."
+        },
+        {
+          "num": 3,
+          "title": "Pré-pic",
+          "time": "1:00 – 1:30",
+          "music_description": "Pont instrumental jazz puis début du deuxième couplet.",
+          "figures": [
+            {"name": "Basket position", "desc": "Croisement des mains devant le couple."},
+            {"name": "Plank figure", "desc": "La mariée s'étire à l'horizontale."},
+            {"name": "Lady on the catwalk", "desc": "Quatre pas en avant."},
+            {"name": "Walking in rotation", "desc": "Six pas tournants ensemble."},
+            {"name": "Lady's turn", "desc": "Tour rapide pour préparer le lift."}
+          ],
+          "transition": "Le deuxième couplet monte. La Part 4 va atteindre le pic émotionnel."
+        },
+        {
+          "num": 4,
+          "title": "Pic émotionnel",
+          "time": "1:30 – 2:15",
+          "music_description": "Deuxième couplet monté (« I found a dream that I could speak to »). Voix d'Etta au maximum.",
+          "figures": [
+            {"name": "Tilt to the side", "desc": "Inclinaison lente, préparation au porté."},
+            {"name": "Princess lift", "desc": "Le porté principal. Synchronisez le pic sur le mot « dream »."},
+            {"name": "Pose hold dramatique", "desc": "Tenez 3 temps en haut du lift."},
+            {"name": "Slow descent", "desc": "Redescente très lente."},
+            {"name": "Body sweep", "desc": "Glissement latéral."}
+          ],
+          "transition": "Le final crescendo entre. La Part 5 va clore en beauté."
+        },
+        {
+          "num": 5,
+          "title": "Crescendo final",
+          "time": "2:15 – 2:58",
+          "music_description": "Final crescendo, voix d'Etta à son maximum absolu (« You are mine at last »). Dernière note tenue.",
+          "figures": [
+            {"name": "Walking in rotation large", "desc": "Six pas tournants amples."},
+            {"name": "Lady's right turn", "desc": "Un tour ample de la mariée."},
+            {"name": "Cradle to closed", "desc": "Petit cradle, puis retour en closed position."},
+            {"name": "Swan figure", "desc": "Pose cygne, bras déployés. Synchronisez sur le mot « mine »."},
+            {"name": "Spin out", "desc": "La mariée sort en pivot."},
+            {"name": "Steps in rotation", "desc": "Quatre derniers pas pour caler le timing."},
+            {"name": "Final dip lyrique", "desc": "Dip final lent. Synchronisez le pic sur le mot « last ». Tenez 2 secondes après le silence."}
+          ],
+          "transition": "Restez figés sur le dip pendant 2 secondes après le silence."
+        }
+      ],
+
+      "figures_intro": "Cette chorégraphie utilise 27 figures sur 5 Parts. Vocabulaire slow chorégraphié vintage jazz années 60. Toutes les figures sont enseignées sous deux angles dans les modules vidéo.",
+      "figures_list": [
+        {"name": "Walk-in slow vintage", "level": "BASE", "loc": "Part 1"},
+        {"name": "Hands held high", "level": "BASE", "loc": "Part 1"},
+        {"name": "Closed position vintage haute", "level": "BASE", "loc": "Part 1, 2, 5"},
+        {"name": "Slow rotation", "level": "BASE", "loc": "Part 1"},
+        {"name": "Lady's turn ample", "level": "FACILE", "loc": "Part 1"},
+        {"name": "Open position", "level": "BASE", "loc": "Part 1"},
+        {"name": "Shadow position", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Disconnect", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hands reconnect", "level": "BASE", "loc": "Part 2"},
+        {"name": "Basket position", "level": "BASE", "loc": "Part 3"},
+        {"name": "Plank figure", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Lady on the catwalk", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Walking in rotation", "level": "BASE", "loc": "Part 3, 5"},
+        {"name": "Lady's turn", "level": "BASE", "loc": "Part 3"},
+        {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Princess lift", "level": "INTER.", "loc": "Part 4"},
+        {"name": "Pose hold dramatique", "level": "BASE", "loc": "Part 4"},
+        {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Body sweep", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Lady's right turn", "level": "BASE", "loc": "Part 5"},
+        {"name": "Cradle to closed", "level": "FACILE", "loc": "Part 5"},
+        {"name": "Swan figure", "level": "BASE", "loc": "Part 5"},
+        {"name": "Spin out", "level": "BASE", "loc": "Part 5"},
+        {"name": "Final dip lyrique", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [
+        {"name": "Princess lift (Part 4)", "alternative": "Si le marié n'est pas à l'aise avec les portés, remplacez par une « pose tilt prolongée » très adaptée au style vintage."}
+      ],
+
+      "tips": [
+        {"title": "Embrassez le style vintage 60s", "text": "At Last est une chanson de 1960. Embrassez le style années 60 : posture haute, gestes amples, regards portés loin. Pensez aux Obama dansant en 2009 (Michelle en robe blanche, Barack en smoking) : ils ont assumé le style vintage à 100%."},
+        {"title": "La voix d'Etta est sacrée", "text": "Ne pratiquez pas en chantant avec Etta. Sa voix est tellement puissante qu'elle prend tout l'espace mental. Comptez les mesures plutôt que d'essayer de réagir à sa voix. Vous arriverez en retard sinon."},
+        {"title": "Synchronisez sur trois mots-clés", "text": "Trois moments à synchroniser : (1) le premier tour de la mariée sur « last » du début, (2) le Princess lift sur « dream » du deuxième couplet, (3) le swan sur « mine » du final. Ces trois synchros font la signature de cette chorégraphie."},
+        {"title": "Pratiquez avec les vraies chaussures", "text": "Les talons hauts changent l'équilibre. Pratiquez avec des chaussures de hauteur similaire au moins trois fois avant le jour J."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps faut-il pour apprendre cette chorégraphie ?", "a": "Comptez 4 à 5 semaines avec 2 à 3 séances de 30 minutes par semaine. Très accessible aux débutants complets."},
+        {"q": "Qui s'occupe d'éditer la musique pour le jour J ?", "a": "Pas besoin. At Last fait 2:58, durée parfaite. Vous donnez le MP3 original à votre DJ."},
+        {"q": "Et la version Beyoncé en duo avec Etta James ?", "a": "Beyoncé a chanté At Last en live pour les Obama en 2009, mais il n'existe pas de version studio Beyoncé. Pour la chorégraphie, on utilise la version originale Etta James 1960 (2:58)."},
+        {"q": "Y a-t-il une version sans porté ?", "a": "Oui. Le Princess lift a une alternative intégrée (pose tilt prolongée), très adaptée au style vintage."},
+        {"q": "C'est compatible avec tous les types de mariages ?", "a": "Oui, absolument. At Last est un standard universellement reconnu et apprécié. Aucun risque, aucun invité ne sera surpris."}
+      ],
+
+      "for_you_if": [
+        "Vous voulez le slow soul le plus iconique de l'histoire",
+        "Vous aimez l'esthétique vintage années 60",
+        "Vous êtes débutants complets en danse",
+        "Vous voulez une chorégraphie courte sans coupe (2:58)",
+        "Vous voulez une option avec ou sans porté",
+        "Vous avez 4 à 5 semaines pour préparer"
+      ],
+      "what_you_learn": [
+        "27 figures de slow chorégraphié vintage jazz-soul",
+        "Le Princess lift et son alternative pose tilt",
+        "Comment maintenir une posture vintage 60s",
+        "Comment synchroniser sur trois mots-clés (« last », « dream », « mine »)",
+        "Le swan figure, figure iconique du mariage",
+        "Comment poser un dip final lyrique"
+      ],
+
+      "final_cta_text": "Vous êtes prêts à apprendre le slow soul le plus iconique en 4 à 5 semaines, depuis votre salon. Aucune expérience de danse n'est requise. Accès à vie aux 8 modules vidéo, démonstration sous 2 angles, version sans porté incluse. Garantie satisfait ou remboursé pendant 14 jours."
+    },
+
+    {
+      "slug": "until-i-found-you-stephen-sanchez",
+      "title": "Until I Found You",
+      "artist": "Stephen Sanchez",
+      "year": 2021,
+      "duration": "2:50",
+      "bpm": 76,
+      "bpm_felt": 76,
+      "time_signature": "4/4",
+      "style": "slow",
+      "style_label": "Slow doo-wop moderne",
+      "level": "débutant",
+      "preparation_weeks": "4 à 5",
+      "price": 89,
+      "modules": 8,
+      "course_duration": "1h 45",
+      "review_count": 138,
+      "visual_color": "peach-1",
+
+      "seo_title": "Chorégraphie ouverture de bal sur Until I Found You (Stephen Sanchez) | 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur Until I Found You de Stephen Sanchez. Slow doo-wop moderne, 8 modules vidéo, durée 2:50 sans coupe. Accès à vie. 89€.",
+      "og_title": "Chorégraphie Until I Found You, Stephen Sanchez",
+      "og_description": "Slow doo-wop chorégraphié sur Until I Found You de Stephen Sanchez. 8 modules, 5 Parts, 27 figures. Le hit TikTok devenu standard mariage.",
+
+      "hero_intro": "Until I Found You de Stephen Sanchez est devenu en deux ans l'un des slows mariage les plus populaires depuis 2022. Voix vintage-moderne, style doo-wop années 50 réinventé, mélodie immédiatement mémorable. La durée naturelle est de 2:50, parfait sans aucune coupe.",
+
+      "song_anecdote": "Stephen Sanchez a sorti Until I Found You en septembre 2021. Le morceau a explosé sur TikTok en mai 2022, propulsant Sanchez (un jeune artiste de Nashville inconnu jusque-là) au sommet des charts mondiaux. Il existe une version solo (2:50) et un duo avec Em Beihold (3:32). Le style doo-wop années 50 (Frankie Lymon, The Platters) revisité avec une production moderne en a fait un slow mariage particulièrement populaire chez les couples 25-35 ans qui veulent un vintage twisté.",
+
+      "song_wedding_reason": "Until I Found You est idéal pour les couples qui veulent une chanson récente mais avec une âme vintage. Le tempo lent (76 BPM) est confortable. Le style doo-wop années 50 modernisé crée une atmosphère intemporelle. Et la durée naturelle de 2:50 est parfaite : aucune coupe DJ, juste un slow accessible et marquant.",
+
+      "music_intro": "Voici la structure d'Until I Found You. Trois grandes vagues qui montent autour du style doo-wop revisité.",
+      "music_timeline": [
+        {"label": "Intro doux", "details": "Guitare et choeurs doo-wop. Vintage moderne immédiat."},
+        {"label": "Premier couplet", "details": "Voix de Stephen Sanchez sur instrumentation discrète."},
+        {"label": "Refrain orchestral", "details": "Cordes et choeurs amples. Pic émotionnel."},
+        {"label": "Final et dernière note", "details": "Voix au maximum, dernière note tenue. Signal du dip final."}
+      ],
+      "music_notes": [
+        "Le tempo lent (76 BPM) est confortable pour des débutants.",
+        "Le pic émotionnel arrive sur le refrain final (« Georgia, won't you hold my hand »). C'est là que placer votre figure la plus spectaculaire.",
+        "La dernière note de Stephen est tenue 2 secondes. Synchronisez le dip final pile sur ce moment."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Cette chorégraphie respecte le style doo-wop modernisé d'Until I Found You. Vocabulaire slow chorégraphié vintage légèrement modernisé. Aucune coupe DJ nécessaire (durée naturelle 2:50). Très accessible aux débutants.",
+      "choreo_arc": [
+        {"num": 1, "title": "Rencontre vintage", "time": "0:00–0:30", "mood": "Intro doo-wop", "key": "Cadre, premier tour"},
+        {"num": 2, "title": "Tendresse", "time": "0:30–1:00", "mood": "Couplet Sanchez", "key": "Shadow, hairbrushes"},
+        {"num": 3, "title": "Pré-refrain", "time": "1:00–1:30", "mood": "Montée", "key": "Catwalk, plank"},
+        {"num": 4, "title": "Refrain orchestral", "time": "1:30–2:10", "mood": "Pic émotionnel", "key": "Walking, princess lift"},
+        {"num": 5, "title": "Final", "time": "2:10–2:50", "mood": "Apothéose", "key": "Swan, dip"}
+      ],
+      "choreo_parts": [
+        {
+          "num": 1,
+          "title": "Rencontre vintage",
+          "time": "0:00 – 0:30",
+          "music_description": "Intro doux avec guitare et choeurs doo-wop. Vintage moderne. Vous arrivez sur la piste avec élégance.",
+          "figures": [
+            {"name": "Walk-in slow", "desc": "Quatre pas lents pour rejoindre le centre."},
+            {"name": "Hands", "desc": "Prise de mains lente."},
+            {"name": "Closed position", "desc": "Cadre fermé doux."},
+            {"name": "Steps in rotation", "desc": "Quatre pas tournants doux."},
+            {"name": "Lady's turn", "desc": "Premier tour de la mariée. Synchronisé sur l'entrée de la voix de Sanchez."},
+            {"name": "Open position", "desc": "Mains tenues, respiration."}
+          ],
+          "transition": "Le couplet entre. La Part 2 va approfondir l'intimité."
+        },
+        {
+          "num": 2,
+          "title": "Tendresse",
+          "time": "0:30 – 1:00",
+          "music_description": "Premier couplet (« Georgia, wrap me in your arms »). Voix vintage de Sanchez.",
+          "figures": [
+            {"name": "Shadow position", "desc": "Le marié passe derrière la mariée."},
+            {"name": "Hairbrushes", "desc": "Geste tendre."},
+            {"name": "Disconnect", "desc": "Séparation une mesure."},
+            {"name": "Hands reconnect", "desc": "Reprise de mains lente."},
+            {"name": "Closed position", "desc": "Retour cadre fermé."}
+          ],
+          "transition": "Le pré-refrain monte. La Part 3 va relancer le mouvement."
+        },
+        {
+          "num": 3,
+          "title": "Pré-refrain",
+          "time": "1:00 – 1:30",
+          "music_description": "Pré-refrain, les choeurs et les cordes montent.",
+          "figures": [
+            {"name": "Basket position", "desc": "Croisement des mains."},
+            {"name": "Plank figure", "desc": "La mariée s'étire à l'horizontale."},
+            {"name": "Lady on the catwalk", "desc": "Quatre pas en avant."},
+            {"name": "Walking in rotation", "desc": "Six pas tournants."},
+            {"name": "Lady's turn", "desc": "Tour rapide pour préparer le lift."}
+          ],
+          "transition": "Le refrain orchestral entre. La Part 4 va atteindre le pic."
+        },
+        {
+          "num": 4,
+          "title": "Refrain orchestral",
+          "time": "1:30 – 2:10",
+          "music_description": "Premier refrain orchestré (« Until I found you »). Cordes amples, choeurs.",
+          "figures": [
+            {"name": "Tilt to the side", "desc": "Inclinaison lente, préparation au porté."},
+            {"name": "Princess lift", "desc": "Le porté principal. Synchronisez sur le mot « found » du refrain."},
+            {"name": "Pose hold", "desc": "Tenez 2 temps."},
+            {"name": "Slow descent", "desc": "Redescente contrôlée."},
+            {"name": "Body sweep", "desc": "Glissement latéral."}
+          ],
+          "transition": "Le refrain final approche. La Part 5 va clore."
+        },
+        {
+          "num": 5,
+          "title": "Final",
+          "time": "2:10 – 2:50",
+          "music_description": "Refrain final pleine puissance. Voix de Sanchez à son maximum.",
+          "figures": [
+            {"name": "Walking in rotation", "desc": "Six pas tournants amples."},
+            {"name": "Lady's right turn", "desc": "Un tour ample."},
+            {"name": "Cradle to closed", "desc": "Petit cradle, retour en closed position."},
+            {"name": "Swan figure", "desc": "Pose cygne, bras déployés."},
+            {"name": "Spin out", "desc": "La mariée sort en pivot."},
+            {"name": "Steps in rotation", "desc": "Quatre derniers pas."},
+            {"name": "Final dip", "desc": "Dip final. Synchronisez sur la dernière note. Tenez 2 secondes après le silence."}
+          ],
+          "transition": "Restez figés sur le dip pendant 2 secondes."
+        }
+      ],
+
+      "figures_intro": "Cette chorégraphie utilise 27 figures sur 5 Parts. Vocabulaire slow chorégraphié vintage modernisé.",
+      "figures_list": [
+        {"name": "Walk-in slow", "level": "BASE", "loc": "Part 1"},
+        {"name": "Hands", "level": "BASE", "loc": "Part 1"},
+        {"name": "Closed position", "level": "BASE", "loc": "Part 1, 2, 5"},
+        {"name": "Steps in rotation", "level": "BASE", "loc": "Part 1, 5"},
+        {"name": "Lady's turn", "level": "BASE", "loc": "Part 1, 3"},
+        {"name": "Open position", "level": "BASE", "loc": "Part 1"},
+        {"name": "Shadow position", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Disconnect", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hands reconnect", "level": "BASE", "loc": "Part 2"},
+        {"name": "Basket position", "level": "BASE", "loc": "Part 3"},
+        {"name": "Plank figure", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Lady on the catwalk", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Walking in rotation", "level": "BASE", "loc": "Part 3, 5"},
+        {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Princess lift", "level": "INTER.", "loc": "Part 4"},
+        {"name": "Pose hold", "level": "BASE", "loc": "Part 4"},
+        {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Body sweep", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Lady's right turn", "level": "BASE", "loc": "Part 5"},
+        {"name": "Cradle to closed", "level": "FACILE", "loc": "Part 5"},
+        {"name": "Swan figure", "level": "BASE", "loc": "Part 5"},
+        {"name": "Spin out", "level": "BASE", "loc": "Part 5"},
+        {"name": "Final dip", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [
+        {"name": "Princess lift (Part 4)", "alternative": "Si le marié n'est pas à l'aise avec les portés, remplacez par un « close hug » prolongé."}
+      ],
+
+      "tips": [
+        {"title": "Embrassez le côté doo-wop", "text": "Until I Found You revisite le style doo-wop années 50. Postures un peu plus hautes, gestes plus amples, regards plus appuyés. Style intemporel."},
+        {"title": "Synchronisez sur « found »", "text": "Le mot signature de la chanson revient plusieurs fois. Synchronisez votre Princess lift sur le « found » du refrain."},
+        {"title": "Solo Sanchez ou duo avec Em Beihold", "text": "Solo (2:50) pour la chorégraphie. La version duo (3:32) demande des ajustements."},
+        {"title": "Pratiquez avec les vraies chaussures", "text": "Pratiquez avec des chaussures de hauteur similaire au moins trois fois avant le jour J."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps faut-il pour apprendre cette chorégraphie ?", "a": "Comptez 4 à 5 semaines avec 2 à 3 séances de 30 minutes par semaine."},
+        {"q": "Solo Sanchez ou duo Em Beihold ?", "a": "Solo (2:50) pour cette chorégraphie. Pour la version duo (3:32), demandez l'ajustement personnalisé."},
+        {"q": "Qui s'occupe d'éditer la musique pour le jour J ?", "a": "Pas besoin. Until I Found You version solo fait 2:50, durée parfaite. Vous donnez le MP3 original à votre DJ."},
+        {"q": "Y a-t-il une version sans porté ?", "a": "Oui. Le Princess lift a une alternative intégrée (close hug prolongé)."},
+        {"q": "C'est une chanson récente, mes invités ne la connaîtront pas", "a": "Avantage : effet de différenciation. La chanson est devenue très populaire en 2022, beaucoup de jeunes invités la reconnaîtront. Les autres entendront un beau slow doo-wop intemporel."}
+      ],
+
+      "for_you_if": [
+        "Vous voulez un slow récent avec une âme vintage",
+        "Vous aimez le style doo-wop années 50 modernisé",
+        "Vous êtes débutants complets en danse",
+        "Vous voulez une chorégraphie courte (2:50 sans coupe)",
+        "Vous voulez une option avec ou sans porté",
+        "Vous avez 4 à 5 semaines pour préparer"
+      ],
+      "what_you_learn": [
+        "27 figures de slow chorégraphié vintage moderne",
+        "Le Princess lift et son alternative close hug",
+        "Comment exploiter le style doo-wop années 50",
+        "Comment synchroniser sur le mot signature « found »",
+        "Le swan figure, figure iconique du mariage",
+        "Comment poser un dip final sur la dernière note tenue"
+      ],
+
+      "final_cta_text": "Vous êtes prêts à apprendre ce slow doo-wop moderne en 4 à 5 semaines, depuis votre salon. Aucune expérience de danse n'est requise. Accès à vie aux 8 modules vidéo, démonstration sous 2 angles, version sans porté incluse. Garantie satisfait ou remboursé pendant 14 jours."
+    },
+
+    {
+      "slug": "unchained-melody-righteous-brothers",
+      "title": "Unchained Melody",
+      "artist": "Righteous Brothers",
+      "year": 1965,
+      "duration": "3:30",
+      "bpm": 78,
+      "bpm_felt": 78,
+      "time_signature": "4/4",
+      "style": "slow",
+      "style_label": "Slow vintage culte (Ghost)",
+      "level": "intermédiaire",
+      "preparation_weeks": "5 à 6",
+      "price": 89,
+      "modules": 9,
+      "course_duration": "2h 00",
+      "review_count": 156,
+      "visual_color": "dark",
+
+      "seo_title": "Chorégraphie ouverture de bal sur Unchained Melody (Righteous Brothers, Ghost) | 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur Unchained Melody des Righteous Brothers. Slow vintage culte, 9 modules vidéo, version 3:30. Accès à vie. 89€.",
+      "og_title": "Chorégraphie Unchained Melody, Righteous Brothers (Ghost)",
+      "og_description": "Slow vintage chorégraphié sur Unchained Melody des Righteous Brothers. 9 modules, 5 Parts, 30 figures. Le slow Ghost pour votre première danse.",
+
+      "hero_intro": "Unchained Melody des Righteous Brothers est l'un des slows les plus iconiques du cinéma grâce à Ghost (1990). Voix Bobby Hatfield au sommet, crescendo orchestral grandiose, émotion totale. La version chorégraphiée fait 3:30, format adapté à l'arc émotionnel de la chanson.",
+
+      "song_anecdote": "Unchained Melody a été écrite par Alex North et Hy Zaret en 1955 pour un film de prison appelé Unchained. Bobby Hatfield des Righteous Brothers l'a enregistrée en 1965, devenant la version définitive. C'est l'utilisation dans Ghost (1990, avec Patrick Swayze et Demi Moore, la scène de la poterie) qui en a fait un slow mariage culte. Bobby Hatfield monte vocalement jusqu'au falsetto sur le pont, ce qui rend cette chanson particulièrement émouvante. Pour les mariages, c'est l'un des slows vintage les plus joués depuis 1990.",
+
+      "song_wedding_reason": "Unchained Melody est le slow vintage absolu pour les couples qui veulent un classique avec une vraie ampleur émotionnelle. Le tempo à 78 BPM est confortable. La voix de Bobby Hatfield monte vocalement jusqu'au falsetto, créant un crescendo unique. Et l'aura de Ghost (le film) ajoute une dimension cinématographique romantique qui rend la chanson immédiatement émouvante pour tous les invités.",
+
+      "music_intro": "Voici la structure d'Unchained Melody. Quatre vagues qui montent autour du falsetto iconique de Bobby Hatfield.",
+      "music_timeline": [
+        {"label": "Intro orchestrale vintage", "details": "Cordes années 60, atmosphère feutrée. C'est l'entrée du couple."},
+        {"label": "Premier couplet", "details": "Voix grave de Bobby Hatfield sur orchestre. Tendresse vintage."},
+        {"label": "Refrain monté", "details": "Hatfield monte progressivement vers le falsetto. Premier pic émotionnel."},
+        {"label": "Crescendo falsetto final", "details": "Pic vocal absolu en falsetto, orchestre grandiose, dernière note tenue."}
+      ],
+      "music_notes": [
+        "Le tempo à 78 BPM est stable et confortable.",
+        "Le pic émotionnel arrive sur le falsetto final (« I need your love »). C'est là que placer votre figure la plus spectaculaire.",
+        "La dernière note d'Hatfield est tenue 3 secondes. Synchronisez le dip final pile sur ce moment."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Cette chorégraphie respecte l'arc dramatique d'Unchained Melody : intimité vintage, tendresse, montée, falsetto crescendo, apothéose finale. Vocabulaire slow chorégraphié vintage avec un porté principal et un swan figure final.",
+      "choreo_arc": [
+        {"num": 1, "title": "Rencontre Ghost", "time": "0:00–0:35", "mood": "Intro orchestrale", "key": "Cadre, premier tour"},
+        {"num": 2, "title": "Tendresse", "time": "0:35–1:10", "mood": "Voix grave Hatfield", "key": "Shadow, hairbrushes"},
+        {"num": 3, "title": "Pré-refrain", "time": "1:10–1:50", "mood": "Montée vers falsetto", "key": "Catwalk, plank"},
+        {"num": 4, "title": "Refrain monté", "time": "1:50–2:35", "mood": "Pic émotionnel", "key": "Walking, princess lift"},
+        {"num": 5, "title": "Falsetto final", "time": "2:35–3:30", "mood": "Apothéose", "key": "Swan, body sweep, dip"}
+      ],
+      "choreo_parts": [
+        {
+          "num": 1,
+          "title": "Rencontre Ghost",
+          "time": "0:00 – 0:35",
+          "music_description": "Intro orchestrale vintage. Cordes années 60 grandiose. Vous arrivez sur la piste avec gravité cinématographique.",
+          "figures": [
+            {"name": "Walk-in slow vintage", "desc": "Quatre pas lents et solennels. Posture haute."},
+            {"name": "Hands held high", "desc": "Prise de mains haute, style vintage."},
+            {"name": "Closed position vintage haute", "desc": "Cadre années 60, posture droite."},
+            {"name": "Slow rotation", "desc": "Trois pas tournants très lents."},
+            {"name": "Lady's turn ample", "desc": "Premier tour de la mariée. Synchronisé sur l'entrée de la voix d'Hatfield."},
+            {"name": "Open position", "desc": "Mains tenues, respiration solennelle."}
+          ],
+          "transition": "Le couplet entre. La Part 2 va approfondir l'intimité."
+        },
+        {
+          "num": 2,
+          "title": "Tendresse",
+          "time": "0:35 – 1:10",
+          "music_description": "Premier couplet (« Oh, my love, my darling »). Voix grave de Bobby Hatfield sur orchestre.",
+          "figures": [
+            {"name": "Shadow position", "desc": "Le marié passe derrière la mariée."},
+            {"name": "Hairbrushes", "desc": "Geste tendre."},
+            {"name": "Disconnect", "desc": "Séparation une mesure."},
+            {"name": "Hands reconnect", "desc": "Reprise de mains très lente."},
+            {"name": "Closed position", "desc": "Retour cadre fermé pour préparer la Part 3."}
+          ],
+          "transition": "Le pré-refrain commence à monter. La Part 3 va relancer le mouvement."
+        },
+        {
+          "num": 3,
+          "title": "Pré-refrain",
+          "time": "1:10 – 1:50",
+          "music_description": "Pré-refrain. Hatfield commence à monter progressivement vers le falsetto.",
+          "figures": [
+            {"name": "Basket position", "desc": "Croisement des mains."},
+            {"name": "Plank figure", "desc": "La mariée s'étire à l'horizontale."},
+            {"name": "Lady on the catwalk", "desc": "Quatre pas en avant, regard porté loin."},
+            {"name": "Walking in rotation", "desc": "Six pas tournants ensemble."},
+            {"name": "Lady's turn", "desc": "Tour rapide pour préparer le lift."}
+          ],
+          "transition": "Le refrain monté entre. La Part 4 va atteindre le pic émotionnel."
+        },
+        {
+          "num": 4,
+          "title": "Refrain monté",
+          "time": "1:50 – 2:35",
+          "music_description": "Refrain monté. Hatfield approche du falsetto. Cordes amples.",
+          "figures": [
+            {"name": "Tilt to the side", "desc": "Inclinaison lente."},
+            {"name": "Princess lift", "desc": "Le porté principal. Synchronisez le pic sur le mot « time »."},
+            {"name": "Pose hold dramatique", "desc": "Tenez 3 temps."},
+            {"name": "Slow descent", "desc": "Redescente très lente."},
+            {"name": "Body sweep", "desc": "Glissement latéral."}
+          ],
+          "transition": "Le falsetto final crescendo arrive. La Part 5 va clore en beauté."
+        },
+        {
+          "num": 5,
+          "title": "Falsetto final",
+          "time": "2:35 – 3:30",
+          "music_description": "Falsetto crescendo final, Hatfield au maximum vocal absolu. Pic émotionnel total.",
+          "figures": [
+            {"name": "Walking in rotation large", "desc": "Six pas tournants amples."},
+            {"name": "Lady's right turn ample", "desc": "Un tour très ample de la mariée."},
+            {"name": "Cradle to closed", "desc": "Petit cradle, retour en closed position."},
+            {"name": "Swan figure", "desc": "Pose cygne, bras déployés. Synchronisez sur le falsetto le plus haut."},
+            {"name": "Spin out", "desc": "La mariée sort en pivot."},
+            {"name": "Steps in rotation", "desc": "Quatre derniers pas pour caler le timing."},
+            {"name": "Final dip lent", "desc": "Dip final lent. Synchronisez sur la dernière note tenue. Tenez 2 secondes après le silence."}
+          ],
+          "transition": "Restez figés sur le dip pendant 2 secondes après le silence."
+        }
+      ],
+
+      "figures_intro": "Cette chorégraphie utilise 30 figures sur 5 Parts. Vocabulaire slow chorégraphié vintage avec coloration cinématographique.",
+      "figures_list": [
+        {"name": "Walk-in slow vintage", "level": "BASE", "loc": "Part 1"},
+        {"name": "Hands held high", "level": "BASE", "loc": "Part 1"},
+        {"name": "Closed position vintage haute", "level": "BASE", "loc": "Part 1, 2, 5"},
+        {"name": "Slow rotation", "level": "BASE", "loc": "Part 1"},
+        {"name": "Lady's turn ample", "level": "FACILE", "loc": "Part 1"},
+        {"name": "Open position", "level": "BASE", "loc": "Part 1"},
+        {"name": "Shadow position", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Disconnect", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hands reconnect", "level": "BASE", "loc": "Part 2"},
+        {"name": "Basket position", "level": "BASE", "loc": "Part 3"},
+        {"name": "Plank figure", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Lady on the catwalk", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Walking in rotation", "level": "BASE", "loc": "Part 3, 5"},
+        {"name": "Lady's turn", "level": "BASE", "loc": "Part 3"},
+        {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Princess lift", "level": "INTER.", "loc": "Part 4"},
+        {"name": "Pose hold dramatique", "level": "BASE", "loc": "Part 4"},
+        {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Body sweep", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Lady's right turn ample", "level": "BASE", "loc": "Part 5"},
+        {"name": "Cradle to closed", "level": "FACILE", "loc": "Part 5"},
+        {"name": "Swan figure", "level": "BASE", "loc": "Part 5"},
+        {"name": "Spin out", "level": "BASE", "loc": "Part 5"},
+        {"name": "Steps in rotation", "level": "BASE", "loc": "Part 5"},
+        {"name": "Final dip lent", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [
+        {"name": "Princess lift (Part 4)", "alternative": "Si le marié n'est pas à l'aise avec les portés, remplacez par une « pose tilt prolongée » très adaptée au style cinématographique."}
+      ],
+
+      "tips": [
+        {"title": "Embrassez le côté Ghost", "text": "Pour les invités qui ont vu Ghost (typiquement 35+ ans), la chanson évoque immédiatement la scène de la poterie. Postures dramatiques, regards intenses : embrassez cette dimension cinématographique."},
+        {"title": "Le falsetto final est tout", "text": "Hatfield monte vocalement vers le falsetto le plus haut sur le crescendo final. Synchronisez votre swan figure exactement sur ce moment. Si vous êtes pile au bon timing, les frissons sont garantis."},
+        {"title": "Synchronisez sur « time »", "text": "Le mot signature de la chanson (« And time goes by so slowly ») revient plusieurs fois. Synchronisez votre Princess lift sur le « time » du refrain monté."},
+        {"title": "Pratiquez avec les vraies chaussures", "text": "Les talons hauts changent l'équilibre. Pratiquez avec des chaussures de hauteur similaire au moins trois fois avant le jour J."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps faut-il pour apprendre cette chorégraphie ?", "a": "Comptez 5 à 6 semaines avec 2 à 3 séances de 30 minutes par semaine. Le niveau intermédiaire est dû à la précision requise pour synchroniser avec le crescendo falsetto."},
+        {"q": "Faut-il avoir vu Ghost ?", "a": "Non. La chanson fonctionne indépendamment. Les invités qui ont vu Ghost auront un deuxième niveau d'émotion."},
+        {"q": "Qui s'occupe d'éditer la musique pour le jour J ?", "a": "Nous nous en chargeons. Vous recevez par mail la version chorégraphiée 3:30."},
+        {"q": "Y a-t-il une version sans porté ?", "a": "Oui. Le Princess lift a une alternative intégrée (pose tilt prolongée)."},
+        {"q": "Et la version d'Elvis Presley ?", "a": "Elvis a enregistré Unchained Melody en 1977. Sa version dure 4:34 et a une dynamique différente. Pour la chorégraphie, on utilise la version Righteous Brothers 1965 (3:36). Si vous préférez Elvis, demandez l'ajustement personnalisé."}
+      ],
+
+      "for_you_if": [
+        "Vous voulez un slow cinématographique vintage culte",
+        "Vous aimez la scène de la poterie de Ghost (1990)",
+        "Vous aimez les crescendos vocaux en falsetto",
+        "Vous êtes prêts à pratiquer 5 à 6 semaines",
+        "Vous voulez une option avec ou sans porté"
+      ],
+      "what_you_learn": [
+        "30 figures de slow chorégraphié vintage cinématographique",
+        "Le Princess lift et son alternative pose tilt",
+        "Comment maintenir une posture vintage haute",
+        "Comment synchroniser sur le falsetto final",
+        "Le swan figure, figure iconique du mariage",
+        "Comment poser un dip final lent et dramatique"
+      ],
+
+      "final_cta_text": "Vous êtes prêts à apprendre ce slow cinématographique culte en 5 à 6 semaines, depuis votre salon. Accès à vie aux 9 modules vidéo, démonstration sous 2 angles, version sans porté incluse. Garantie satisfait ou remboursé pendant 14 jours."
     }
   ]
 }
