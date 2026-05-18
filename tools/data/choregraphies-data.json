@@ -7926,6 +7926,974 @@
       ],
 
       "final_cta_text": "Vous êtes prêts à apprendre ce slow cinématographique culte en 5 à 6 semaines, depuis votre salon. Accès à vie aux 9 modules vidéo, démonstration sous 2 angles, version sans porté incluse. Garantie satisfait ou remboursé pendant 14 jours."
+    },
+
+    {
+      "slug": "hallelujah-alexandra-burke",
+      "title": "Hallelujah",
+      "artist": "Alexandra Burke",
+      "year": 2008,
+      "duration": "3:00",
+      "bpm": 76,
+      "bpm_felt": 76,
+      "time_signature": "4/4",
+      "style": "slow",
+      "style_label": "Slow gospel-pop",
+      "level": "débutant à intermédiaire",
+      "preparation_weeks": "4 à 6",
+      "price": 89,
+      "modules": 9,
+      "course_duration": "2h 00",
+      "review_count": 124,
+      "visual_color": "peach-3",
+
+      "seo_title": "Chorégraphie ouverture de bal sur Hallelujah (Alexandra Burke) | 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur Hallelujah d'Alexandra Burke. Slow gospel-pop chorégraphié, 9 modules vidéo, version 3:00. Accès à vie. 89€.",
+      "og_title": "Chorégraphie Hallelujah, Alexandra Burke",
+      "og_description": "Slow gospel chorégraphié sur Hallelujah d'Alexandra Burke. 9 modules, 5 Parts, 29 figures. Le classique Leonard Cohen revisité pour votre première danse.",
+
+      "hero_intro": "Hallelujah d'Alexandra Burke est la version gospel-pop la plus dansée du classique de Leonard Cohen. Crescendo gospel grandiose, voix puissante, montée orchestrale émotionnelle. La version chorégraphiée fait 3:00, format idéal pour une ouverture de bal.",
+
+      "song_anecdote": "Hallelujah a été écrite par Leonard Cohen en 1984 et repris par des centaines d'artistes (Jeff Buckley, Rufus Wainwright, Pentatonix). La version d'Alexandra Burke, sortie en 2008 après sa victoire à X Factor UK, est celle qui a vendu le plus de disques au monde de toutes les versions. Sa version gospel-pop, avec chœurs amples et crescendo orchestral, est particulièrement adaptée aux mariages : moins mélancolique que Jeff Buckley, plus orchestral que la version Cohen originale.",
+
+      "song_wedding_reason": "Hallelujah est idéal pour les couples qui veulent un slow puissant avec un crescendo gospel. Le tempo lent (76 BPM) est confortable. Le crescendo final orchestral et choral crée une émotion immédiate. Le titre même (« Alléluia ») évoque la célébration. C'est l'un des slows les plus émouvants du catalogue.",
+
+      "music_intro": "Voici la structure d'Hallelujah Alexandra Burke. Quatre vagues qui montent jusqu'au crescendo gospel final.",
+      "music_timeline": [
+        {"label": "Intro piano", "details": "Piano seul, atmosphère feutrée. C'est l'entrée du couple."},
+        {"label": "Premier couplet", "details": "Voix douce d'Alexandra sur piano."},
+        {"label": "Refrain monté", "details": "Les cordes entrent, les chœurs commencent. Premier pic émotionnel."},
+        {"label": "Crescendo gospel final", "details": "Chœurs pleins, voix au maximum, dernière note tenue."}
+      ],
+      "music_notes": [
+        "Le tempo lent (76 BPM) est confortable pour des débutants.",
+        "Le pic émotionnel arrive sur le crescendo gospel final (« Hallelujah »). C'est là que placer votre figure la plus spectaculaire.",
+        "La dernière note est tenue 3 secondes. Synchronisez le dip final pile sur ce moment."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Cette chorégraphie respecte l'arc émotionnel d'Hallelujah : intimité piano, tendresse, montée orchestrale, refrain choral, crescendo gospel final. Vocabulaire slow chorégraphié avec un porté principal et un swan figure sur le crescendo final.",
+      "choreo_arc": [
+        {"num": 1, "title": "Rencontre piano", "time": "0:00–0:30", "mood": "Intro douce", "key": "Cadre, premier tour"},
+        {"num": 2, "title": "Tendresse", "time": "0:30–1:00", "mood": "Couplet Burke", "key": "Shadow, hairbrushes"},
+        {"num": 3, "title": "Pré-refrain", "time": "1:00–1:35", "mood": "Cordes entrent", "key": "Catwalk, plank"},
+        {"num": 4, "title": "Refrain choral", "time": "1:35–2:20", "mood": "Pic émotionnel", "key": "Walking, princess lift"},
+        {"num": 5, "title": "Crescendo gospel", "time": "2:20–3:00", "mood": "Apothéose", "key": "Swan, body sweep, dip"}
+      ],
+      "choreo_parts": [
+        {
+          "num": 1,
+          "title": "Rencontre piano",
+          "time": "0:00 – 0:30",
+          "music_description": "Intro piano seule, atmosphère feutrée presque sacrée. Vous arrivez sur la piste avec gravité.",
+          "figures": [
+            {"name": "Walk-in slow", "desc": "Quatre pas lents pour rejoindre le centre."},
+            {"name": "Hands", "desc": "Prise de mains lente."},
+            {"name": "Closed position", "desc": "Cadre fermé doux."},
+            {"name": "Steps in rotation", "desc": "Quatre pas tournants doux."},
+            {"name": "Lady's turn", "desc": "Premier tour de la mariée. Synchronisé sur l'entrée de la voix."},
+            {"name": "Open position", "desc": "Mains tenues, respiration."}
+          ],
+          "transition": "Le couplet entre. La Part 2 va approfondir l'intimité."
+        },
+        {
+          "num": 2,
+          "title": "Tendresse",
+          "time": "0:30 – 1:00",
+          "music_description": "Premier couplet, voix douce d'Alexandra Burke sur piano.",
+          "figures": [
+            {"name": "Shadow position", "desc": "Le marié passe derrière la mariée."},
+            {"name": "Hairbrushes", "desc": "Geste tendre."},
+            {"name": "Disconnect", "desc": "Séparation une mesure."},
+            {"name": "Hands reconnect", "desc": "Reprise de mains lente."},
+            {"name": "Closed position", "desc": "Retour cadre fermé."}
+          ],
+          "transition": "Le pré-refrain monte avec les cordes. La Part 3 va relancer."
+        },
+        {
+          "num": 3,
+          "title": "Pré-refrain",
+          "time": "1:00 – 1:35",
+          "music_description": "Pré-refrain, les cordes commencent à se faire entendre, les chœurs entrent doucement.",
+          "figures": [
+            {"name": "Basket position", "desc": "Croisement des mains."},
+            {"name": "Plank figure", "desc": "La mariée s'étire à l'horizontale."},
+            {"name": "Lady on the catwalk", "desc": "Quatre pas en avant."},
+            {"name": "Walking in rotation", "desc": "Six pas tournants ensemble."},
+            {"name": "Lady's turn", "desc": "Tour rapide pour préparer le lift."}
+          ],
+          "transition": "Le refrain choral entre. La Part 4 va atteindre le pic."
+        },
+        {
+          "num": 4,
+          "title": "Refrain choral",
+          "time": "1:35 – 2:20",
+          "music_description": "Premier refrain orchestré (« Hallelujah »). Chœurs amples et batterie qui entrent. Voix d'Alexandra au maximum.",
+          "figures": [
+            {"name": "Tilt to the side", "desc": "Inclinaison lente, préparation au porté."},
+            {"name": "Princess lift", "desc": "Le porté principal. Synchronisez le pic sur le mot « Hallelujah »."},
+            {"name": "Pose hold", "desc": "Tenez 2 temps."},
+            {"name": "Slow descent", "desc": "Redescente contrôlée."},
+            {"name": "Body sweep", "desc": "Glissement latéral."}
+          ],
+          "transition": "Le crescendo gospel final entre. La Part 5 va clore en beauté."
+        },
+        {
+          "num": 5,
+          "title": "Crescendo gospel",
+          "time": "2:20 – 3:00",
+          "music_description": "Crescendo gospel final, chœurs pleins, voix d'Alexandra à son maximum absolu.",
+          "figures": [
+            {"name": "Walking in rotation large", "desc": "Six pas tournants amples."},
+            {"name": "Lady's right turn", "desc": "Un tour ample."},
+            {"name": "Cradle to closed", "desc": "Petit cradle, retour en closed position."},
+            {"name": "Swan figure", "desc": "Pose cygne. Synchronisez sur le dernier « Hallelujah »."},
+            {"name": "Spin out", "desc": "La mariée sort en pivot."},
+            {"name": "Steps in rotation", "desc": "Quatre derniers pas."},
+            {"name": "Final dip", "desc": "Dip final. Synchronisez sur la dernière note tenue. Tenez 2 secondes après le silence."}
+          ],
+          "transition": "Restez figés sur le dip pendant 2 secondes."
+        }
+      ],
+
+      "figures_intro": "Cette chorégraphie utilise 29 figures sur 5 Parts. Vocabulaire slow chorégraphié avec coloration gospel finale.",
+      "figures_list": [
+        {"name": "Walk-in slow", "level": "BASE", "loc": "Part 1"},
+        {"name": "Hands", "level": "BASE", "loc": "Part 1"},
+        {"name": "Closed position", "level": "BASE", "loc": "Part 1, 2, 5"},
+        {"name": "Steps in rotation", "level": "BASE", "loc": "Part 1, 5"},
+        {"name": "Lady's turn", "level": "BASE", "loc": "Part 1, 3"},
+        {"name": "Open position", "level": "BASE", "loc": "Part 1"},
+        {"name": "Shadow position", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Disconnect", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hands reconnect", "level": "BASE", "loc": "Part 2"},
+        {"name": "Basket position", "level": "BASE", "loc": "Part 3"},
+        {"name": "Plank figure", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Lady on the catwalk", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Walking in rotation", "level": "BASE", "loc": "Part 3, 5"},
+        {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Princess lift", "level": "INTER.", "loc": "Part 4"},
+        {"name": "Pose hold", "level": "BASE", "loc": "Part 4"},
+        {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Body sweep", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Lady's right turn", "level": "BASE", "loc": "Part 5"},
+        {"name": "Cradle to closed", "level": "FACILE", "loc": "Part 5"},
+        {"name": "Swan figure", "level": "BASE", "loc": "Part 5"},
+        {"name": "Spin out", "level": "BASE", "loc": "Part 5"},
+        {"name": "Final dip", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [
+        {"name": "Princess lift (Part 4)", "alternative": "Si le marié n'est pas à l'aise, remplacez par un « close hug » prolongé."}
+      ],
+
+      "tips": [
+        {"title": "Synchronisez sur « Hallelujah »", "text": "Le mot signature revient plusieurs fois. Synchronisez votre Princess lift sur le « Hallelujah » du premier refrain orchestré, et votre swan figure sur le dernier « Hallelujah » du crescendo gospel."},
+        {"title": "Burke ou Buckley/Cohen ?", "text": "Burke (2008) est la version gospel-pop, plus orchestrée, idéale pour une ouverture de bal. Jeff Buckley (1994) est plus mélancolique, moins adapté à un mariage. Leonard Cohen original (1984) est plus sombre encore."},
+        {"title": "Le crescendo gospel est tout", "text": "L'arrivée des chœurs gospel à la Part 5 est le pic émotionnel absolu. Pratiquez la transition Part 4 → Part 5 isolément."},
+        {"title": "Pratiquez avec les vraies chaussures", "text": "Pratiquez avec des chaussures de hauteur similaire au moins trois fois avant le jour J."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps faut-il pour apprendre cette chorégraphie ?", "a": "Comptez 4 à 6 semaines avec 2 à 3 séances de 30 minutes par semaine."},
+        {"q": "Burke, Buckley ou Cohen ?", "a": "Burke (2008) pour le mariage : version gospel-pop, plus joyeuse et orchestrée. Buckley (1994) est trop mélancolique. Cohen (1984) est trop sombre."},
+        {"q": "Qui s'occupe d'éditer la musique pour le jour J ?", "a": "Nous nous en chargeons. Vous recevez par mail la version 3:00."},
+        {"q": "Y a-t-il une version sans porté ?", "a": "Oui. Le Princess lift a une alternative intégrée (close hug prolongé)."},
+        {"q": "Le crescendo gospel convient-il pour un mariage non religieux ?", "a": "Oui. Le terme « gospel » fait référence au style musical, pas au contenu religieux. La chanson convient à tous types de mariages."}
+      ],
+
+      "for_you_if": [
+        "Vous voulez un slow puissant avec crescendo gospel",
+        "Vous aimez la voix soul d'Alexandra Burke",
+        "Vous voulez quelque chose de plus émouvant que Perfect ou All of Me",
+        "Vous êtes prêts à pratiquer 4 à 6 semaines",
+        "Vous voulez une option avec ou sans porté"
+      ],
+      "what_you_learn": [
+        "29 figures de slow chorégraphié",
+        "Le Princess lift et son alternative close hug",
+        "Comment synchroniser sur « Hallelujah »",
+        "Le swan figure synchronisé sur le crescendo gospel",
+        "Comment exploiter un crescendo orchestral final",
+        "Comment poser un dip final sur la dernière note tenue"
+      ],
+
+      "final_cta_text": "Vous êtes prêts à apprendre ce slow gospel-pop en 4 à 6 semaines, depuis votre salon. Accès à vie aux 9 modules vidéo, démonstration sous 2 angles, version sans porté incluse. Garantie satisfait ou remboursé pendant 14 jours."
+    },
+
+    {
+      "slug": "make-you-feel-my-love-adele",
+      "title": "Make You Feel My Love",
+      "artist": "Adele",
+      "year": 2008,
+      "duration": "3:00",
+      "bpm": 78,
+      "bpm_felt": 78,
+      "time_signature": "4/4",
+      "style": "slow",
+      "style_label": "Slow piano-soul",
+      "level": "débutant",
+      "preparation_weeks": "4 à 5",
+      "price": 89,
+      "modules": 8,
+      "course_duration": "1h 45",
+      "review_count": 174,
+      "visual_color": "peach-2",
+
+      "seo_title": "Chorégraphie ouverture de bal sur Make You Feel My Love (Adele) | 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur Make You Feel My Love d'Adele. Slow piano chorégraphié, 8 modules vidéo, version 3:00. Accès à vie. 89€.",
+      "og_title": "Chorégraphie Make You Feel My Love, Adele",
+      "og_description": "Slow piano chorégraphié sur Make You Feel My Love d'Adele. 8 modules, 5 Parts, 27 figures. La reprise Dylan par Adele pour votre première danse.",
+
+      "hero_intro": "Make You Feel My Love d'Adele, reprise de Bob Dylan, est l'un des slows piano les plus émouvants jamais enregistrés. Voix soul puissante, piano au premier plan, simplicité absolue. La version chorégraphiée fait 3:00, format idéal sans aucune coupe nécessaire.",
+
+      "song_anecdote": "Make You Feel My Love a été écrite par Bob Dylan en 1997. Adele l'a reprise en 2008 sur son album 19, et sa version est devenue plus connue que l'originale. Elle l'a réenregistrée en 2011 pour son album 21. La version studio originale 2008 d'Adele dure 3:32, mais il existe une version single radio édit de 3:00, parfaite pour les mariages. Le morceau a été chanté en cérémonie civile par Adele elle-même pour le mariage de sa meilleure amie.",
+
+      "song_wedding_reason": "Make You Feel My Love coche toutes les cases du slow mariage parfait. Tempo lent (78 BPM), structure musicale ultra simple (juste piano et voix), durée idéale (3:00 single édit). Et la voix d'Adele crée une émotion immédiate. C'est l'un des slows les plus accessibles techniquement, parfait pour des débutants complets.",
+
+      "music_intro": "Voici la structure de Make You Feel My Love. Quatre paliers musicaux ultra clairs autour du piano d'Adele.",
+      "music_timeline": [
+        {"label": "Intro piano", "details": "Piano seul, atmosphère feutrée. C'est l'entrée du couple."},
+        {"label": "Premier couplet", "details": "Voix d'Adele sur piano. Simplicité absolue."},
+        {"label": "Refrain orchestral léger", "details": "Quelques cordes entrent. Premier pic émotionnel."},
+        {"label": "Crescendo final", "details": "Voix d'Adele au maximum, dernière note tenue."}
+      ],
+      "music_notes": [
+        "Le tempo lent (78 BPM) est confortable pour des débutants.",
+        "Le pic émotionnel arrive sur le refrain final (« To make you feel my love »). C'est là que placer votre figure.",
+        "La dernière note d'Adele est tenue 3 secondes. Synchronisez le dip final pile sur ce moment."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Cette chorégraphie respecte la simplicité absolue de Make You Feel My Love. Vocabulaire slow chorégraphié pur, aucune fioriture. Un porté principal et un swan figure final. Très accessible aux débutants.",
+      "choreo_arc": [
+        {"num": 1, "title": "Rencontre piano", "time": "0:00–0:30", "mood": "Intro douce", "key": "Cadre, premier tour"},
+        {"num": 2, "title": "Tendresse", "time": "0:30–1:00", "mood": "Couplet Adele", "key": "Shadow, hairbrushes"},
+        {"num": 3, "title": "Pré-refrain", "time": "1:00–1:30", "mood": "Montée", "key": "Catwalk, plank"},
+        {"num": 4, "title": "Refrain", "time": "1:30–2:15", "mood": "Pic émotionnel", "key": "Walking, princess lift"},
+        {"num": 5, "title": "Crescendo final", "time": "2:15–3:00", "mood": "Apothéose", "key": "Swan, body sweep, dip"}
+      ],
+      "choreo_parts": [
+        {
+          "num": 1,
+          "title": "Rencontre piano",
+          "time": "0:00 – 0:30",
+          "music_description": "Intro piano seule. Atmosphère feutrée. Vous arrivez sur la piste avec gravité.",
+          "figures": [
+            {"name": "Walk-in slow", "desc": "Quatre pas lents pour rejoindre le centre."},
+            {"name": "Hands", "desc": "Prise de mains lente."},
+            {"name": "Closed position", "desc": "Cadre fermé doux."},
+            {"name": "Steps in rotation", "desc": "Quatre pas tournants doux."},
+            {"name": "Lady's turn", "desc": "Premier tour de la mariée. Synchronisé sur l'entrée de la voix d'Adele."},
+            {"name": "Open position", "desc": "Mains tenues, respiration."}
+          ],
+          "transition": "Le couplet entre. La Part 2 va approfondir l'intimité."
+        },
+        {
+          "num": 2,
+          "title": "Tendresse",
+          "time": "0:30 – 1:00",
+          "music_description": "Premier couplet (« When the rain is blowing in your face »). Voix d'Adele sur piano.",
+          "figures": [
+            {"name": "Shadow position", "desc": "Le marié passe derrière la mariée."},
+            {"name": "Hairbrushes", "desc": "Geste tendre."},
+            {"name": "Disconnect", "desc": "Séparation une mesure."},
+            {"name": "Hands reconnect", "desc": "Reprise de mains lente."},
+            {"name": "Closed position", "desc": "Retour cadre fermé."}
+          ],
+          "transition": "Le pré-refrain monte. La Part 3 va relancer."
+        },
+        {
+          "num": 3,
+          "title": "Pré-refrain",
+          "time": "1:00 – 1:30",
+          "music_description": "Pré-refrain, quelques cordes commencent à entrer.",
+          "figures": [
+            {"name": "Basket position", "desc": "Croisement des mains."},
+            {"name": "Plank figure", "desc": "La mariée s'étire à l'horizontale."},
+            {"name": "Lady on the catwalk", "desc": "Quatre pas en avant."},
+            {"name": "Walking in rotation", "desc": "Six pas tournants."},
+            {"name": "Lady's turn", "desc": "Tour rapide pour préparer le lift."}
+          ],
+          "transition": "Le refrain entre. La Part 4 va atteindre le pic."
+        },
+        {
+          "num": 4,
+          "title": "Refrain",
+          "time": "1:30 – 2:15",
+          "music_description": "Premier refrain orchestré (« To make you feel my love »). Cordes amples. Voix d'Adele au maximum.",
+          "figures": [
+            {"name": "Tilt to the side", "desc": "Inclinaison lente."},
+            {"name": "Princess lift", "desc": "Le porté principal. Synchronisez sur le mot « love » du refrain."},
+            {"name": "Pose hold", "desc": "Tenez 2 temps."},
+            {"name": "Slow descent", "desc": "Redescente contrôlée."},
+            {"name": "Body sweep", "desc": "Glissement latéral."}
+          ],
+          "transition": "Le crescendo final approche. La Part 5 va clore."
+        },
+        {
+          "num": 5,
+          "title": "Crescendo final",
+          "time": "2:15 – 3:00",
+          "music_description": "Refrain final pleine puissance. Voix d'Adele à son maximum.",
+          "figures": [
+            {"name": "Walking in rotation", "desc": "Six pas tournants amples."},
+            {"name": "Lady's right turn", "desc": "Un tour ample."},
+            {"name": "Cradle to closed", "desc": "Petit cradle, retour en closed position."},
+            {"name": "Swan figure", "desc": "Pose cygne, bras déployés."},
+            {"name": "Spin out", "desc": "La mariée sort en pivot."},
+            {"name": "Steps in rotation", "desc": "Quatre derniers pas."},
+            {"name": "Final dip", "desc": "Dip final. Synchronisez sur la dernière note. Tenez 2 secondes."}
+          ],
+          "transition": "Restez figés 2 secondes."
+        }
+      ],
+
+      "figures_intro": "Cette chorégraphie utilise 27 figures sur 5 Parts. Vocabulaire slow chorégraphié pur, sans fioriture, accessible aux débutants complets.",
+      "figures_list": [
+        {"name": "Walk-in slow", "level": "BASE", "loc": "Part 1"},
+        {"name": "Hands", "level": "BASE", "loc": "Part 1"},
+        {"name": "Closed position", "level": "BASE", "loc": "Part 1, 2, 5"},
+        {"name": "Steps in rotation", "level": "BASE", "loc": "Part 1, 5"},
+        {"name": "Lady's turn", "level": "BASE", "loc": "Part 1, 3"},
+        {"name": "Open position", "level": "BASE", "loc": "Part 1"},
+        {"name": "Shadow position", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Disconnect", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hands reconnect", "level": "BASE", "loc": "Part 2"},
+        {"name": "Basket position", "level": "BASE", "loc": "Part 3"},
+        {"name": "Plank figure", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Lady on the catwalk", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Walking in rotation", "level": "BASE", "loc": "Part 3, 5"},
+        {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Princess lift", "level": "INTER.", "loc": "Part 4"},
+        {"name": "Pose hold", "level": "BASE", "loc": "Part 4"},
+        {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Body sweep", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Lady's right turn", "level": "BASE", "loc": "Part 5"},
+        {"name": "Cradle to closed", "level": "FACILE", "loc": "Part 5"},
+        {"name": "Swan figure", "level": "BASE", "loc": "Part 5"},
+        {"name": "Spin out", "level": "BASE", "loc": "Part 5"},
+        {"name": "Final dip", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [
+        {"name": "Princess lift (Part 4)", "alternative": "Si le marié n'est pas à l'aise, remplacez par un « close hug » prolongé."}
+      ],
+
+      "tips": [
+        {"title": "Adele vs Dylan", "text": "La version Dylan (1997) dure 3:32 et a une dynamique folk-country. Adele (2008) est plus piano-soul, plus émouvante pour un mariage. La version 3:00 single édit Adele est utilisée."},
+        {"title": "La simplicité est tout", "text": "Make You Feel My Love est musicalement minimaliste (piano + voix). Embrassez cette simplicité : pas de gestes superflus, pas de figures trop complexes. La voix d'Adele fait tout le travail émotionnel."},
+        {"title": "Synchronisez sur « love »", "text": "Le mot signature revient au refrain. Princess lift sur le « love » du premier refrain."},
+        {"title": "Pratiquez avec les vraies chaussures", "text": "Pratiquez avec des chaussures de hauteur similaire au moins trois fois avant le jour J."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps faut-il pour apprendre cette chorégraphie ?", "a": "Comptez 4 à 5 semaines. C'est l'une de nos chorégraphies les plus accessibles, idéale pour débutants."},
+        {"q": "Adele 2008 ou 2011 ?", "a": "La version 2008 (album 19, single édit 3:00) est utilisée. La version 2011 (album 21) est très similaire. Préférence personnelle."},
+        {"q": "Et la version Bob Dylan originale ?", "a": "Dylan original 1997 dure 3:32 et a une dynamique folk-country, moins adaptée au mariage. Si vous préférez Dylan, demandez l'ajustement."},
+        {"q": "Qui s'occupe d'éditer la musique ?", "a": "Nous nous en chargeons. Vous recevez par mail la version 3:00."},
+        {"q": "Y a-t-il une version sans porté ?", "a": "Oui. Close hug prolongé en alternative."}
+      ],
+
+      "for_you_if": [
+        "Vous voulez le slow piano le plus émouvant d'Adele",
+        "Vous aimez la simplicité musicale absolue (piano + voix)",
+        "Vous êtes débutants complets en danse",
+        "Vous voulez une chorégraphie courte (3:00 sans coupe)",
+        "Vous voulez une option avec ou sans porté",
+        "Vous avez 4 à 5 semaines pour préparer"
+      ],
+      "what_you_learn": [
+        "27 figures de slow chorégraphié piano-soul",
+        "Le Princess lift et son alternative close hug",
+        "Comment exploiter la simplicité musicale d'Adele",
+        "Comment synchroniser sur le mot « love »",
+        "Le swan figure, figure iconique du mariage",
+        "Comment poser un dip final sur la dernière note tenue"
+      ],
+
+      "final_cta_text": "Vous êtes prêts à apprendre ce slow piano d'Adele en 4 à 5 semaines, depuis votre salon. Accès à vie aux 8 modules vidéo, démonstration sous 2 angles, version sans porté incluse. Garantie satisfait ou remboursé pendant 14 jours."
+    },
+
+    {
+      "slug": "la-vie-en-rose-daniela-andrade",
+      "title": "La Vie En Rose",
+      "artist": "Daniela Andrade (cover)",
+      "year": 2014,
+      "duration": "3:00",
+      "bpm": 70,
+      "bpm_felt": 70,
+      "time_signature": "4/4",
+      "style": "slow",
+      "style_label": "Slow francophone acoustique",
+      "level": "débutant",
+      "preparation_weeks": "4 à 5",
+      "price": 89,
+      "modules": 8,
+      "course_duration": "1h 45",
+      "review_count": 109,
+      "visual_color": "peach-1",
+
+      "seo_title": "Chorégraphie ouverture de bal sur La Vie En Rose (Daniela Andrade) | 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur La Vie En Rose de Daniela Andrade. Slow francophone acoustique, 8 modules vidéo, version 3:00. Accès à vie. 89€.",
+      "og_title": "Chorégraphie La Vie En Rose, Daniela Andrade",
+      "og_description": "Slow francophone chorégraphié sur La Vie En Rose. 8 modules, 5 Parts, 27 figures. Le standard français pour votre première danse.",
+
+      "hero_intro": "La Vie En Rose est l'un des plus grands classiques français de tous les temps. La version de Daniela Andrade (2014), guitare acoustique et voix douce, est devenue la référence moderne pour les mariages francophones. La version chorégraphiée fait 3:00, format idéal sans aucune coupe.",
+
+      "song_anecdote": "La Vie En Rose a été écrite par Édith Piaf et Louiguy en 1945. La chanson est devenue le symbole musical de Paris et de la romance française. Elle a été reprise par des centaines d'artistes. La version de Daniela Andrade (chanteuse canadienne d'origine hondurienne) en 2014 a fait découvrir le morceau à une nouvelle génération avec son arrangement acoustique épuré (juste guitare et voix). Pour les mariages francophones, c'est devenu une alternative moderne à Piaf, plus douce et plus adaptée à une chorégraphie.",
+
+      "song_wedding_reason": "La Vie En Rose Daniela Andrade est idéal pour les couples francophones qui veulent un slow français doux et moderne. Le tempo très lent (70 BPM) est confortable. La structure acoustique minimaliste (guitare + voix) crée une atmosphère intimiste. Et le symbole français qu'est cette chanson est immédiatement reconnu par tous les invités français.",
+
+      "music_intro": "Voici la structure de La Vie En Rose Daniela Andrade. Quatre paliers musicaux doux autour de la guitare acoustique.",
+      "music_timeline": [
+        {"label": "Intro guitare", "details": "Guitare seule, atmosphère feutrée. C'est l'entrée du couple."},
+        {"label": "Premier couplet", "details": "Voix douce de Daniela sur guitare."},
+        {"label": "Refrain", "details": "Voix qui monte, guitare qui s'étoffe. Pic émotionnel."},
+        {"label": "Outro doux", "details": "Retour à la guitare, dernière note. Signal du dip final."}
+      ],
+      "music_notes": [
+        "Le tempo très lent (70 BPM) demande de la précision mais reste accessible.",
+        "Le pic émotionnel arrive sur le refrain (« Quand il me prend dans ses bras »). C'est là que placer votre figure.",
+        "La dernière note est tenue 2 secondes. Synchronisez le dip final pile sur ce moment."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Cette chorégraphie respecte la simplicité acoustique de la version Daniela Andrade. Vocabulaire slow chorégraphié pur, accessible aux débutants. Un porté principal et un swan figure final.",
+      "choreo_arc": [
+        {"num": 1, "title": "Rencontre française", "time": "0:00–0:30", "mood": "Intro guitare", "key": "Cadre, premier tour"},
+        {"num": 2, "title": "Tendresse", "time": "0:30–1:00", "mood": "Couplet Daniela", "key": "Shadow, hairbrushes"},
+        {"num": 3, "title": "Pré-refrain", "time": "1:00–1:30", "mood": "Montée", "key": "Catwalk, plank"},
+        {"num": 4, "title": "Refrain", "time": "1:30–2:15", "mood": "Pic émotionnel", "key": "Walking, princess lift"},
+        {"num": 5, "title": "Outro", "time": "2:15–3:00", "mood": "Final", "key": "Swan, dip"}
+      ],
+      "choreo_parts": [
+        {
+          "num": 1,
+          "title": "Rencontre française",
+          "time": "0:00 – 0:30",
+          "music_description": "Intro guitare acoustique. Atmosphère feutrée parisienne. Vous arrivez tranquillement.",
+          "figures": [
+            {"name": "Walk-in slow", "desc": "Quatre pas lents."},
+            {"name": "Hands", "desc": "Prise de mains lente."},
+            {"name": "Closed position", "desc": "Cadre fermé doux."},
+            {"name": "Steps in rotation", "desc": "Quatre pas tournants doux."},
+            {"name": "Lady's turn", "desc": "Premier tour. Synchronisé sur l'entrée de la voix de Daniela."},
+            {"name": "Open position", "desc": "Mains tenues, respiration."}
+          ],
+          "transition": "Le couplet entre. La Part 2 va approfondir l'intimité."
+        },
+        {
+          "num": 2,
+          "title": "Tendresse",
+          "time": "0:30 – 1:00",
+          "music_description": "Premier couplet (« Des yeux qui font baisser les miens »). Voix douce de Daniela.",
+          "figures": [
+            {"name": "Shadow position", "desc": "Le marié passe derrière la mariée."},
+            {"name": "Hairbrushes", "desc": "Geste tendre."},
+            {"name": "Disconnect", "desc": "Séparation une mesure."},
+            {"name": "Hands reconnect", "desc": "Reprise de mains lente."},
+            {"name": "Closed position", "desc": "Retour cadre fermé."}
+          ],
+          "transition": "Le pré-refrain monte. La Part 3 va relancer."
+        },
+        {
+          "num": 3,
+          "title": "Pré-refrain",
+          "time": "1:00 – 1:30",
+          "music_description": "Pré-refrain (« Quand il me prend dans ses bras »).",
+          "figures": [
+            {"name": "Basket position", "desc": "Croisement des mains."},
+            {"name": "Plank figure", "desc": "La mariée s'étire à l'horizontale. Synchronisez sur « bras »."},
+            {"name": "Lady on the catwalk", "desc": "Quatre pas en avant."},
+            {"name": "Walking in rotation", "desc": "Six pas tournants."},
+            {"name": "Lady's turn", "desc": "Tour rapide pour préparer le lift."}
+          ],
+          "transition": "Le refrain entre. La Part 4 va atteindre le pic."
+        },
+        {
+          "num": 4,
+          "title": "Refrain",
+          "time": "1:30 – 2:15",
+          "music_description": "Refrain monté (« Il me dit des mots d'amour »). Voix de Daniela au maximum.",
+          "figures": [
+            {"name": "Tilt to the side", "desc": "Inclinaison lente."},
+            {"name": "Princess lift", "desc": "Le porté principal. Synchronisez sur le mot « amour »."},
+            {"name": "Pose hold", "desc": "Tenez 2 temps."},
+            {"name": "Slow descent", "desc": "Redescente contrôlée."},
+            {"name": "Body sweep", "desc": "Glissement latéral."}
+          ],
+          "transition": "L'outro entre. La Part 5 va clore."
+        },
+        {
+          "num": 5,
+          "title": "Outro",
+          "time": "2:15 – 3:00",
+          "music_description": "Outro doux, retour à la guitare. Dernière note tenue.",
+          "figures": [
+            {"name": "Walking in rotation", "desc": "Six pas tournants amples."},
+            {"name": "Lady's right turn", "desc": "Un tour ample."},
+            {"name": "Cradle to closed", "desc": "Petit cradle, retour en closed position."},
+            {"name": "Swan figure", "desc": "Pose cygne, bras déployés."},
+            {"name": "Spin out", "desc": "La mariée sort en pivot."},
+            {"name": "Steps in rotation", "desc": "Quatre derniers pas."},
+            {"name": "Final dip", "desc": "Dip final. Synchronisez sur la dernière note. Tenez 2 secondes."}
+          ],
+          "transition": "Restez figés 2 secondes."
+        }
+      ],
+
+      "figures_intro": "Cette chorégraphie utilise 27 figures sur 5 Parts. Vocabulaire slow chorégraphié français doux.",
+      "figures_list": [
+        {"name": "Walk-in slow", "level": "BASE", "loc": "Part 1"},
+        {"name": "Hands", "level": "BASE", "loc": "Part 1"},
+        {"name": "Closed position", "level": "BASE", "loc": "Part 1, 2, 5"},
+        {"name": "Steps in rotation", "level": "BASE", "loc": "Part 1, 5"},
+        {"name": "Lady's turn", "level": "BASE", "loc": "Part 1, 3"},
+        {"name": "Open position", "level": "BASE", "loc": "Part 1"},
+        {"name": "Shadow position", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Disconnect", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hands reconnect", "level": "BASE", "loc": "Part 2"},
+        {"name": "Basket position", "level": "BASE", "loc": "Part 3"},
+        {"name": "Plank figure", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Lady on the catwalk", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Walking in rotation", "level": "BASE", "loc": "Part 3, 5"},
+        {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Princess lift", "level": "INTER.", "loc": "Part 4"},
+        {"name": "Pose hold", "level": "BASE", "loc": "Part 4"},
+        {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Body sweep", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Lady's right turn", "level": "BASE", "loc": "Part 5"},
+        {"name": "Cradle to closed", "level": "FACILE", "loc": "Part 5"},
+        {"name": "Swan figure", "level": "BASE", "loc": "Part 5"},
+        {"name": "Spin out", "level": "BASE", "loc": "Part 5"},
+        {"name": "Final dip", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [
+        {"name": "Princess lift (Part 4)", "alternative": "Si le marié n'est pas à l'aise, remplacez par un « close hug » prolongé."}
+      ],
+
+      "tips": [
+        {"title": "Daniela Andrade ou Édith Piaf ?", "text": "La version originale Piaf (1947) est plus orchestrale et théâtrale. Andrade (2014) est plus douce et acoustique, mieux adaptée à une chorégraphie de mariage. Si vous voulez Piaf, demandez l'ajustement."},
+        {"title": "Synchronisez sur « amour »", "text": "Le mot signature de la chanson est « amour ». Synchronisez votre Princess lift sur le « amour » du refrain (« Il me dit des mots d'amour »)."},
+        {"title": "Les invités francophones écoutent les paroles", "text": "Contrairement aux chansons anglo-saxonnes, les invités francophones suivent activement les paroles. Synchronisez vos figures sur le sens : shadow sur « il me parle tout bas », plank sur « il me prend dans ses bras », lift sur « il me dit des mots d'amour »."},
+        {"title": "Pratiquez avec les vraies chaussures", "text": "Pratiquez avec des chaussures de hauteur similaire au moins trois fois avant le jour J."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps faut-il pour apprendre cette chorégraphie ?", "a": "Comptez 4 à 5 semaines. C'est l'une de nos chorégraphies les plus accessibles."},
+        {"q": "Daniela Andrade ou Édith Piaf ?", "a": "Pour la chorégraphie 3:00, c'est Andrade. Piaf originale dure 3:08 mais a un style plus théâtral. Si vous préférez Piaf, demandez l'ajustement personnalisé."},
+        {"q": "Qui s'occupe d'éditer la musique ?", "a": "Pas besoin. La version Andrade fait 3:00, parfait."},
+        {"q": "Y a-t-il une version sans porté ?", "a": "Oui. Close hug prolongé en alternative."},
+        {"q": "Et la version Louis Armstrong en anglais ?", "a": "Louis Armstrong (1950, 3:13) est en anglais avec un style jazz. Si vous préférez Armstrong, demandez l'ajustement."}
+      ],
+
+      "for_you_if": [
+        "Vous voulez le standard français le plus emblématique",
+        "Vous aimez les arrangements acoustiques minimalistes",
+        "Vous êtes débutants complets en danse",
+        "Vous voulez une chanson universellement reconnue par les francophones",
+        "Vous voulez une option avec ou sans porté",
+        "Vous avez 4 à 5 semaines pour préparer"
+      ],
+      "what_you_learn": [
+        "27 figures de slow chorégraphié français acoustique",
+        "Le Princess lift et son alternative close hug",
+        "Comment synchroniser sur les paroles françaises (« amour », « bras »)",
+        "Le swan figure, figure iconique du mariage",
+        "Comment exploiter une chanson francophone (les invités suivent les paroles)",
+        "Comment poser un dip final sur la dernière note tenue"
+      ],
+
+      "final_cta_text": "Vous êtes prêts à apprendre ce standard français en 4 à 5 semaines, depuis votre salon. Accès à vie aux 8 modules vidéo, démonstration sous 2 angles, version sans porté incluse. Garantie satisfait ou remboursé pendant 14 jours."
+    },
+
+    {
+      "slug": "photograph-ed-sheeran",
+      "title": "Photograph",
+      "artist": "Ed Sheeran",
+      "year": 2014,
+      "duration": "3:15",
+      "bpm": 108,
+      "bpm_felt": 108,
+      "time_signature": "4/4",
+      "style": "slow",
+      "style_label": "Slow folk-pop chorégraphié",
+      "level": "débutant à intermédiaire",
+      "preparation_weeks": "4 à 6",
+      "price": 89,
+      "modules": 9,
+      "course_duration": "2h 00",
+      "review_count": 142,
+      "visual_color": "peach-2",
+
+      "seo_title": "Chorégraphie ouverture de bal sur Photograph (Ed Sheeran) | 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur Photograph d'Ed Sheeran. Slow folk-pop chorégraphié, 9 modules vidéo, version 3:15. Accès à vie. 89€.",
+      "og_title": "Chorégraphie Photograph, Ed Sheeran",
+      "og_description": "Slow folk-pop chorégraphié sur Photograph d'Ed Sheeran. 9 modules, 5 Parts, 30 figures. Le slow folk-pop nostalgique pour votre première danse.",
+
+      "hero_intro": "Photograph d'Ed Sheeran est l'un des slows folk-pop les plus dansés en mariage depuis 2014. Mélodie nostalgique, voix douce, refrain orchestral émotionnel. La version chorégraphiée fait 3:15, format idéal pour une ouverture de bal.",
+
+      "song_anecdote": "Photograph a été écrite par Ed Sheeran et Johnny McDaid en 2014, parlant des relations à distance et de l'importance des souvenirs (« photographies »). Le morceau est un des plus émouvants de l'album X, et est utilisé en troisième position des slows mariage Ed Sheeran après Perfect et Thinking Out Loud. Sa structure musicale très claire en fait un choix particulièrement accessible pour des débutants.",
+
+      "song_wedding_reason": "Photograph est idéal pour les couples qui veulent un troisième slow d'Ed Sheeran moins joué que Perfect ou Thinking Out Loud (effet de différenciation). Le tempo à 108 BPM est confortable mais plus dynamique. Le thème de la chanson (souvenirs, photos, durée) résonne particulièrement avec un mariage.",
+
+      "music_intro": "Voici la structure de Photograph. Quatre paliers musicaux nets autour du folk-pop d'Ed.",
+      "music_timeline": [
+        {"label": "Intro guitare", "details": "Guitare acoustique. Entrée du couple."},
+        {"label": "Couplet", "details": "Voix d'Ed sur guitare."},
+        {"label": "Refrain", "details": "Cordes et batterie. Pic émotionnel."},
+        {"label": "Crescendo final", "details": "Voix au maximum. Signal du dip final."}
+      ],
+      "music_notes": [
+        "Tempo à 108 BPM, plus dynamique que Perfect (95 BPM).",
+        "Pic émotionnel sur le crescendo final (« Loving can heal »). Placer la figure spectaculaire.",
+        "Dernière note tenue 3 secondes. Synchroniser le dip final."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Cette chorégraphie suit l'arc émotionnel classique en cinq actes. Vocabulaire slow chorégraphié folk-pop, avec porté principal et swan final.",
+      "choreo_arc": [
+        {"num": 1, "title": "Rencontre folk", "time": "0:00–0:30", "mood": "Intro guitare", "key": "Cadre, tour"},
+        {"num": 2, "title": "Tendresse", "time": "0:30–1:00", "mood": "Couplet Ed", "key": "Shadow, hairbrushes"},
+        {"num": 3, "title": "Pré-refrain", "time": "1:00–1:40", "mood": "Montée", "key": "Catwalk, plank"},
+        {"num": 4, "title": "Refrain", "time": "1:40–2:25", "mood": "Pic", "key": "Walking, lift"},
+        {"num": 5, "title": "Crescendo", "time": "2:25–3:15", "mood": "Apothéose", "key": "Swan, dip"}
+      ],
+      "choreo_parts": [
+        {
+          "num": 1,
+          "title": "Rencontre folk",
+          "time": "0:00 – 0:30",
+          "music_description": "Intro guitare acoustique nostalgique. Entrée du couple.",
+          "figures": [
+            {"name": "Walk-in slow", "desc": "Quatre pas lents."},
+            {"name": "Hands", "desc": "Prise de mains."},
+            {"name": "Closed position", "desc": "Cadre fermé."},
+            {"name": "Steps in rotation", "desc": "Quatre pas tournants."},
+            {"name": "Lady's turn", "desc": "Premier tour. Synchronisé sur l'entrée de la voix d'Ed."},
+            {"name": "Open position", "desc": "Mains tenues."}
+          ],
+          "transition": "Le couplet entre."
+        },
+        {
+          "num": 2,
+          "title": "Tendresse",
+          "time": "0:30 – 1:00",
+          "music_description": "Couplet 1 (« Loving can hurt »). Voix d'Ed sur guitare.",
+          "figures": [
+            {"name": "Shadow position", "desc": "Marié derrière la mariée."},
+            {"name": "Hairbrushes", "desc": "Geste tendre."},
+            {"name": "Disconnect", "desc": "Séparation."},
+            {"name": "Hands reconnect", "desc": "Reprise de mains."},
+            {"name": "Closed position", "desc": "Retour cadre."}
+          ],
+          "transition": "Le pré-refrain monte."
+        },
+        {
+          "num": 3,
+          "title": "Pré-refrain",
+          "time": "1:00 – 1:40",
+          "music_description": "Pré-refrain (« So you can keep me »).",
+          "figures": [
+            {"name": "Basket position", "desc": "Croisement des mains."},
+            {"name": "Plank figure", "desc": "Mariée à l'horizontale."},
+            {"name": "Lady on the catwalk", "desc": "Quatre pas en avant."},
+            {"name": "Walking in rotation", "desc": "Six pas tournants."},
+            {"name": "Lady's turn", "desc": "Tour rapide."}
+          ],
+          "transition": "Le refrain entre."
+        },
+        {
+          "num": 4,
+          "title": "Refrain",
+          "time": "1:40 – 2:25",
+          "music_description": "Refrain orchestré (« We keep this love in a photograph »). Cordes, batterie.",
+          "figures": [
+            {"name": "Tilt to the side", "desc": "Inclinaison."},
+            {"name": "Princess lift", "desc": "Porté principal. Synchronisez sur « photograph »."},
+            {"name": "Pose hold", "desc": "2 temps."},
+            {"name": "Slow descent", "desc": "Redescente."},
+            {"name": "Body sweep", "desc": "Glissement latéral."}
+          ],
+          "transition": "Le crescendo final approche."
+        },
+        {
+          "num": 5,
+          "title": "Crescendo",
+          "time": "2:25 – 3:15",
+          "music_description": "Crescendo final (« Loving can heal »).",
+          "figures": [
+            {"name": "Walking in rotation large", "desc": "Six pas tournants amples."},
+            {"name": "Lady's right turn", "desc": "Un tour ample."},
+            {"name": "Cradle to closed", "desc": "Petit cradle."},
+            {"name": "Swan figure", "desc": "Pose cygne."},
+            {"name": "Spin out", "desc": "Pivot."},
+            {"name": "Steps in rotation", "desc": "Quatre derniers pas."},
+            {"name": "Final dip", "desc": "Dip final. Synchronisez sur la dernière note. Tenez 2 secondes."}
+          ],
+          "transition": "Restez figés 2 secondes."
+        }
+      ],
+
+      "figures_intro": "Cette chorégraphie utilise 30 figures sur 5 Parts. Vocabulaire slow chorégraphié folk-pop.",
+      "figures_list": [
+        {"name": "Walk-in slow", "level": "BASE", "loc": "Part 1"},
+        {"name": "Hands", "level": "BASE", "loc": "Part 1"},
+        {"name": "Closed position", "level": "BASE", "loc": "Part 1, 2, 5"},
+        {"name": "Steps in rotation", "level": "BASE", "loc": "Part 1, 5"},
+        {"name": "Lady's turn", "level": "BASE", "loc": "Part 1, 3"},
+        {"name": "Open position", "level": "BASE", "loc": "Part 1"},
+        {"name": "Shadow position", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Disconnect", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hands reconnect", "level": "BASE", "loc": "Part 2"},
+        {"name": "Basket position", "level": "BASE", "loc": "Part 3"},
+        {"name": "Plank figure", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Lady on the catwalk", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Walking in rotation", "level": "BASE", "loc": "Part 3, 5"},
+        {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Princess lift", "level": "INTER.", "loc": "Part 4"},
+        {"name": "Pose hold", "level": "BASE", "loc": "Part 4"},
+        {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Body sweep", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Lady's right turn", "level": "BASE", "loc": "Part 5"},
+        {"name": "Cradle to closed", "level": "FACILE", "loc": "Part 5"},
+        {"name": "Swan figure", "level": "BASE", "loc": "Part 5"},
+        {"name": "Spin out", "level": "BASE", "loc": "Part 5"},
+        {"name": "Final dip", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [
+        {"name": "Princess lift (Part 4)", "alternative": "Close hug prolongé en alternative."}
+      ],
+
+      "tips": [
+        {"title": "Perfect, Thinking Out Loud ou Photograph ?", "text": "Les trois sont d'Ed Sheeran. Perfect (95 BPM) = orchestral, grandiose. Thinking Out Loud (79 BPM) = soul, intime. Photograph (108 BPM) = folk-pop, nostalgique. Pour vous démarquer, Photograph."},
+        {"title": "Synchronisez sur « photograph »", "text": "Le mot signature de la chanson. Princess lift sur le « photograph » du refrain."},
+        {"title": "Tempo plus dynamique que les autres slows Ed", "text": "108 BPM, c'est plus dynamique. Préparez votre cardio si vous venez d'autres slows plus lents."},
+        {"title": "Pratiquez avec les vraies chaussures", "text": "Au moins trois fois avant le jour J."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps faut-il pour apprendre ?", "a": "4 à 6 semaines."},
+        {"q": "Photograph vs Perfect vs Thinking Out Loud ?", "a": "Trois slows Ed Sheeran différents. Perfect = grandiose, Thinking Out Loud = soul, Photograph = nostalgique. Photograph pour se démarquer."},
+        {"q": "Qui s'occupe d'éditer la musique ?", "a": "Nous nous en chargeons. Version 3:15."},
+        {"q": "Y a-t-il une version sans porté ?", "a": "Oui. Close hug prolongé."},
+        {"q": "Photograph fait combien à l'origine ?", "a": "4:18. Notre version chorégraphiée fait 3:15 (coupes que nous gérons)."}
+      ],
+
+      "for_you_if": [
+        "Vous voulez un slow Ed Sheeran moins joué que Perfect",
+        "Vous aimez le folk-pop nostalgique",
+        "Vous voulez un tempo plus dynamique que les autres slows Ed",
+        "Vous êtes débutants à intermédiaires",
+        "Vous voulez une option avec ou sans porté",
+        "Vous avez 4 à 6 semaines pour préparer"
+      ],
+      "what_you_learn": [
+        "30 figures de slow chorégraphié folk-pop",
+        "Le Princess lift et son alternative close hug",
+        "Comment synchroniser sur « photograph »",
+        "Le swan figure, figure iconique",
+        "Comment gérer un tempo plus dynamique (108 BPM)",
+        "Comment poser un dip final sur la dernière note"
+      ],
+
+      "final_cta_text": "Vous êtes prêts à apprendre ce slow folk-pop d'Ed Sheeran en 4 à 6 semaines, depuis votre salon. Accès à vie aux 9 modules vidéo, démonstration sous 2 angles, version sans porté incluse. Garantie satisfait ou remboursé pendant 14 jours."
+    },
+
+    {
+      "slug": "love-me-like-you-do-ellie-goulding",
+      "title": "Love Me Like You Do",
+      "artist": "Ellie Goulding",
+      "year": 2015,
+      "duration": "3:15",
+      "bpm": 100,
+      "bpm_felt": 100,
+      "time_signature": "4/4",
+      "style": "slow",
+      "style_label": "Slow pop électronique",
+      "level": "intermédiaire",
+      "preparation_weeks": "5 à 6",
+      "price": 89,
+      "modules": 9,
+      "course_duration": "2h 00",
+      "review_count": 113,
+      "visual_color": "peach-3",
+
+      "seo_title": "Chorégraphie ouverture de bal sur Love Me Like You Do (Ellie Goulding) | 89€",
+      "seo_description": "Apprenez votre ouverture de bal sur Love Me Like You Do d'Ellie Goulding. Slow pop chorégraphié, 9 modules vidéo, version 3:15. Accès à vie. 89€.",
+      "og_title": "Chorégraphie Love Me Like You Do, Ellie Goulding",
+      "og_description": "Slow pop chorégraphié sur Love Me Like You Do d'Ellie Goulding. 9 modules, 5 Parts, 30 figures. Le hit Fifty Shades pour votre première danse.",
+
+      "hero_intro": "Love Me Like You Do d'Ellie Goulding est devenu un slow mariage populaire depuis 2015. Tempo dynamique, voix éthérée, refrain orchestral électronique. La version chorégraphiée fait 3:15.",
+
+      "song_anecdote": "Love Me Like You Do a été écrite pour la bande-originale de Cinquante Nuances de Grey (2015). Le morceau est resté numéro un dans plus de quarante pays. Pour les mariages, la chanson est polarisante : certains couples adorent le côté pop puissant, d'autres trouvent l'association avec Fifty Shades problématique. Si vous êtes du premier camp, c'est une excellente ouverture de bal.",
+
+      "song_wedding_reason": "Love Me Like You Do est idéal pour les couples qui veulent un slow pop dynamique avec une dimension sensuelle assumée. Le tempo à 100 BPM est plus rapide que la moyenne des slows mariage. Le refrain orchestral créé une émotion immédiate.",
+
+      "music_intro": "Voici la structure de Love Me Like You Do. Quatre paliers pop électroniques.",
+      "music_timeline": [
+        {"label": "Intro doux", "details": "Synthétiseur doux. Entrée du couple."},
+        {"label": "Couplet", "details": "Voix éthérée d'Ellie."},
+        {"label": "Refrain orchestral", "details": "Cordes et batterie électronique. Pic émotionnel."},
+        {"label": "Crescendo final", "details": "Voix au maximum. Signal du dip."}
+      ],
+      "music_notes": [
+        "Tempo à 100 BPM, plus dynamique que les slows classiques.",
+        "Pic émotionnel sur le crescendo final (« Love me like you do »).",
+        "Dernière note tenue 3 secondes."
+      ],
+
+      "nb_parts": 5,
+      "choreo_overview": "Cette chorégraphie suit l'arc émotionnel classique avec une coloration pop électronique.",
+      "choreo_arc": [
+        {"num": 1, "title": "Rencontre pop", "time": "0:00–0:30", "mood": "Intro douce", "key": "Cadre, tour"},
+        {"num": 2, "title": "Tendresse", "time": "0:30–1:00", "mood": "Couplet Ellie", "key": "Shadow, hairbrushes"},
+        {"num": 3, "title": "Pré-refrain", "time": "1:00–1:40", "mood": "Montée", "key": "Catwalk, plank"},
+        {"num": 4, "title": "Refrain orchestral", "time": "1:40–2:25", "mood": "Pic", "key": "Walking, lift"},
+        {"num": 5, "title": "Crescendo final", "time": "2:25–3:15", "mood": "Apothéose", "key": "Swan, dip"}
+      ],
+      "choreo_parts": [
+        {
+          "num": 1,
+          "title": "Rencontre pop",
+          "time": "0:00 – 0:30",
+          "music_description": "Intro doux, synthétiseur. Entrée du couple.",
+          "figures": [
+            {"name": "Walk-in slow", "desc": "Quatre pas lents."},
+            {"name": "Hands", "desc": "Prise de mains."},
+            {"name": "Closed position", "desc": "Cadre fermé."},
+            {"name": "Steps in rotation", "desc": "Quatre pas tournants."},
+            {"name": "Lady's turn", "desc": "Premier tour. Synchronisé sur l'entrée de la voix."},
+            {"name": "Open position", "desc": "Mains tenues."}
+          ],
+          "transition": "Le couplet entre."
+        },
+        {
+          "num": 2,
+          "title": "Tendresse",
+          "time": "0:30 – 1:00",
+          "music_description": "Couplet 1 (« You're the light, you're the night »). Voix éthérée.",
+          "figures": [
+            {"name": "Shadow position", "desc": "Marié derrière la mariée."},
+            {"name": "Hairbrushes", "desc": "Geste tendre."},
+            {"name": "Disconnect", "desc": "Séparation."},
+            {"name": "Hands reconnect", "desc": "Reprise de mains."},
+            {"name": "Closed position", "desc": "Retour cadre."}
+          ],
+          "transition": "Le pré-refrain monte."
+        },
+        {
+          "num": 3,
+          "title": "Pré-refrain",
+          "time": "1:00 – 1:40",
+          "music_description": "Pré-refrain.",
+          "figures": [
+            {"name": "Basket position", "desc": "Croisement."},
+            {"name": "Plank figure", "desc": "Mariée à l'horizontale."},
+            {"name": "Lady on the catwalk", "desc": "Quatre pas en avant."},
+            {"name": "Walking in rotation", "desc": "Six pas tournants."},
+            {"name": "Lady's turn", "desc": "Tour rapide."}
+          ],
+          "transition": "Le refrain entre."
+        },
+        {
+          "num": 4,
+          "title": "Refrain orchestral",
+          "time": "1:40 – 2:25",
+          "music_description": "Refrain orchestré (« Love me like you do »). Cordes et batterie électronique.",
+          "figures": [
+            {"name": "Tilt to the side", "desc": "Inclinaison."},
+            {"name": "Princess lift", "desc": "Porté. Synchronisez sur « do » du refrain."},
+            {"name": "Pose hold", "desc": "2 temps."},
+            {"name": "Slow descent", "desc": "Redescente."},
+            {"name": "Body sweep", "desc": "Glissement latéral."}
+          ],
+          "transition": "Le crescendo final approche."
+        },
+        {
+          "num": 5,
+          "title": "Crescendo final",
+          "time": "2:25 – 3:15",
+          "music_description": "Refrain final pleine puissance.",
+          "figures": [
+            {"name": "Walking in rotation", "desc": "Six pas tournants amples."},
+            {"name": "Lady's right turn", "desc": "Un tour ample."},
+            {"name": "Cradle to closed", "desc": "Petit cradle."},
+            {"name": "Swan figure", "desc": "Pose cygne."},
+            {"name": "Spin out", "desc": "Pivot."},
+            {"name": "Steps in rotation", "desc": "Quatre derniers pas."},
+            {"name": "Final dip", "desc": "Dip final. Synchronisez sur la dernière note. Tenez 2 secondes."}
+          ],
+          "transition": "Restez figés 2 secondes."
+        }
+      ],
+
+      "figures_intro": "Cette chorégraphie utilise 30 figures sur 5 Parts. Vocabulaire slow chorégraphié pop électronique.",
+      "figures_list": [
+        {"name": "Walk-in slow", "level": "BASE", "loc": "Part 1"},
+        {"name": "Hands", "level": "BASE", "loc": "Part 1"},
+        {"name": "Closed position", "level": "BASE", "loc": "Part 1, 2, 5"},
+        {"name": "Steps in rotation", "level": "BASE", "loc": "Part 1, 5"},
+        {"name": "Lady's turn", "level": "BASE", "loc": "Part 1, 3"},
+        {"name": "Open position", "level": "BASE", "loc": "Part 1"},
+        {"name": "Shadow position", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hairbrushes", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Disconnect", "level": "FACILE", "loc": "Part 2"},
+        {"name": "Hands reconnect", "level": "BASE", "loc": "Part 2"},
+        {"name": "Basket position", "level": "BASE", "loc": "Part 3"},
+        {"name": "Plank figure", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Lady on the catwalk", "level": "FACILE", "loc": "Part 3"},
+        {"name": "Walking in rotation", "level": "BASE", "loc": "Part 3, 5"},
+        {"name": "Tilt to the side", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Princess lift", "level": "INTER.", "loc": "Part 4"},
+        {"name": "Pose hold", "level": "BASE", "loc": "Part 4"},
+        {"name": "Slow descent", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Body sweep", "level": "FACILE", "loc": "Part 4"},
+        {"name": "Lady's right turn", "level": "BASE", "loc": "Part 5"},
+        {"name": "Cradle to closed", "level": "FACILE", "loc": "Part 5"},
+        {"name": "Swan figure", "level": "BASE", "loc": "Part 5"},
+        {"name": "Spin out", "level": "BASE", "loc": "Part 5"},
+        {"name": "Final dip", "level": "BASE", "loc": "Part 5"}
+      ],
+      "lifts_list": [
+        {"name": "Princess lift (Part 4)", "alternative": "Close hug prolongé en alternative."}
+      ],
+
+      "tips": [
+        {"title": "Le côté Fifty Shades", "text": "La chanson est associée au film Cinquante Nuances de Grey. Certains invités feront le lien immédiatement, d'autres non. Si l'association vous gêne, préférez Make You Feel My Love ou A Thousand Years."},
+        {"title": "Tempo plus dynamique", "text": "100 BPM, c'est plus rapide que la moyenne des slows. Préparez votre cardio."},
+        {"title": "Synchronisez sur « do »", "text": "Princess lift sur le « do » du refrain."},
+        {"title": "Pratiquez avec les vraies chaussures", "text": "Trois fois minimum avant le jour J."}
+      ],
+
+      "faq": [
+        {"q": "Combien de temps faut-il ?", "a": "5 à 6 semaines."},
+        {"q": "L'association avec Fifty Shades est gênante ?", "a": "Pour certains couples oui. La chanson fonctionne aussi indépendamment du film, mais certains invités feront le lien. À vous de juger si c'est important."},
+        {"q": "Qui s'occupe d'éditer la musique ?", "a": "Nous nous en chargeons. Version 3:15."},
+        {"q": "Y a-t-il une version sans porté ?", "a": "Oui. Close hug prolongé."},
+        {"q": "Tempo plus rapide, est-ce gérable pour des débutants ?", "a": "Le niveau intermédiaire est dû au tempo (100 BPM). C'est gérable mais demande un peu plus de cardio que les slows lents."}
+      ],
+
+      "for_you_if": [
+        "Vous aimez la pop électronique sensuelle d'Ellie Goulding",
+        "Vous assumez l'association avec Cinquante Nuances de Grey",
+        "Vous voulez un tempo plus dynamique (100 BPM)",
+        "Vous êtes prêts à pratiquer 5 à 6 semaines",
+        "Vous voulez une option avec ou sans porté"
+      ],
+      "what_you_learn": [
+        "30 figures de slow chorégraphié pop électronique",
+        "Le Princess lift et son alternative close hug",
+        "Comment gérer un tempo plus dynamique",
+        "Le swan figure, figure iconique",
+        "Comment synchroniser sur « do »",
+        "Comment poser un dip final sur la dernière note"
+      ],
+
+      "final_cta_text": "Vous êtes prêts à apprendre ce slow pop électronique en 5 à 6 semaines, depuis votre salon. Accès à vie aux 9 modules vidéo, démonstration sous 2 angles, version sans porté incluse. Garantie satisfait ou remboursé pendant 14 jours."
     }
   ]
 }
