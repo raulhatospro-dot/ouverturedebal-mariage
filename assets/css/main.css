@@ -18,8 +18,10 @@
 }
 
 .blog-list-hero {
+  background: #F0E5D6;
+  padding: 64px 24px;
   text-align: center;
-  margin-bottom: 64px;
+  margin: 0 -24px 64px;
 }
 
 .blog-list-hero .eyebrow {
@@ -2264,6 +2266,7 @@ body {
    PAGE — header générique
 ============================================ */
 .page-header {
+  background: #F0E5D6;
   padding-block: clamp(4rem, 8vw, 7rem) clamp(3rem, 6vw, 5rem);
   border-bottom: 0.5px solid var(--border);
 }
@@ -3252,7 +3255,7 @@ body {
    CATALOGUE-PAGE (choregraphies.html — 56 cards)
 ============================================ */
 .catalogue-page {
-  background: #FBF8F3;
+  background: #F0E5D6;
   padding: 60px 48px 100px;
 }
 
