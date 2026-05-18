@@ -3256,7 +3256,17 @@ body {
 ============================================ */
 .catalogue-page {
   background: #F0E5D6;
-  padding: 60px 48px 100px;
+  padding: 0 48px 100px;
+}
+
+.catalogue-page-top {
+  background: #FBF8F3;
+  margin: 0 -48px;
+  padding: 60px 48px 32px;
+}
+
+.catalogue-page-top + .container {
+  padding-top: 32px;
 }
 
 .catalogue-page .container {

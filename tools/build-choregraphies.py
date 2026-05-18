@@ -13,7 +13,9 @@ Lit :
     choregraphies/{slug}.html  (un fichier par chanson)
 """
 
+import hashlib
 import json
+import random
 import re
 import subprocess
 from pathlib import Path
@@ -252,9 +254,23 @@ def get_data_modified_date():
 
 
 def render_related_cards(song, all_songs, n=3):
-    """Pick n other songs and render cards for cross-linking."""
+    """Pick n related songs (same style first) and render cards.
+    Deterministic per slug : same fiche → same reco, different fiche → different reco."""
     others = [s for s in all_songs if s["slug"] != song["slug"]]
-    related = others[:n] if len(others) >= n else others
+
+    # Bucket by style for relevance
+    same_style = [s for s in others if s.get("style") == song.get("style")]
+    other_style = [s for s in others if s.get("style") != song.get("style")]
+
+    # Deterministic shuffle from slug hash (variety without randomness)
+    seed = int(hashlib.md5(song["slug"].encode()).hexdigest()[:8], 16)
+    rng = random.Random(seed)
+    rng.shuffle(same_style)
+    rng.shuffle(other_style)
+
+    # Same style first, complete with other styles if needed
+    related = (same_style + other_style)[:n]
+
     items = []
     for s in related:
         items.append(f'''        <a href="{s['slug']}.html" class="choreo-related-card">

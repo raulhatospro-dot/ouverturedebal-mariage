@@ -68,50 +68,57 @@
 <main>
 
 <section class="catalogue-page">
-  <div class="container">
 
-    <header class="catalogue-page-header">
-      <div class="eyebrow">LE CATALOGUE</div>
-      <h1>Choisissez votre <em>chorégraphie</em>.</h1>
-      <p class="catalogue-page-intro">56 chorégraphies sur les plus belles chansons d'ouverture de bal. Trouvez la vôtre.</p>
-    </header>
+  <div class="catalogue-page-top">
+    <div class="container">
 
-    <div class="catalogue-search">
-      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#8A7968" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-        <circle cx="11" cy="11" r="8"/>
-        <path d="m21 21-4.35-4.35"/>
-      </svg>
-      <input type="text" id="search-input" placeholder="Rechercher une chanson ou un artiste…" aria-label="Rechercher" autocomplete="off" />
-      <button class="search-clear" id="search-clear" hidden aria-label="Effacer la recherche">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#8A7968" stroke-width="2" stroke-linecap="round" aria-hidden="true">
-          <line x1="18" y1="6" x2="6" y2="18"/>
-          <line x1="6" y1="6" x2="18" y2="18"/>
+      <header class="catalogue-page-header">
+        <div class="eyebrow">LE CATALOGUE</div>
+        <h1>Choisissez votre <em>chorégraphie</em>.</h1>
+        <p class="catalogue-page-intro">56 chorégraphies sur les plus belles chansons d'ouverture de bal. Trouvez la vôtre.</p>
+      </header>
+
+      <div class="catalogue-search">
+        <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#8A7968" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="11" cy="11" r="8"/>
+          <path d="m21 21-4.35-4.35"/>
         </svg>
-      </button>
-    </div>
-
-    <div class="catalogue-toolbar">
-      <div class="catalogue-filters" role="tablist" aria-label="Filtrer le catalogue">
-        <button class="filter-btn active" data-filter="all">Toutes (56)</button>
-        <button class="filter-btn" data-filter="new">Nouveautés</button>
-        <button class="filter-btn" data-filter="bestseller">Bestsellers</button>
-        <button class="filter-btn" data-filter="valse">Valse</button>
-        <button class="filter-btn" data-filter="slow">Slow</button>
-        <button class="filter-btn" data-filter="rock">Rock &amp; énergique</button>
-        <button class="filter-btn" data-filter="francais">Francophone</button>
-        <button class="filter-btn" data-filter="mix">MIX</button>
+        <input type="text" id="search-input" placeholder="Rechercher une chanson ou un artiste…" aria-label="Rechercher" autocomplete="off" />
+        <button class="search-clear" id="search-clear" hidden aria-label="Effacer la recherche">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#8A7968" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+            <line x1="18" y1="6" x2="6" y2="18"/>
+            <line x1="6" y1="6" x2="18" y2="18"/>
+          </svg>
+        </button>
       </div>
 
-      <div class="catalogue-sort">
-        <label for="sort-select">Trier par :</label>
-        <select id="sort-select">
-          <option value="popular">Plus populaires</option>
-          <option value="new">Nouveautés</option>
-          <option value="az">A → Z</option>
-          <option value="za">Z → A</option>
-        </select>
+      <div class="catalogue-toolbar">
+        <div class="catalogue-filters" role="tablist" aria-label="Filtrer le catalogue">
+          <button class="filter-btn active" data-filter="all">Toutes (56)</button>
+          <button class="filter-btn" data-filter="new">Nouveautés</button>
+          <button class="filter-btn" data-filter="bestseller">Bestsellers</button>
+          <button class="filter-btn" data-filter="valse">Valse</button>
+          <button class="filter-btn" data-filter="slow">Slow</button>
+          <button class="filter-btn" data-filter="rock">Rock &amp; énergique</button>
+          <button class="filter-btn" data-filter="francais">Francophone</button>
+          <button class="filter-btn" data-filter="mix">MIX</button>
+        </div>
+
+        <div class="catalogue-sort">
+          <label for="sort-select">Trier par :</label>
+          <select id="sort-select">
+            <option value="popular">Plus populaires</option>
+            <option value="new">Nouveautés</option>
+            <option value="az">A → Z</option>
+            <option value="za">Z → A</option>
+          </select>
+        </div>
       </div>
+
     </div>
+  </div>
+
+  <div class="container">
 
     <div class="catalogue-results-count" id="results-count" aria-live="polite"></div>
 
