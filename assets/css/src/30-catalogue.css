@@ -1,0 +1,330 @@
+/* ============================================
+   FILTRES catalogue
+============================================ */
+.filters {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+  margin-bottom: var(--space-10);
+  padding-bottom: var(--space-6);
+  border-bottom: 0.5px solid var(--border);
+}
+
+.filters__label {
+  font-size: var(--text-xs);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-right: var(--space-3);
+}
+
+.filters__btn {
+  padding: 0.55em 1.2em;
+  font-size: var(--text-sm);
+  border-radius: var(--radius-pill);
+  background: transparent;
+  color: var(--text-secondary);
+  border: 0.5px solid var(--border);
+  transition: all var(--t-fast);
+}
+
+.filters__btn:hover {
+  border-color: var(--text-primary);
+  color: var(--text-primary);
+}
+
+.filters__btn.is-active {
+  background: var(--text-primary);
+  color: var(--bg-primary);
+  border-color: var(--text-primary);
+}
+
+
+/* ============================================
+   CATALOGUE-PAGE (choregraphies.html — 56 cards)
+============================================ */
+.catalogue-page {
+  background: var(--bg-warm);
+  padding: 0 48px 100px;
+}
+
+.catalogue-page-top {
+  background: var(--bg-primary);
+  margin: 0 -48px;
+  padding: 60px 48px 32px;
+}
+
+.catalogue-page-top + .container {
+  padding-top: 32px;
+}
+
+.catalogue-page .container {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding-inline: 0;
+}
+
+.catalogue-page-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.catalogue-page-header .eyebrow {
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  letter-spacing: 2.5px;
+  color: var(--accent-bordeaux);
+  font-weight: 500;
+  margin-bottom: 16px;
+}
+
+.catalogue-page-header h1 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: clamp(36px, 4.5vw, 48px);
+  color: var(--text-primary);
+  font-weight: 400;
+  letter-spacing: -0.8px;
+  line-height: 1.1;
+  margin: 0 0 16px 0;
+}
+
+.catalogue-page-header h1 em {
+  color: var(--accent-bordeaux);
+  font-style: italic;
+  font-weight: 400;
+}
+
+.catalogue-page-intro {
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  color: var(--text-secondary);
+  max-width: 540px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.catalogue-search {
+  position: relative;
+  max-width: 520px;
+  margin: 0 auto 32px;
+}
+
+.catalogue-search .search-icon {
+  position: absolute;
+  top: 50%;
+  left: 18px;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+.catalogue-search input {
+  width: 100%;
+  padding: 16px 48px 16px 50px;
+  border: 1px solid var(--border);
+  border-radius: 100px;
+  background: var(--bg-white);
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+  color: var(--text-primary);
+  outline: none;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.catalogue-search input::placeholder {
+  color: var(--text-muted);
+}
+
+.catalogue-search input:focus {
+  border-color: var(--accent-bordeaux);
+  box-shadow: 0 0 0 3px rgba(168, 54, 76, 0.1);
+}
+
+.search-clear {
+  position: absolute;
+  top: 50%;
+  right: 14px;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: background 0.2s ease;
+}
+
+.search-clear:hover {
+  background: var(--bg-primary);
+}
+
+.catalogue-results-count {
+  font-family: 'Inter', sans-serif;
+  font-size: 13px;
+  color: var(--text-secondary);
+  margin-bottom: 24px;
+  min-height: 20px;
+}
+
+.catalogue-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 24px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+
+.catalogue-filters {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.filter-btn {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text-secondary);
+  padding: 8px 18px;
+  border-radius: 100px;
+  font-family: 'Inter', sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.filter-btn:hover {
+  border-color: var(--accent-bordeaux);
+  color: var(--accent-bordeaux);
+}
+
+.filter-btn.active {
+  background: var(--text-primary);
+  border-color: var(--text-primary);
+  color: var(--bg-primary);
+}
+
+.catalogue-sort {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: 'Inter', sans-serif;
+}
+
+.catalogue-sort label {
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+
+.catalogue-sort select {
+  border: 1px solid var(--border);
+  background: var(--bg-white);
+  color: var(--text-primary);
+  padding: 8px 32px 8px 14px;
+  border-radius: 100px;
+  font-family: 'Inter', sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%232B1F17' stroke-width='2'%3e%3cpolyline points='6 9 12 15 18 9'/%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+}
+
+.choreo-style-badge {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  background: var(--bg-primary);
+  padding: 4px 12px;
+  border-radius: 100px;
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  color: var(--text-primary);
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
+
+.card-badge {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  padding: 4px 10px;
+  border-radius: 100px;
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
+
+.card-badge-new {
+  background: var(--accent-bordeaux);
+  color: var(--bg-primary);
+}
+
+.card-badge-best {
+  background: var(--accent-gold);
+  color: var(--bg-primary);
+}
+
+.catalogue-empty {
+  text-align: center;
+  padding: 80px 24px;
+  font-family: 'Inter', sans-serif;
+}
+
+.catalogue-empty p {
+  color: var(--text-secondary);
+  margin-bottom: 24px;
+  font-size: 15px;
+}
+
+.reset-btn {
+  background: var(--text-primary);
+  color: var(--bg-primary);
+  border: none;
+  padding: 12px 28px;
+  border-radius: 100px;
+  font-family: 'Inter', sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+.reset-btn:hover {
+  opacity: 0.85;
+}
+
+@media (max-width: 1024px) {
+  .catalogue-page .catalogue-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 640px) {
+  .catalogue-page {
+    padding: 40px 20px 60px;
+  }
+  .catalogue-page .catalogue-grid {
+    grid-template-columns: 1fr;
+  }
+  .catalogue-toolbar {
+    flex-direction: column;
+  }
+  .catalogue-filters {
+    width: 100%;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    padding-bottom: 8px;
+    -webkit-overflow-scrolling: touch;
+  }
+  .filter-btn {
+    white-space: nowrap;
+  }
+}

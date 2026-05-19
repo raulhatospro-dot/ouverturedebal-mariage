@@ -1,0 +1,82 @@
+/* ========================================
+   FORMULES — marqueurs inline (— / +)
+   Le ::before historique est désactivé,
+   on utilise un <span class="formule-mark"> en HTML
+======================================== */
+body .formule__features li::before {
+  display: none !important;
+}
+
+body .formule__features li {
+  gap: 12px;
+}
+
+.formule-mark {
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 14px;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  line-height: 1.6;
+}
+
+.formule-mark--dash {
+  color: var(--text-dim);
+}
+
+.formule--featured .formule-mark--dash {
+  color: rgba(232, 220, 208, 0.5);
+}
+
+.formule-mark--plus {
+  color: var(--accent-success-dark);
+  font-weight: 600;
+  font-size: 1.1em;
+}
+
+.formule--featured .formule-mark--plus {
+  color: var(--accent-success);
+}
+
+
+/* ============================================
+   COMPARE (formules)
+============================================ */
+.compare {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--text-sm);
+}
+
+.compare th,
+.compare td {
+  text-align: left;
+  padding: var(--space-4) var(--space-3);
+  border-bottom: 0.5px solid var(--border);
+  vertical-align: middle;
+}
+
+.compare th {
+  font-family: var(--font-serif);
+  font-size: var(--text-lg);
+  font-weight: 500;
+  letter-spacing: -0.01em;
+}
+
+.compare th:not(:first-child),
+.compare td:not(:first-child) {
+  text-align: center;
+}
+
+.compare td:first-child {
+  color: var(--text-secondary);
+}
+
+.compare__check {
+  color: var(--accent-bordeaux);
+  font-size: var(--text-lg);
+}
+
+.compare__dash {
+  color: var(--text-light);
+}

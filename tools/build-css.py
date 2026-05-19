@@ -27,10 +27,26 @@ OUT_CSS = ROOT / "assets" / "css" / "main.css"
 VERSION_FILE = ROOT / "assets" / "css" / ".version"
 
 SOURCES = [
+    # Fondations
     "00-reset.css",
     "01-variables.css",
     "02-components.css",
-    "10-main.css",
+    # Base & layout partagés
+    "10-base.css",
+    "11-nav.css",
+    "12-footer.css",
+    "13-shared.css",
+    # Pages spécifiques
+    "20-home.css",
+    "30-catalogue.css",
+    "40-fiche.css",
+    "50-blog.css",
+    "60-formules.css",
+    "70-a-propos.css",
+    "80-contact.css",
+    "90-legal.css",
+    # Media queries en dernier (cascade)
+    "99-responsive.css",
 ]
 
 BANNER_TMPL = "\n/* {sep}\n   {name}\n   {sep} */\n\n"

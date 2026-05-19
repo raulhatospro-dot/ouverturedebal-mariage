@@ -1,0 +1,93 @@
+/* ============================================
+   RESPONSIVE
+============================================ */
+@media (max-width: 960px) {
+  .hero__grid { grid-template-columns: 1fr; }
+  .hero__visual { margin-inline: auto; }
+  .why { grid-template-columns: 1fr; gap: var(--space-8); }
+  .choreo-grid { grid-template-columns: repeat(2, 1fr); }
+  .formules-grid { grid-template-columns: 1fr; }
+  .testimonials { grid-template-columns: 1fr; }
+  .footer__top { grid-template-columns: 1fr 1fr; }
+  .footer__brand { grid-column: 1 / -1; }
+  .product { grid-template-columns: 1fr; }
+  .product__info { position: static; }
+  .story,
+  .story--reverse { grid-template-columns: 1fr; }
+  .contact-grid { grid-template-columns: 1fr; }
+  .cta-banner { grid-template-columns: 1fr; }
+  .cta-banner__actions { justify-content: flex-start; }
+  .section-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero-arch {
+    width: 260px;
+    height: 320px;
+  }
+  .hero__visual {
+    height: 400px;
+  }
+  .hero {
+    padding-bottom: 90px;
+  }
+  .hero-wave {
+    height: 70px;
+  }
+}
+
+@media (max-width: 720px) {
+  .nav__menu,
+  .nav__cta > .btn {
+    display: none;
+  }
+
+  .burger { display: block; }
+
+  .nav__menu.is-open {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: var(--bg-primary);
+    border-bottom: 0.5px solid var(--border);
+    padding: var(--space-6) var(--container-pad);
+    gap: var(--space-5);
+    align-items: flex-start;
+  }
+
+  .nav__menu.is-open a[aria-current="page"]::after {
+    display: none;
+  }
+
+  .nav__menu.is-open + .nav__cta .btn--dark {
+    display: none;
+  }
+
+  .hero__floating { left: 1rem; min-width: 0; padding: var(--space-3); }
+  .hero__floating-thumb { width: 44px; height: 44px; }
+
+  .choreo-grid { grid-template-columns: 1fr; }
+
+  .footer__top { grid-template-columns: 1fr; }
+  .footer__bottom {
+    flex-direction: column;
+    gap: var(--space-4);
+    text-align: center;
+  }
+
+  .modules__item {
+    grid-template-columns: 40px 1fr;
+  }
+
+  .modules__duration {
+    grid-column: 2;
+  }
+
+  .product__meta { grid-template-columns: 1fr 1fr; }
+}

@@ -1,0 +1,324 @@
+/* ============================================
+   SECTION HEADER
+============================================ */
+.section-header {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--space-6);
+  margin-bottom: var(--space-12);
+}
+
+.section-header--center {
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.section-header__title {
+  font-family: var(--font-serif);
+  font-size: var(--text-5xl);
+  font-weight: 500;
+  line-height: 1.04;
+  letter-spacing: -0.02em;
+  max-width: 22ch;
+  color: var(--text-primary);
+}
+
+.section--dark .section-header__title {
+  color: var(--bg-white);
+}
+
+.section-header__title em {
+  font-style: italic;
+  color: var(--accent-bordeaux);
+  font-weight: 400;
+}
+
+.section-header__intro {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-5);
+}
+
+.section-header__link {
+  font-size: var(--text-sm);
+  font-weight: 500;
+  border-bottom: 1px solid currentColor;
+  padding-bottom: 3px;
+  transition: color var(--t-fast);
+}
+
+.section-header__link:hover {
+  color: var(--accent-bordeaux);
+}
+
+
+/* ============================================
+   PAGE — header générique
+============================================ */
+.page-header {
+  background: var(--bg-warm);
+  padding-block: clamp(4rem, 8vw, 7rem) clamp(3rem, 6vw, 5rem);
+  border-bottom: 0.5px solid var(--border);
+}
+
+.page-header__inner {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-5);
+  max-width: 56rem;
+}
+
+.page-header__title {
+  font-family: var(--font-serif);
+  font-size: var(--text-5xl);
+  font-weight: 500;
+  line-height: 1.02;
+  letter-spacing: -0.025em;
+}
+
+.page-header__title em {
+  font-style: italic;
+  color: var(--accent-bordeaux);
+  font-weight: 400;
+}
+
+.page-header__subtitle {
+  font-size: var(--text-lg);
+  color: var(--text-secondary);
+  max-width: 44rem;
+  line-height: 1.55;
+}
+
+
+/* ============================================
+   CTA banner
+============================================ */
+.cta-banner {
+  background: var(--bg-dark);
+  color: var(--text-light);
+  padding: clamp(3rem, 6vw, 6rem);
+  border-radius: var(--radius-lg);
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: var(--space-6);
+  align-items: center;
+}
+
+.cta-banner__title {
+  font-family: var(--font-serif);
+  font-size: var(--text-3xl);
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  color: var(--bg-white);
+}
+
+.cta-banner__title em {
+  font-style: italic;
+  color: var(--accent-peach-1);
+  font-weight: 400;
+}
+
+.cta-banner__actions {
+  display: flex;
+  gap: var(--space-4);
+  justify-content: flex-end;
+  flex-wrap: wrap;
+}
+
+
+/* ============================================
+   COOKIE BANNER
+============================================ */
+.cookie-banner {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  right: 20px;
+  z-index: 9999;
+  background: var(--text-primary);
+  color: var(--bg-primary);
+  border-radius: 12px;
+  box-shadow: 0 -4px 24px rgba(43, 31, 23, 0.25);
+  padding: 20px 24px;
+  transform: translateY(calc(100% + 40px));
+  opacity: 0;
+  transition: transform 0.4s ease, opacity 0.4s ease;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.cookie-banner-visible {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.cookie-banner-inner {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.cookie-banner-icon {
+  font-size: 28px;
+  flex-shrink: 0;
+}
+
+.cookie-banner-text {
+  flex: 1;
+  min-width: 280px;
+}
+
+.cookie-banner-title {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+.cookie-banner-description {
+  font-family: 'Inter', sans-serif;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--border);
+}
+
+.cookie-banner-description a {
+  color: var(--accent-peach-1);
+  text-decoration: underline;
+}
+
+.cookie-banner-description a:hover {
+  color: var(--bg-primary);
+}
+
+.cookie-banner-actions {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.cookie-btn {
+  padding: 10px 18px;
+  border-radius: 100px;
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.2s ease;
+  border: none;
+}
+
+.cookie-btn-secondary {
+  background: transparent;
+  border: 1px solid var(--bg-primary);
+  color: var(--bg-primary);
+}
+
+.cookie-btn-secondary:hover {
+  background: rgba(251, 248, 243, 0.1);
+}
+
+.cookie-btn-primary {
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  font-weight: 600;
+  padding: 10px 22px;
+}
+
+.cookie-btn-primary:hover {
+  background: var(--bg-white);
+}
+
+@media (max-width: 640px) {
+  .cookie-banner {
+    bottom: 12px;
+    left: 12px;
+    right: 12px;
+    padding: 16px 18px;
+  }
+  .cookie-banner-inner {
+    gap: 14px;
+  }
+  .cookie-banner-icon {
+    font-size: 24px;
+  }
+  .cookie-banner-title {
+    font-size: 16px;
+  }
+  .cookie-banner-description {
+    font-size: 12px;
+  }
+  .cookie-banner-actions {
+    width: 100%;
+    justify-content: flex-end;
+  }
+  .cookie-btn {
+    padding: 9px 14px;
+    font-size: 11px;
+  }
+}
+
+
+/* ============================================
+   FADE-IN (scroll animations)
+============================================ */
+.fade-up {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 700ms ease, transform 700ms cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+
+.fade-up.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fade-up {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+  html { scroll-behavior: auto; }
+}
+
+
+/* ============================================
+   GRILLE CHORÉGRAPHIES
+============================================ */
+.choreo-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-8) var(--space-6);
+}
+
+/* ============================================
+   GRILLE FORMULES
+============================================ */
+.formules-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-6);
+  align-items: stretch;
+}
+
+/* ============================================
+   TÉMOIGNAGES (split)
+============================================ */
+.testimonials {
+  display: grid;
+  grid-template-columns: 4fr 6fr;
+  gap: clamp(2rem, 6vw, 6rem);
+  align-items: start;
+}
+
+.testimonials__quotes {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-5);
+}

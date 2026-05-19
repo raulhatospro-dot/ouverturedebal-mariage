@@ -1,0 +1,48 @@
+/* ============================================
+   BASE
+============================================ */
+body {
+  font-family: var(--font-sans);
+  font-size: var(--text-md);
+  color: var(--text-primary);
+  background: var(--bg-primary);
+  font-feature-settings: 'ss01', 'ss02', 'cv11';
+  font-optical-sizing: auto;
+}
+
+::selection {
+  background: var(--accent-bordeaux);
+  color: var(--bg-white);
+}
+
+
+/* ============================================
+   LAYOUT
+============================================ */
+.container {
+  width: 100%;
+  max-width: var(--container-max);
+  margin-inline: auto;
+  padding-inline: var(--container-pad);
+}
+
+.section {
+  padding-block: clamp(4rem, 9vw, 8rem);
+}
+
+.section--tight {
+  padding-block: clamp(3rem, 6vw, 5rem);
+}
+
+.section--white {
+  background: var(--bg-white);
+}
+
+.section--dark {
+  background: var(--bg-dark);
+  color: var(--text-light);
+}
+
+.section--cream {
+  background: var(--bg-primary);
+}
