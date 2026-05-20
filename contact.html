@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; frame-ancestors 'self'; base-uri 'self'; form-action 'self' mailto:;">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; frame-ancestors 'self'; base-uri 'self'; form-action 'self' mailto: https://api.web3forms.com;">
   <meta http-equiv="Permissions-Policy" content="camera=(), microphone=(), geolocation=(), payment=()">
   <meta name="theme-color" content="#FBF8F3">
   <meta name="format-detection" content="telephone=no">
@@ -53,7 +53,7 @@
       <span class="label">Contact</span>
       <h1 class="page-header__title">Une question avant de <em>commencer</em> ?</h1>
       <p class="page-header__subtitle">
-        Nous répondons à tous les messages sous 24 heures, du lundi au vendredi. Pour les demandes de devis sur-mesure, comptez 48 heures.
+        Nous vous répondons le plus rapidement possible.
       </p>
     </div>
   </div>
@@ -68,21 +68,16 @@
           <h4>Écrire</h4>
           <p><a href="mailto:hello@ouverturedebal-mariage.fr">hello@ouverturedebal-mariage.fr</a></p>
         </div>
-        <div class="contact-info__item">
-          <h4>Appeler</h4>
-          <p>+33 (0)6 12 34 56 78</p>
-        </div>
-        <div class="contact-info__item">
-          <h4>Studio</h4>
-          <p>24 rue de Charonne<br />75011 Paris</p>
-        </div>
-        <div class="contact-info__item">
-          <h4>Horaires</h4>
-          <p>Lundi — vendredi<br />10 h — 19 h</p>
-        </div>
       </aside>
 
-      <form class="form fade-up" action="mailto:hello@ouverturedebal-mariage.fr" method="post" enctype="text/plain">
+      <form class="form fade-up" action="https://api.web3forms.com/submit" method="POST">
+
+        <!-- Configuration Web3Forms -->
+        <input type="hidden" name="access_key" value="23244c56-0d2b-426c-a133-acc9c03c21f2">
+        <input type="hidden" name="subject" value="Nouveau message — Ouverture de Bal">
+        <input type="hidden" name="from_name" value="Site Ouverture de Bal">
+        <input type="hidden" name="redirect" value="https://ouverturedebal-mariage.fr/merci.html">
+        <input type="checkbox" name="botcheck" style="display:none" tabindex="-1" autocomplete="off">
 
         <div class="field">
           <label for="name">Nom et prénom</label>
