@@ -59,7 +59,7 @@
   <link rel="stylesheet" href="../assets/fonts/google-fonts.css">
 
   <!-- CSS -->
-  <link rel="stylesheet" href="../assets/css/main.css">
+  <link rel="stylesheet" href="../assets/css/main.css?v=b6684af4">
 </head>
 <body>
 
@@ -77,7 +77,14 @@
     </nav>
 
     <div class="nav__cta">
-      <a href="../choregraphies.html" class="btn btn--dark btn--sm">
+            <a href="../panier.html" class="nav__cart" aria-label="Voir mon panier">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/>
+          <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/>
+        </svg>
+        <span class="nav__cart-badge" data-cart-badge hidden></span>
+      </a>
+<a href="../choregraphies.html" class="btn btn--dark btn--sm">
         Commencer <span class="arrow" aria-hidden="true">→</span>
       </a>
       <button class="burger" data-burger aria-label="Ouvrir le menu" aria-expanded="false">
@@ -329,6 +336,7 @@
   </div>
 </footer>
 
+<script src="../assets/js/cart.js" defer></script>
 <script src="../assets/js/menu.js" defer></script>
 </body>
 </html>

@@ -188,7 +188,7 @@
 }</script>
 
   <link rel="stylesheet" href="../assets/fonts/google-fonts.css">
-  <link rel="stylesheet" href="../assets/css/main.css?v=a816c80e">
+  <link rel="stylesheet" href="../assets/css/main.css?v=b6684af4">
 </head>
 <body>
 
@@ -202,6 +202,13 @@
       <a href="../a-propos.html">À propos</a>
     </nav>
     <div class="nav__cta">
+      <a href="../panier.html" class="nav__cart" aria-label="Voir mon panier">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/>
+          <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/>
+        </svg>
+        <span class="nav__cart-badge" data-cart-badge hidden></span>
+      </a>
       <a href="../choregraphies.html" class="btn btn--dark btn--sm">Commencer <span class="arrow">→</span></a>
       <button class="burger" data-burger aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
     </div>
@@ -235,7 +242,22 @@
 
         <div class="choreo-cta-block">
           <span class="choreo-price">89€</span>
-          <a href="#" class="btn btn--bordeaux">Acheter, accès à vie <span class="arrow">→</span></a>
+          <button type="button" class="btn btn--bordeaux"
+                  data-add-to-cart
+                  data-item-id="rewrite-the-stars-anne-marie-james-arthur"
+                  data-item-title="Rewrite The Stars"
+                  data-item-artist="Anne-Marie & James Arthur"
+                  data-item-price="89"
+                  data-item-type="choregraphie"
+                  data-item-color="peach-3"
+                  data-item-style="Slow pop chorégraphié en duo"
+                  data-item-level="débutant à intermédiaire"
+                  data-item-modules="9"
+                  data-item-duration="{{COURSE_DURATION}}"
+                  data-item-prep="4 à 6">
+            <span data-add-label>Ajouter au panier</span>
+            <span class="arrow">→</span>
+          </button>
           <span class="choreo-cta-note">Paiement sécurisé · Garantie 14 jours</span>
         </div>
 
@@ -986,6 +1008,8 @@
   </div>
 </footer>
 
+<script src="../assets/js/cart.js" defer></script>
+<script src="../assets/js/cart-buttons.js" defer></script>
 <script src="../assets/js/menu.js" defer></script>
 </body>
 </html>

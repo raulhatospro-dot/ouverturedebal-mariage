@@ -40,6 +40,8 @@ SOURCES = [
     "20-home.css",
     "30-catalogue.css",
     "40-fiche.css",
+    "45-cart.css",
+    "47-course.css",
     "50-blog.css",
     "60-formules.css",
     "70-a-propos.css",
@@ -71,8 +73,9 @@ def build_bundle() -> tuple[str, str]:
 
 def update_html_cache_busters(version: str) -> int:
     """Replace main.css?v=XXX with main.css?v={version} in all HTML files. Returns count."""
-    pattern = re.compile(r'(main\.css\?v=)[a-zA-Z0-9]+')
-    replacement = rf"\g<1>{version}"
+    # Match both `main.css?v=XXX` and `main.css` (without version)
+    pattern = re.compile(r'main\.css(\?v=[a-zA-Z0-9]+)?')
+    replacement = f"main.css?v={version}"
     updated = 0
     for html in ROOT.rglob("*.html"):
         # Skip backup/temp files

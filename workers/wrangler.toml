@@ -1,0 +1,27 @@
+# Configuration Cloudflare Worker — Ouverture de Bal
+#
+# Déploiement :
+#   1. Installer wrangler : npm install -g wrangler
+#   2. Se connecter : wrangler login
+#   3. Créer le KV namespace : wrangler kv:namespace create ACCESS_TOKENS
+#      → copier l'id retourné dans le bloc [[kv_namespaces]] ci-dessous
+#   4. Configurer les secrets :
+#      wrangler secret put STRIPE_SECRET_KEY
+#      wrangler secret put STRIPE_WEBHOOK_SECRET
+#      wrangler secret put RESEND_API_KEY
+#   5. Déployer : wrangler deploy
+
+name = "ouverturedebal-access"
+main = "access-token.js"
+compatibility_date = "2026-05-01"
+
+# Variables d'environnement non-secrètes
+[vars]
+SITE_URL = "https://ouverturedebal-mariage.fr"
+ALLOWED_ORIGIN = "https://ouverturedebal-mariage.fr"
+
+# KV namespace pour stocker les tokens d'accès
+# Lance `wrangler kv:namespace create ACCESS_TOKENS` puis colle l'id ci-dessous
+[[kv_namespaces]]
+binding = "ACCESS_TOKENS"
+id = "REPLACE_WITH_KV_NAMESPACE_ID"
