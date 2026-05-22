@@ -1,0 +1,206 @@
+{
+  "title": "Ed Sheeran - Perfect (Official Music Video)",
+  "duration_estimated": "04:42",
+  "style_detected": "slow",
+  "level_detected": "intermédiaire",
+  "sections": [
+    {
+      "name": "Intro (Arrival & Reunion)",
+      "start": "00:00",
+      "end": "00:42",
+      "mood": "anticipation, joie",
+      "figures": [
+        {
+          "name": "Walk-in slow",
+          "start": "00:14",
+          "duration_sec": 2,
+          "description": "Ed Sheeran descend du train, sac à dos."
+        },
+        {
+          "name": "Steps towards each other",
+          "start": "00:25",
+          "duration_sec": 1,
+          "description": "Zoey Deutch et Ed Sheeran se voient et s'approchent."
+        },
+        {
+          "name": "Closed position",
+          "start": "00:26",
+          "duration_sec": 3,
+          "description": "Zoey touche la tête d'Ed, interaction affectueuse."
+        },
+        {
+          "name": "Closed position",
+          "start": "00:36",
+          "duration_sec": 3,
+          "description": "Étreinte chaleureuse entre Ed et Zoey après l'arrivée."
+        }
+      ]
+    },
+    {
+      "name": "Adventure (Daytime Fun)",
+      "start": "00:42",
+      "end": "01:28",
+      "mood": "ludique, complicité",
+      "figures": [
+        {
+          "name": "Shadow position",
+          "start": "01:09",
+          "duration_sec": 2,
+          "description": "Ed aide Zoey à skier en la tenant par la taille, position d'apprentissage."
+        },
+        {
+          "name": "Shadow position",
+          "start": "01:15",
+          "duration_sec": 1,
+          "description": "Ed guide Zoey par les bâtons de ski."
+        },
+        {
+          "name": "Closed position slow",
+          "start": "01:25",
+          "duration_sec": 2,
+          "description": "Le couple est assis côte à côte sur le télésiège, s'appuyant l'un sur l'autre."
+        }
+      ]
+    },
+    {
+      "name": "Evening (Social & Intimate)",
+      "start": "01:28",
+      "end": "03:38",
+      "mood": "festif, romantique",
+      "figures": [
+        {
+          "name": "Closed position",
+          "start": "01:32",
+          "duration_sec": 2,
+          "description": "Le couple se rapproche sur le télésiège, presque un baiser."
+        },
+        {
+          "name": "Closed position",
+          "start": "01:39",
+          "duration_sec": 2,
+          "description": "Ed enserre Zoey de son bras, assis avec des amis."
+        },
+        {
+          "name": "Lady's turn",
+          "start": "02:30",
+          "duration_sec": 1,
+          "description": "Ed fait faire un tour à Zoey sur la neige."
+        },
+        {
+          "name": "Hands",
+          "start": "02:32",
+          "duration_sec": 2,
+          "description": "Le couple se regarde et se tient la main."
+        },
+        {
+          "name": "Lady's turn",
+          "start": "02:35",
+          "duration_sec": 1,
+          "description": "Zoey fait un tour sur elle-même en riant."
+        },
+        {
+          "name": "Steps towards each other",
+          "start": "02:45",
+          "duration_sec": 2,
+          "description": "Ed et Zoey marchent vers leur chalet."
+        },
+        {
+          "name": "Connected pose",
+          "start": "03:23",
+          "duration_sec": 4,
+          "description": "Zoey met sa main sur la jambe d'Ed pendant qu'il joue de la guitare."
+        }
+      ]
+    },
+    {
+      "name": "Climax (Night Dance & Connection)",
+      "start": "03:38",
+      "end": "04:33",
+      "mood": "magique, profond, intime",
+      "figures": [
+        {
+          "name": "Walk-in slow",
+          "start": "03:41",
+          "duration_sec": 2,
+          "description": "Le couple sort du chalet sous la neige."
+        },
+        {
+          "name": "Closed position slow",
+          "start": "03:45",
+          "duration_sec": 1,
+          "description": "Première étreinte de danse sous la neige."
+        },
+        {
+          "name": "Steps in rotation slow",
+          "start": "03:47",
+          "duration_sec": 1,
+          "description": "Le couple tourne doucement enlacé."
+        },
+        {
+          "name": "Disconnect",
+          "start": "03:48",
+          "duration_sec": 1,
+          "description": "Brève séparation avant de se regarder tendrement."
+        },
+        {
+          "name": "Closed position slow",
+          "start": "03:49",
+          "duration_sec": 3,
+          "description": "Étreinte rapprochée, regards intenses."
+        },
+        {
+          "name": "Princess lift",
+          "start": "03:52",
+          "duration_sec": 3,
+          "description": "Ed soulève Zoey en la faisant tourner."
+        },
+        {
+          "name": "Closed position",
+          "start": "03:55",
+          "duration_sec": 1,
+          "description": "Retour à une étreinte serrée."
+        },
+        {
+          "name": "Falling playfully",
+          "start": "03:57",
+          "duration_sec": 3,
+          "description": "Le couple tombe dans la neige en riant."
+        },
+        {
+          "name": "Closed position slow",
+          "start": "04:10",
+          "duration_sec": 5,
+          "description": "Silhouettes du couple enlacé, se balançant sous les étoiles."
+        },
+        {
+          "name": "Walking in rotation slow",
+          "start": "04:20",
+          "duration_sec": 5,
+          "description": "Le couple tourne en marchant, toujours enlacé."
+        }
+      ]
+    },
+    {
+      "name": "Outro (Morning After)",
+      "start": "04:33",
+      "end": "04:42",
+      "mood": "paisible, doux",
+      "figures": [
+        {
+          "name": "Cradle",
+          "start": "04:33",
+          "duration_sec": 5,
+          "description": "Le couple dort enlacé sous une couverture."
+        }
+      ]
+    }
+  ],
+  "lifts_detected": [
+    {
+      "name": "Princess lift",
+      "start": "03:52",
+      "comment": "Un soulèvement avec rotation par le danseur."
+    }
+  ],
+  "synthesis": "Cette vidéo est le clip musical de 'Perfect' d'Ed Sheeran, mettant en scène des interactions romantiques et ludiques plutôt qu'une chorégraphie de bal formelle. Le style est slow et intime, mélangeant des moments d'affection naturelle avec quelques figures de danse simples. La présence d'un 'Princess lift' classifie le niveau comme intermédiaire, bien que la majorité des mouvements soient accessibles."
+}
